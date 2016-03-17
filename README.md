@@ -1,6 +1,6 @@
 ## Effects bibliography
 
-[Pull requests](https://github.com/yallop/effects-bibliography/pulls) welcome!  You can edit this file directly by clicking the `edit` icon on the [README page](https://github.com/metaocaml/metaocaml-bibliography/blob/master/README.md).
+[Pull requests](https://github.com/yallop/effects-bibliography/pulls) welcome!  You can edit this file directly by clicking [**edit**](https://github.com/yallop/effects-bibliography/edit/master/README.md).
 
 Note: end a line with two spaces to force a line break.
 

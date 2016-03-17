@@ -1,0 +1,5 @@
+language: python
+python:
+  - "3.4"
+install: pip install requests markdown beautifulsoup4
+script: python check_urls.py README.md

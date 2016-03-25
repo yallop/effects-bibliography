@@ -20,5 +20,17 @@ Note: end a line with two spaces to force a line break.
   ([paper](http://homepages.inf.ed.ac.uk/gdp/publications/Effect_Handlers.pdf))  
   by Gordon Plotkin and Matija Pretnar
 
+### 1991
+
+ * **Notions of computation and monads** (Information and Computation, 93(1), 1991)  
+   ([paper](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf))  
+   by Eugenio Moggi
+
+### 1989
+
+ * **Computational lambda-calculus and monads** (LICS 1989)  
+   ([paper](http://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf))  
+   by Eugenio Moggi
+
 
 Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/effects-bibliography.svg?branch=master)](https://travis-ci.org/yallop/effects-bibliography)

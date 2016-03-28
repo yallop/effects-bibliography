@@ -1,4 +1,4 @@
-0## Effects bibliography
+## Effects bibliography
 
 [Pull requests](https://github.com/yallop/effects-bibliography/pulls) welcome!  You can edit this file directly by clicking [**edit**](https://github.com/yallop/effects-bibliography/edit/master/README.md).
 
@@ -6,8 +6,8 @@ Note: end a line with two spaces to force a line break.
 
 ### 2016
 
-* **Liberating effects with rows and handlers** (Draft, 2016)
-  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-march2016.pdf))
+* **Liberating effects with rows and handlers** (Draft, 2016)  
+  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-march2016.pdf))  
   by Daniel Hillerström and Sam Lindley
 
 ### 2015
@@ -28,8 +28,8 @@ Note: end a line with two spaces to force a line break.
 
 ### 2014
 
-* **Algebraic effects and effect handlers for idioms and arrows** (WGP 2014)
-  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))
+* **Algebraic effects and effect handlers for idioms and arrows** (WGP 2014)  
+  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))  
   by Sam Lindley
 
 * **Effect handlers in scope** (Haskell 2014)  
@@ -41,7 +41,7 @@ Note: end a line with two spaces to force a line break.
 * **The semantic marriage of monads and effects** (Unpublished, 2014)  
   by Dominic Orchard, Tomas Petricek and Alan Mycroft
 
-* **Do be do be do** (Draft, 2014)
+* **Do be do be do** (Draft, 2014)  
   by Sam Lindley and Conor McBride
 
 ### 2013

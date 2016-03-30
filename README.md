@@ -44,6 +44,14 @@ Note: end a line with two spaces to force a line break.
 * **Do be do be do** (Draft, 2014)  
   by Sam Lindley and Conor McBride
 
+* **Inferring algebraic effects** ([LMCS 2014](http://lmcs-online.org/ojs/viewarticle.php?id=1469))  
+  ([paper](http://arxiv.org/pdf/1312.2334.pdf))  
+  by Matija Pretnar
+
+* **An Effect System for Algebraic Effects and Handlers** ([LMCS 2014](http://lmcs-online.org/ojs/viewarticle.php?id=1560))  
+  ([paper](http://arxiv.org/pdf/1306.6316.pdf))  
+  by Andrej Bauer and Matija Pretnar
+
 ### 2013
 
 * **Programming and reasoning with algebraic effects and dependent types** (ICFP 2013)  
@@ -57,6 +65,10 @@ Note: end a line with two spaces to force a line break.
 
 * **Extensible effects: an alternative to monad transformers** (Haskell 2013)  
   by Oleg Kiselyov, Amr Sabry and Cameron Swords
+
+* **Handling algebraic effects** ([LMCS 2013](http://lmcs-online.org/ojs/viewarticle.php?id=1083))  
+  ([paper](http://arxiv.org/pdf/1312.1399.pdf))  
+  by Gordon Plotkin and Matija Pretnar
 
 ### 2012
 
@@ -102,6 +114,10 @@ Note: end a line with two spaces to force a line break.
 
 * **Lightweight Monadic Regions** (Haskell 2008)  
   by Oleg Kiselyov and Chung-chieh Shan
+
+* **A Logic for Algebraic Effects** (LICS 2008)  
+  ([paper](http://homepages.inf.ed.ac.uk/gdp/publications/Logic_Algebraic_Effects.pdf))  
+  by Gordon Plotkin and Matija Pretnar
 
 
 ### 2007

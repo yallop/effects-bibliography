@@ -26,6 +26,10 @@ Note: end a line with two spaces to force a line break.
 * **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
   by Nicolas Wu and Tom Schrijvers
 
+* **Interleaving data and effects** (JFP 2015)  
+  ([paper](http://bentnib.org/interleaving.pdf))  
+  by Robert Atkey and Patricia Johann
+
 ### 2014
 
 * **Algebraic effects and effect handlers for idioms and arrows** (WGP 2014)  
@@ -110,6 +114,14 @@ Note: end a line with two spaces to force a line break.
   ([paper](http://homepages.inf.ed.ac.uk/gdp/publications/Effect_Handlers.pdf))  
   by Gordon Plotkin and Matija Pretnar
 
+* **Parameterised Notions of Computation** (JFP 2009)  
+  ([paper](http://bentnib.org/paramnotions-jfp.pdf))  
+  by Robert Atkey
+
+* **Algebras for Parameterised Monads** (CALCO 2009)  
+  ([paper](http://bentnib.org/algebras-param-monads.pdf))  
+  by Robert Atkey
+
 ### 2008
 
 * **Lightweight Monadic Regions** (Haskell 2008)  
@@ -119,6 +131,9 @@ Note: end a line with two spaces to force a line break.
   ([paper](http://homepages.inf.ed.ac.uk/gdp/publications/Logic_Algebraic_Effects.pdf))  
   by Gordon Plotkin and Matija Pretnar
 
+* **What is a Categorical Model of Arrows?** (MSFP 2008)  
+  ([paper](http://bentnib.org/arrows.pdf))  
+  by Robert Atkey
 
 ### 2007
 

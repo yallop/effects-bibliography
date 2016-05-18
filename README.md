@@ -59,15 +59,19 @@ Note: end a line with two spaces to force a line break.
 ### 2013
 
 * **Programming and reasoning with algebraic effects and dependent types** (ICFP 2013)  
+  ([paper](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf))  
   by Edwin Brady
 
 * **The constrained-monad problem** (ICFP 2013)  
+  ([paper](http://www.cs.rhul.ac.uk/home/ucac009/publications/constrained-monad-problem.pdf))  
   by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill
 
 * **Handlers in action** (ICFP 2013)  
+  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf))
   by Ohad Kammar, Sam Lindley and Nicolas Oury
 
 * **Extensible effects: an alternative to monad transformers** (Haskell 2013)  
+  ([paper](https://www.cs.indiana.edu/~sabry/papers/exteff.pdf))    
   by Oleg Kiselyov, Amr Sabry and Cameron Swords
 
 * **Handling algebraic effects** ([LMCS 2013](http://lmcs-online.org/ojs/viewarticle.php?id=1083))  

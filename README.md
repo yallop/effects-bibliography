@@ -24,7 +24,7 @@ Note: end a line with two spaces to force a line break.
 
 * **An Introduction to Algebraic Effects and Handlers** (MFPS 2015)  
   by Matija Pretnar  
-  ([dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar150))
+  ([dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar15))
   ([doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003))
   ([pdf](http://www.eff-lang.org/handlers-tutorial.pdf))
 

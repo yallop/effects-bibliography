@@ -1,5 +1,5 @@
 language: python
 python:
   - "3.4"
-install: pip install requests markdown beautifulsoup4
-script: python check_urls.py README.md
+install: pip install requests markdown beautifulsoup4 && wget https://raw.githubusercontent.com/yallop/check-markdown-urls/master/src/check_markdown_urls.py
+script: python check_markdown_urls.py README.md

@@ -12,7 +12,8 @@ Note: end a line with two spaces to force a line break.
 
 ### 2015
 
-* **Freer monads, more extensible effects** (Haskell 2015)  
+* **Freer monads, more extensible effects** (Haskell 2015)
+  ([paper](http://okmij.org/ftp/Haskell/extensible/more.pdf))
   by Oleg Kiselyov and Hiromi Ishii
 
 * **Programming with Algebraic Effects and Handlers** (JLAMP 2015)  
@@ -23,7 +24,8 @@ Note: end a line with two spaces to force a line break.
   ([paper](http://www.eff-lang.org/handlers-tutorial.pdf))  
   by Matija Pretnar
 
-* **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
+* **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)
+  ([paper](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/mpc2015.pdf))
   by Nicolas Wu and Tom Schrijvers
 
 * **Interleaving data and effects** (JFP 2015)  
@@ -36,13 +38,16 @@ Note: end a line with two spaces to force a line break.
   ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))  
   by Sam Lindley
 
-* **Effect handlers in scope** (Haskell 2014)  
+* **Effect handlers in scope** (Haskell 2014)
+  ([paper](http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf))
   by Nicolas Wu, Tom Schrijvers and Ralf Hinze
 
-* **Embedding effect systems in Haskell** (Haskell 2014)  
+* **Embedding effect systems in Haskell** (Haskell 2014)
+  ([paper](https://www.cl.cam.ac.uk/~dao29/publ/haskell14-effects.pdf))
   by Dominic Orchard and Tomas Petricek
 
-* **The semantic marriage of monads and effects** (Unpublished, 2014)  
+* **The semantic marriage of monads and effects** (Unpublished, 2014)
+  ([extended abstract](https://www.cl.cam.ac.uk/~dao29/drafts/ixmonad-eabstract.pdf))
   by Dominic Orchard, Tomas Petricek and Alan Mycroft
 
 * **Do be do be do** (Draft, 2014)  

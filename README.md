@@ -7,8 +7,8 @@ Note: end a line with two spaces to force a line break.
 ### 2016
 
 * **Liberating effects with rows and handlers** (Draft, 2016)  
-  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-march2016.pdf))  
-  by Daniel Hillerström and Sam Lindley
+  by Daniel Hillerström and Sam Lindley  
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-march2016.pdf))
 
 ### 2015
 
@@ -16,33 +16,35 @@ Note: end a line with two spaces to force a line break.
   by Oleg Kiselyov and Hiromi Ishii
 
 * **Programming with Algebraic Effects and Handlers** (JLAMP 2015)  
+  by Andrej Bauer and Matija Pretnar  
+  ([arxiv](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/jlp/BauerP15))
   ([doi](http://dx.doi.org/10.1016/j.jlamp.2014.02.001))
-  ([arxiv](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf))  
-  by Andrej Bauer and Matija Pretnar
+
 
 * **An Introduction to Algebraic Effects and Handlers** (MFPS 2015)  
-  ([paper](http://www.eff-lang.org/handlers-tutorial.pdf))
+  by Matija Pretnar  
+  ([dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar150))
   ([doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003))
-  ([dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar150))  
-  by Matija Pretnar
+  ([pdf](http://www.eff-lang.org/handlers-tutorial.pdf))
+
 
 * **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
   by Nicolas Wu and Tom Schrijvers
 
 * **Interleaving data and effects** (JFP 2015)  
-  ([paper](http://bentnib.org/interleaving.pdf))
+  by Robert Atkey and Patricia Johann  
+  ([dblp](http://dblp.uni-trier.de/rec/html/journals/jfp/AtkeyJ15))
   ([doi](http://dx.doi.org/10.1017/S0956796815000209))
-  ([dblp](http://dblp.uni-trier.de/rec/html/journals/jfp/AtkeyJ15))  
-  by Robert Atkey and Patricia Johann
+  ([pdf](http://bentnib.org/interleaving.pdf))
 
 ### 2014
 
 * **Algebraic effects and effect handlers for idioms and arrows** (WGP 2014)  
-  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))
+  by Sam Lindley  
+  ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14))
   ([doi](http://dx.doi.org/10.1145/2633628.2633636))
-  ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14))  
-  by Sam Lindley
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))
 
 * **Effect handlers in scope** (Haskell 2014)  
   by Nicolas Wu, Tom Schrijvers and Ralf Hinze
@@ -57,46 +59,53 @@ Note: end a line with two spaces to force a line break.
   by Sam Lindley and Conor McBride
 
 * **Inferring algebraic effects** (LMCS 2014)  
+  by Matija Pretnar  
   ([arxiv](http://arxiv.org/pdf/1312.2334.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/corr/Pretnar13))
-  ([doi](http://dx.doi.org/10.2168/LMCS-10(3:21)2014))  
-  by Matija Pretnar
+  ([doi](http://dx.doi.org/10.2168/LMCS-10%283:21%292014))
+
 
 * **An Effect System for Algebraic Effects and Handlers** (LMCS 2014)  
+  by Andrej Bauer and Matija Pretnar  
   ([arxiv](http://arxiv.org/pdf/1306.6316.pdf))
-  ([doi](http://dx.doi.org/10.2168/LMCS-10(4:9)2014))
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/corr/BauerP13))
-  by Andrej Bauer and Matija Pretnar
+  ([doi](http://dx.doi.org/10.2168/LMCS-10%284:9%292014))
+
+
 
 ### 2013
 
 * **Programming and reasoning with algebraic effects and dependent types** (ICFP 2013)  
-  ([paper](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf))  
-  by Edwin Brady
+  by Edwin Brady  
+  ([pdf](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf))
+
 
 * **The constrained-monad problem** (ICFP 2013)  
-  ([paper](http://www.cs.rhul.ac.uk/home/ucac009/publications/constrained-monad-problem.pdf))  
-  by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill
+  by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill  
+  ([pdf](http://www.cs.rhul.ac.uk/home/ucac009/publications/constrained-monad-problem.pdf))
+
 
 * **Handlers in action** (ICFP 2013)  
-  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf))
-  by Ohad Kammar, Sam Lindley and Nicolas Oury
+  by Ohad Kammar, Sam Lindley and Nicolas Oury  
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf))
+
 
 * **Extensible effects: an alternative to monad transformers** (Haskell 2013)  
-  ([paper](https://www.cs.indiana.edu/~sabry/papers/exteff.pdf))  
-  by Oleg Kiselyov, Amr Sabry and Cameron Swords
+  by Oleg Kiselyov, Amr Sabry and Cameron Swords  
+  ([pdf](https://www.cs.indiana.edu/~sabry/papers/exteff.pdf))
+
 
 * **Handling algebraic effects** (LMCS 2013)  
+  by Gordon Plotkin and Matija Pretnar  
   ([arxiv](http://arxiv.org/abs/1312.1399))
   ([dblp](http://dblp.org/rec/journals/corr/PlotkinP13))
-  ([doi](http://dx.doi.org/10.2168/10.2168/LMCS-9(4:23)2013))  
-  by Gordon Plotkin and Matija Pretnar
+  ([doi](http://dx.doi.org/10.2168/LMCS-9%284:23%292013))
 
 ### 2012
 
 * **The Frank Manual** (2012)  
-  ([online](https://personal.cis.strath.ac.uk/conor.mcbride/pub/Frank/))  
-  by Conor McBride
+  by Conor McBride  
+  ([online](https://personal.cis.strath.ac.uk/conor.mcbride/pub/Frank/))
 
 * **Control.Effects** (2012)  
   by Sjoerd Visscher
@@ -129,16 +138,19 @@ Note: end a line with two spaces to force a line break.
 ### 2009
 
 * **Handlers of Algebraic Effects** (ESOP 2009)  
-  ([paper](http://homepages.inf.ed.ac.uk/gdp/publications/Effect_Handlers.pdf))  
-  by Gordon Plotkin and Matija Pretnar
+  by Gordon Plotkin and Matija Pretnar  
+  ([pdf](http://homepages.inf.ed.ac.uk/gdp/publications/Effect_Handlers.pdf))
+
 
 * **Parameterised Notions of Computation** (JFP 2009)  
-  ([paper](http://bentnib.org/paramnotions-jfp.pdf))  
-  by Robert Atkey
+  by Robert Atkey  
+  ([pdf](http://bentnib.org/paramnotions-jfp.pdf))
+
 
 * **Algebras for Parameterised Monads** (CALCO 2009)  
-  ([paper](http://bentnib.org/algebras-param-monads.pdf))  
-  by Robert Atkey
+  by Robert Atkey  
+  ([pdf](http://bentnib.org/algebras-param-monads.pdf))
+
 
 ### 2008
 
@@ -146,12 +158,13 @@ Note: end a line with two spaces to force a line break.
   by Oleg Kiselyov and Chung-chieh Shan
 
 * **A Logic for Algebraic Effects** (LICS 2008)  
-  ([paper](http://homepages.inf.ed.ac.uk/gdp/publications/Logic_Algebraic_Effects.pdf))  
-  by Gordon Plotkin and Matija Pretnar
+  by Gordon Plotkin and Matija Pretnar  
+  ([pdf](http://homepages.inf.ed.ac.uk/gdp/publications/Logic_Algebraic_Effects.pdf))
 
-* **What is a Categorical Model of Arrows?** (MSFP 2008)  
-  ([paper](http://bentnib.org/arrows.pdf))  
-  by Robert Atkey
+* **What is a Categorical Model of Arrows?** (MSFP 2008)
+  by Robert Atkey  
+  ([pdf](http://bentnib.org/arrows.pdf))
+
 
 ### 2007
 
@@ -168,9 +181,9 @@ Note: end a line with two spaces to force a line break.
 
 ### 2003
 
-* **A Monadic Multi-stage Metalanguage** (FOSSACS 2003)  
-  ([paper](http://www.disi.unige.it/person/MoggiE/ftp/fossacs03.pdf))  
-  by Eugenio Moggi and Sonia Fagorzi
+* **A Monadic Multi-stage Metalanguage** (FOSSACS 2003)
+  by Eugenio Moggi and Sonia Fagorzi  
+  ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/fossacs03.pdf))
 
 * **The Marriage of Effects and Monads** (Trans. Comp. Logic, 2003)  
   by Philip Wadler and Peter Thiemann
@@ -248,8 +261,9 @@ Note: end a line with two spaces to force a line break.
 ### 1991
 
  * **Notions of computation and monads** (Information and Computation, 93(1), 1991)  
-   ([paper](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf))  
-   by Eugenio Moggi
+   by Eugenio Moggi  
+   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf))
+
 
 ### 1990
 
@@ -261,9 +275,10 @@ Note: end a line with two spaces to force a line break.
 
 ### 1989
 
- * **Computational lambda-calculus and monads** (LICS 1989)  
-   ([paper](http://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf))  
-   by Eugenio Moggi
+* **Computational lambda-calculus and monads** (LICS 1989)  
+  by Eugenio Moggi  
+  ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf))
+
 
 * **An abstract view of programming languages** (Ed. Uni. Tech Report, 1989)  
   by Eugenio Moggi

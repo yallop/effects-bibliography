@@ -16,24 +16,34 @@ Note: end a line with two spaces to force a line break.
   by Oleg Kiselyov and Hiromi Ishii
 
 * **Programming with Algebraic Effects and Handlers** (JLAMP 2015)  
-  ([paper](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf))  
+  ([dblp](http://dblp.uni-trier.de/rec/html/journals/jlp/BauerP15)
+   [doi](http://dx.doi.org/10.1016/j.jlamp.2014.02.001)
+   [arxiv](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf))  
   by Andrej Bauer and Matija Pretnar
 
 * **An Introduction to Algebraic Effects and Handlers** (MFPS 2015)  
-  ([paper](http://www.eff-lang.org/handlers-tutorial.pdf))  
+  ([paper](http://www.eff-lang.org/handlers-tutorial.pdf)
+   [doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003)
+   [dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar150)
+  )  
   by Matija Pretnar
 
 * **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
   by Nicolas Wu and Tom Schrijvers
 
 * **Interleaving data and effects** (JFP 2015)  
-  ([paper](http://bentnib.org/interleaving.pdf))  
+  ([paper](http://bentnib.org/interleaving.pdf)
+   [doi](http://dx.doi.org/10.1017/S0956796815000209)
+   [dblp](http://dblp.uni-trier.de/rec/html/journals/jfp/AtkeyJ15)
+  )  
   by Robert Atkey and Patricia Johann
 
 ### 2014
 
 * **Algebraic effects and effect handlers for idioms and arrows** (WGP 2014)  
-  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))  
+  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf)
+   [doi](http://dx.doi.org/10.1145/2633628.2633636)
+   [dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14))  
   by Sam Lindley
 
 * **Effect handlers in scope** (Haskell 2014)  
@@ -48,8 +58,10 @@ Note: end a line with two spaces to force a line break.
 * **Do be do be do** (Draft, 2014)  
   by Sam Lindley and Conor McBride
 
-* **Inferring algebraic effects** ([LMCS 2014](http://lmcs-online.org/ojs/viewarticle.php?id=1469))  
-  ([paper](http://arxiv.org/pdf/1312.2334.pdf))  
+* **Inferring algebraic effects** (LMCS 2014)
+  ([arxiv](http://arxiv.org/pdf/1312.2334.pdf)
+   [dblp](http://dblp.uni-trier.de/rec/html/journals/corr/Pretnar13)
+   [doi](http://dx.doi.org/10.2168/LMCS-10(3:21)2014))  
   by Matija Pretnar
 
 * **An Effect System for Algebraic Effects and Handlers** ([LMCS 2014](http://lmcs-online.org/ojs/viewarticle.php?id=1560))  

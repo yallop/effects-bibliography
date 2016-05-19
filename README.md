@@ -33,8 +33,7 @@ Note: end a line with two spaces to force a line break.
 * **Interleaving data and effects** (JFP 2015)  
   ([paper](http://bentnib.org/interleaving.pdf),
    [doi](http://dx.doi.org/10.1017/S0956796815000209),
-   [dblp](http://dblp.uni-trier.de/rec/html/journals/jfp/AtkeyJ15)
-  )  
+   [dblp](http://dblp.uni-trier.de/rec/html/journals/jfp/AtkeyJ15))  
   by Robert Atkey and Patricia Johann
 
 ### 2014

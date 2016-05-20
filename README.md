@@ -1,8 +1,27 @@
-## Effects bibliography
+# Effects bibliography
 
-[Pull requests](https://github.com/yallop/effects-bibliography/pulls) welcome!  You can edit this file directly by clicking [**edit**](https://github.com/yallop/effects-bibliography/edit/master/README.md).
+A collection of research papers and other resources related to the theory and practice of
+computational effects.
 
-Note: end a line with two spaces to force a line break.
+## Instructions
+
+* [Pull requests](https://github.com/yallop/effects-bibliography/pulls) welcome!
+* You can edit [**edit the file directly**](https://github.com/yallop/effects-bibliography/edit/master/README.md) also.
+* Keep the formatting consistent with the rest.
+* End a line with a double space to force a line break.
+
+## Software
+
+* **Eff**: programming language with algebraic effects and handlers  
+  by Andrej Bauer and Matija Pretnar  
+  ([www](http://www.eff-lang.org/))
+
+* **Extensible effects**: a Haskell library for effects  
+  by Oleg Kiselyov  
+  ([hackage](https://hackage.haskell.org/package/extensible-effects))
+  ([www](http://okmij.org/ftp/Haskell/extensible/))
+
+## Papers
 
 ### 2016
 
@@ -12,9 +31,9 @@ Note: end a line with two spaces to force a line break.
 
 ### 2015
 
-* **Freer monads, more extensible effects** (Haskell 2015)
-  ([paper](http://okmij.org/ftp/Haskell/extensible/more.pdf))
-  by Oleg Kiselyov and Hiromi Ishii
+* **Freer monads, more extensible effects** (Haskell 2015)  
+  by Oleg Kiselyov and Hiromi Ishii  
+  ([pdf](http://okmij.org/ftp/Haskell/extensible/more.pdf))
 
 * **Programming with Algebraic Effects and Handlers** (JLAMP 2015)  
   by Andrej Bauer and Matija Pretnar  
@@ -30,9 +49,10 @@ Note: end a line with two spaces to force a line break.
   ([pdf](http://www.eff-lang.org/handlers-tutorial.pdf))
 
 
-* **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)
-  ([paper](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/mpc2015.pdf))
-  by Nicolas Wu and Tom Schrijvers
+* **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
+  by Nicolas Wu and Tom Schrijvers  
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/mpc2015.pdf))
+
 
 * **Interleaving data and effects** (JFP 2015)  
   by Robert Atkey and Patricia Johann  
@@ -48,17 +68,17 @@ Note: end a line with two spaces to force a line break.
   ([doi](http://dx.doi.org/10.1145/2633628.2633636))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))
 
-* **Effect handlers in scope** (Haskell 2014)
-  ([paper](http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf))
-  by Nicolas Wu, Tom Schrijvers and Ralf Hinze
+* **Effect handlers in scope** (Haskell 2014)  
+  by Nicolas Wu, Tom Schrijvers and Ralf Hinze  
+  ([pdf](http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf))
 
-* **Embedding effect systems in Haskell** (Haskell 2014)
-  ([paper](https://www.cl.cam.ac.uk/~dao29/publ/haskell14-effects.pdf))
-  by Dominic Orchard and Tomas Petricek
+* **Embedding effect systems in Haskell** (Haskell 2014)  
+  by Dominic Orchard and Tomas Petricek  
+  ([pdf](https://www.cl.cam.ac.uk/~dao29/publ/haskell14-effects.pdf))
 
-* **The semantic marriage of monads and effects** (Unpublished, 2014)
-  ([extended abstract](https://www.cl.cam.ac.uk/~dao29/drafts/ixmonad-eabstract.pdf))
+* **The semantic marriage of monads and effects (extended abstract)** (Unpublished, 2014)  
   by Dominic Orchard, Tomas Petricek and Alan Mycroft
+  ([pdf](https://www.cl.cam.ac.uk/~dao29/drafts/ixmonad-eabstract.pdf))
 
 * **Do be do be do** (Draft, 2014)  
   by Sam Lindley and Conor McBride
@@ -110,7 +130,7 @@ Note: end a line with two spaces to force a line break.
 
 * **The Frank Manual** (2012)  
   by Conor McBride  
-  ([online](https://personal.cis.strath.ac.uk/conor.mcbride/pub/Frank/))
+  ([www](https://personal.cis.strath.ac.uk/conor.mcbride/pub/Frank/))
 
 * **Control.Effects** (2012)  
   by Sjoerd Visscher
@@ -288,5 +308,7 @@ Note: end a line with two spaces to force a line break.
 * **An abstract view of programming languages** (Ed. Uni. Tech Report, 1989)  
   by Eugenio Moggi
 
+
+---
 
 Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/effects-bibliography.svg?branch=master)](https://travis-ci.org/yallop/effects-bibliography)

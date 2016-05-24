@@ -145,7 +145,8 @@ computational effects.
   by Sam Lindley, Philip Wadler and Jeremy Yallop
 
 * **Lightweight Monadic Programming in ML** (ICFP 2011)  
-  by Nikhil Swamy, Nataliya Guts, Daan Leijen and Michael Hicks
+  by Nikhil Swamy, Nataliya Guts, Daan Leijen and Michael Hicks  
+  ([pdf](http://www.cs.umd.edu/~mwh/papers/monadic.pdf))
 
 * **Monads, zippers and views: virtualizing the monad stack** (ICFP 2011)  
   by Tom Schrijvers and Bruno C.d.S. Oliveira

@@ -31,6 +31,10 @@ computational effects.
 
 ### 2015
 
+* **Customizable Gradual Polymorphic Effects for Scala** (OOPSLA 2015)
+  by Matias Toro and Eric Tanter
+  ([doi](http://doi.acm.org/10.1145/2814270.2814315))
+
 * **Freer monads, more extensible effects** (Haskell 2015)  
   by Oleg Kiselyov and Hiromi Ishii  
   ([pdf](http://okmij.org/ftp/Haskell/extensible/more.pdf))
@@ -67,6 +71,10 @@ computational effects.
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14))
   ([doi](http://dx.doi.org/10.1145/2633628.2633636))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))
+
+* **A Theory of Gradual Effect Systems** (ICFP 2014)
+  by Felipe Banados Schwerter, Ronald Garcia and Eric Tanter
+  ([doi](http://doi.acm.org/10.1145/2628136.2628149))
 
 * **Effect handlers in scope** (Haskell 2014)  
   by Nicolas Wu, Tom Schrijvers and Ralf Hinze  
@@ -121,6 +129,13 @@ computational effects.
   ([pdf](https://www.cs.indiana.edu/~sabry/papers/exteff.pdf))
 
 
+* **JavaUI: Effects for UI Object Access** (ECOOP 2013)
+  by Colin S. Gordon, Werner Dietl, Michael D. Ernst and Dan Grossman
+  ([dblp](http://dblp.uni-trier.de/rec/html/conf/ecoop/GordonDEG13))
+  ([doi](http://dx.doi.org/10.1007/978-3-642-39038-8_8))
+  ([pdf](https://www.cs.drexel.edu/~csgordon/papers/ecoop13.pdf))
+
+
 * **Handling algebraic effects** (LMCS 2013)  
   by Gordon Plotkin and Matija Pretnar  
   ([arxiv](http://arxiv.org/abs/1312.1399))
@@ -128,6 +143,10 @@ computational effects.
   ([doi](http://dx.doi.org/10.2168/LMCS-9%284:23%292013))
 
 ### 2012
+
+* **Lighweight Polymorphic Effects** (ECOOP 2012)
+  by Lukas Rytz, Martin Odersky and Philipp Haller
+  ([doi](http://dx/doi.org/10.1007/978-3-642-31057-7_13))
 
 * **The Frank Manual** (2012)  
   by Conor McBride  

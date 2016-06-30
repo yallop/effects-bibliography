@@ -146,7 +146,7 @@ computational effects.
 
 * **Lighweight Polymorphic Effects** (ECOOP 2012)
   by Lukas Rytz, Martin Odersky and Philipp Haller
-  ([doi](http://dx/doi.org/10.1007/978-3-642-31057-7_13))
+  ([doi](http://dx.doi.org/10.1007/978-3-642-31057-7_13))
 
 * **The Frank Manual** (2012)  
   by Conor McBride  

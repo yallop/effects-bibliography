@@ -25,9 +25,13 @@ computational effects.
 
 ### 2016
 
-* **Liberating effects with rows and handlers** (Draft, 2016)  
+* **Liberating effects with rows and handlers** (TyDe 2016)  
   by Daniel Hillerström and Sam Lindley  
-  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-march2016.pdf))
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect.pdf))
+
+* **Compiling Links Effect Handlers to the OCaml Backend** (ML Workshop 2016)  
+  by Daniel Hillerström, Sam Lindley and KC Sivaramakrishnan  
+  ([pdf](http://kcsrk.info/papers/links_ocaml_ml16.pdf))
 
 ### 2015
 

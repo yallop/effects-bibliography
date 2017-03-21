@@ -6,7 +6,7 @@ computational effects.
 ## Instructions
 
 * [Pull requests](https://github.com/yallop/effects-bibliography/pulls) welcome!
-* You can edit [**edit the file directly**](https://github.com/yallop/effects-bibliography/edit/master/README.md) also.
+* You can [**edit the file directly**](https://github.com/yallop/effects-bibliography/edit/master/README.md) also.
 * Keep the formatting consistent with the rest.
 * End a line with a double space to force a line break.
 

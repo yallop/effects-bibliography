@@ -21,6 +21,10 @@ computational effects.
   ([hackage](https://hackage.haskell.org/package/extensible-effects))
   ([www](http://okmij.org/ftp/Haskell/extensible/))
 
+* **Koka**: a function-oriented language with effect inference  
+  by Daan Leijen  
+  ([www](https://github.com/koka-lang/koka))
+
 ## Papers
 
 ### 2016

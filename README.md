@@ -21,11 +21,47 @@ computational effects.
   ([hackage](https://hackage.haskell.org/package/extensible-effects))
   ([www](http://okmij.org/ftp/Haskell/extensible/))
 
+* **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  
+  by Sam Lindley, Conor McBride and Craig McLaughlin  
+  ([www](https://github.com/cmcl/frankjnr))
+
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  
   ([www](https://github.com/koka-lang/koka))
+  
+* **Links effect handlers**: an effect handlers extension for the Links web programming language  
+  by Daniel Hillerström and Sam Lindley  
+  ([www](https://github.com/links-lang/links/tree/handlers-js-cps-higher-order))
+
+* **Multicore OCaml**: a multicore + effect handlers extension for OCaml  
+  by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White and Jeremy Yallop  
+  ([www](https://github.com/ocamllabs/ocaml-multicore/wiki))
+
+* **shonky**: a dynamically typed variant of Frank with C-like syntax  
+  by Conor McBride  
+  ([www](https://github.com/pigworker/shonky))
 
 ## Papers
+
+### 2017
+
+* **On the expressive power of user-defined effects: Effect handlers, monadic reflection, delimited control** (2017)  
+  by Yannick Forster, Ohad Kammar, Sam Lindley and Matija Pretnar  
+  ([arxiv](https://arxiv.org/pdf/1610.09161))
+
+* **Do be do be do** (POPL 2017)  
+  by Sam Lindley, Conor McBride, and Craig McLaughlin  
+  ([dblp](http://dblp.uni-trier.de/rec/html/conf/popl/LindleyMM17))
+  ([arxiv](https://arxiv.org/pdf/1611.09259))
+
+* **Type directed compilation of row-typed algebraic effects** (POPL 2017)  
+  by Daan Leijen  
+  ([dblp](http://dblp.uni-trier.de/rec/html/conf/popl/Leijen17))
+
+* **No value restriction is needed for algebraic effects and handlers** (J. Funct. Program. 2017)  
+  by Ohad Kammar and Matija Pretnar  
+  ([dblp](http://dblp.uni-trier.de/rec/html/journals/jfp/KammarP17))
+  ([arxiv](https://arxiv.org/pdf/1605.06938))
 
 ### 2016
 
@@ -40,6 +76,7 @@ computational effects.
 * **Liberating effects with rows and handlers** (TyDe 2016)  
   by Daniel Hillerström and Sam Lindley  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect.pdf))
+  ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/HillerstromL16))
 
 ### 2015
 
@@ -91,10 +128,6 @@ computational effects.
 * **The semantic marriage of monads and effects (extended abstract)** (Unpublished, 2014)  
   by Dominic Orchard, Tomas Petricek and Alan Mycroft  
   ([pdf](https://www.cl.cam.ac.uk/~dao29/drafts/ixmonad-eabstract.pdf))
-
-* **Do be do be do** (Draft, 2014)  
-  by Sam Lindley and Conor McBride  
-  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-draft-march2014.pdf))
 
 * **Inferring algebraic effects** (LMCS 2014)  
   by Matija Pretnar  

@@ -45,7 +45,7 @@ computational effects.
 
 ### 2017
 
-* **On the expressive power of user-defined effects: Effect handlers, monadic reflection, delimited control** (2017)  
+* **On the expressive power of user-defined effects: Effect handlers, monadic reflection, delimited control** (ICFP 2017)  
   by Yannick Forster, Ohad Kammar, Sam Lindley and Matija Pretnar  
   ([arxiv](https://arxiv.org/pdf/1610.09161))
 
@@ -253,9 +253,12 @@ computational effects.
 
 ### 2003
 
-* **A Monadic Multi-stage Metalanguage** (FOSSACS 2003)
+* **A Monadic Multi-stage Metalanguage** (FOSSACS 2003)  
   by Eugenio Moggi and Sonia Fagorzi  
   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/fossacs03.pdf))
+
+* **Algebraic Operations and Generic Effects** (Applied categorical structures, 2003)  
+  by Gordon D. Plotkin and John Power
 
 * **The Marriage of Effects and Monads** (Trans. Comp. Logic, 2003)  
   by Philip Wadler and Peter Thiemann
@@ -265,10 +268,16 @@ computational effects.
 * **Composing Monads Using Coproducts** (ICFP 2002)  
   by Christoph Lüth and Neil Ghani
 
+* **Notions of computation determine monads** (FoSSaCS 2002)  
+  by Gordon D. Plotkin and John Power
+
 ### 2001
 
 * **Monadic Encapsulation of Effects: A Revised Approach (Extended Version)** (JFP 2001)  
   by Eugenio Moggi and Amr Sabry
+
+* **Adequacy for algebraic effects** (FoSSaCS 2001)  
+  by Gordon D. Plotkin and John Power
 
 ### 2000
 

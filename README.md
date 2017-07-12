@@ -47,7 +47,7 @@ computational effects.
 
 * **Continuation Passing Style for Effect Handlers** (FSCD 2017)  
   by Daniel Hillerström, Sam Lindley, Robert Atkey, and KC Sivaramakrishnan  
-  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers-cps.pdf))  
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers-cps.pdf))
 
 * **On the expressive power of user-defined effects: Effect handlers, monadic reflection, delimited control** (ICFP 2017)  
   by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
@@ -69,6 +69,10 @@ computational effects.
 
 ### 2016
 
+* **Efficient Algebraic Effect Handlers for Prolog** (TPLP/ICLP 2016)  
+  by Amr Hany Saleh and Tom Schrijvers  
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/iclp2016a.pdf))
+
 * **Eff Directly in OCaml** (ML Workshop 2016)  
   by Oleg Kiselyov and KC Sivaramakrishnan  
   ([pdf](http://kcsrk.info/papers/eff_ocaml_ml16.pdf))
@@ -83,6 +87,10 @@ computational effects.
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/HillerstromL16))
 
 ### 2015
+
+* **Fixing Non-determinism** (IFL 2015)  
+  by Alexander Vandenbroucke, Tom Schrijvers, and Frank Piessens  
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2015_post.pdf))
 
 * **Freer monads, more extensible effects** (Haskell 2015)  
   by Oleg Kiselyov and Hiromi Ishii  

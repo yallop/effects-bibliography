@@ -45,8 +45,12 @@ computational effects.
 
 ### 2017
 
+* **Continuation Passing Style for Effect Handlers** (FSCD 2017)  
+  by Daniel Hillerström, Sam Lindley, Robert Atkey, and KC Sivaramakrishnan  
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers-cps.pdf))  
+
 * **On the expressive power of user-defined effects: Effect handlers, monadic reflection, delimited control** (ICFP 2017)  
-  by Yannick Forster, Ohad Kammar, Sam Lindley and Matija Pretnar  
+  by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
   ([arxiv](https://arxiv.org/pdf/1610.09161))
 
 * **Do be do be do** (POPL 2017)  
@@ -70,7 +74,7 @@ computational effects.
   ([pdf](http://kcsrk.info/papers/eff_ocaml_ml16.pdf))
 
 * **Compiling Links Effect Handlers to the OCaml Backend** (ML Workshop 2016)  
-  by Daniel Hillerström, Sam Lindley and KC Sivaramakrishnan  
+  by Daniel Hillerström, Sam Lindley, and KC Sivaramakrishnan  
   ([pdf](http://kcsrk.info/papers/links_ocaml_ml16.pdf))
 
 * **Liberating effects with rows and handlers** (TyDe 2016)  

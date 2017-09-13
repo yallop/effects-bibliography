@@ -37,7 +37,7 @@ computational effects.
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White and Jeremy Yallop  
   ([www](https://github.com/ocamllabs/ocaml-multicore/wiki))
 
-* **Scala Effekt**: extensible algebraic effects with handlers in Scala
+* **Scala Effekt**: extensible algebraic effects with handlers in Scala  
   by Jonathan Brachthäuser  
   ([www](http://b-studios.de/scala-effekt/))  
 

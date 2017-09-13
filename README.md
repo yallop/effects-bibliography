@@ -31,11 +31,15 @@ computational effects.
   
 * **Links effect handlers**: an effect handlers extension for the Links web programming language  
   by Daniel Hillerström and Sam Lindley  
-  ([www](https://github.com/links-lang/links/tree/handlers-js-cps-higher-order))
+  ([www](https://github.com/links-lang/links))
 
 * **Multicore OCaml**: a multicore + effect handlers extension for OCaml  
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White and Jeremy Yallop  
   ([www](https://github.com/ocamllabs/ocaml-multicore/wiki))
+
+* **Scala Effekt**: extensible algebraic effects with handlers in Scala  
+  by Jonathan Brachthäuser  
+  ([www](http://b-studios.de/scala-effekt/))  
 
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  

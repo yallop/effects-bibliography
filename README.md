@@ -51,7 +51,7 @@ computational effects.
 
 * **Structured asynchrony with algebraic effects** (TyDe 2017)  
   by Daan Leijen  
-  ([OpenTOC](http://dl.acm.org/authorize?N34372))
+  ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf))
 
   **Implementing Algebraic Effects in C** (APLAS 2017)  
   by Daan Leijen  

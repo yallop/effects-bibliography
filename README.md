@@ -49,6 +49,15 @@ computational effects.
 
 ### 2017
 
+* **Structured asynchrony with algebraic effects** (TyDe 2017)  
+  by Daan Leijen  
+  ([OpenTOC](http://dl.acm.org/authorize?N34372))
+
+  **Implementing Algebraic Effects in C** (APLAS 2017)  
+  by Daan Leijen  
+  ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/algeff-in-c-tr-v2.pdf))
+  ([GitHub](https://github.com/koka-lang/libhandler))
+
 * **Continuation Passing Style for Effect Handlers** (FSCD 2017)  
   by Daniel Hillerström, Sam Lindley, Robert Atkey, and KC Sivaramakrishnan  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers-cps.pdf))

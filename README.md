@@ -51,12 +51,13 @@ computational effects.
 
 * **Structured asynchrony with algebraic effects** (TyDe 2017)  
   by Daan Leijen  
-  ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf))
+  ([OpenTOC](http://www.sigplan.org/OpenTOC/tyde17.html))
+  ([technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf))
 
-* **Implementing Algebraic Effects in C** (APLAS 2017)  
+* **Implementing Algebraic Effects in C (or "Monads for Free in C")** (APLAS 2017)  
   by Daan Leijen  
-  ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/algeff-in-c-tr-v2.pdf))
-  ([GitHub](https://github.com/koka-lang/libhandler))
+  ([technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/algeff-in-c-tr-v2.pdf))
+  ([github](https://github.com/koka-lang/libhandler))
 
 * **Continuation Passing Style for Effect Handlers** (FSCD 2017)  
   by Daniel Hillerström, Sam Lindley, Robert Atkey, and KC Sivaramakrishnan  

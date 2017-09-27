@@ -16,6 +16,10 @@ computational effects.
   by Andrej Bauer and Matija Pretnar  
   ([www](http://www.eff-lang.org/))
 
+* **Eff in F#**: A library for programming with algebraic effects in F#  
+  by Nick Palladinos  
+  ([www](https://github.com/palladin/Eff))
+
 * **Extensible effects**: a Haskell library for effects  
   by Oleg Kiselyov  
   ([hackage](https://hackage.haskell.org/package/extensible-effects))

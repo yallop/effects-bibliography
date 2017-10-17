@@ -103,6 +103,11 @@ computational effects.
   by Daniel Hillerström and Sam Lindley  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/HillerstromL16))
+  
+* **Dependent Types and Fibred Computational Effects** (FoSSaCS 2016)  
+  by Danel Ahman, Neil Ghani, and Gordon Plotkin  
+  ([pdf](https://danelahman.github.io/papers/fossacs16.pdf))
+  ([dblp](http://dblp.org/rec/conf/fossacs/AhmanGP16))
 
 ### 2015
 

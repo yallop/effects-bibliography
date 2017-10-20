@@ -272,8 +272,8 @@ computational effects.
   by Robert Atkey  
   ([pdf](http://bentnib.org/arrows.pdf))
 
-* **Data types a la carte** (JFP 2008)
-  by Wouter Swierstra
+* **Data types a la carte** (JFP 2008)  
+  by Wouter Swierstra  
   ([pdf](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf))
 
 ### 2007

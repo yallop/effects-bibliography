@@ -61,7 +61,7 @@ computational effects.
 * **Implementing Algebraic Effects in C (or "Monads for Free in C")** (APLAS 2017)  
   by Daan Leijen  
   ([technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/algeff-in-c-tr-v2.pdf))
-  ([github](https://github.com/koka-lang/libhandler))
+  ([GitHub](https://github.com/koka-lang/libhandler))
 
 * **Continuation Passing Style for Effect Handlers** (FSCD 2017)  
   by Daniel Hillerström, Sam Lindley, Robert Atkey, and KC Sivaramakrishnan  
@@ -193,7 +193,7 @@ computational effects.
 
 * **Handlers in action** (ICFP 2013)  
   by Ohad Kammar, Sam Lindley and Nicolas Oury  
-  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf))
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf)) ([GitHub](https://github.com/slindley/effect-handlers))
 
 
 * **Extensible effects: an alternative to monad transformers** (Haskell 2013)  
@@ -272,6 +272,9 @@ computational effects.
   by Robert Atkey  
   ([pdf](http://bentnib.org/arrows.pdf))
 
+* **Data types a la carte** (JFP 2008)  
+  by Wouter Swierstra  
+  ([pdf](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf))
 
 ### 2007
 

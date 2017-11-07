@@ -51,6 +51,15 @@ computational effects.
 
 ## Papers
 
+### 2018
+
+* **Handle with Care: Relational Interpretation of Algebraic Effects and Handlers** (POPL 2018)  
+  by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
+
+* **Handling fibred algebraic effects** (POPL 2018)  
+  by Danel Ahman  
+  ([pdf](https://danelahman.github.io/papers/popl18.pdf))
+
 ### 2017
 
 * **Structured asynchrony with algebraic effects** (TyDe 2017)  

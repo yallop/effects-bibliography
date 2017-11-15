@@ -55,6 +55,8 @@ computational effects.
 
 * **Handle with Care: Relational Interpretation of Algebraic Effects and Handlers** (POPL 2018)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
+  ([pdf](https://bitbucket.org/pl-uwr/aleff-logrel/downloads/popl18e.pdf))
+  ([Coq formalisation](https://bitbucket.org/pl-uwr/aleff-logrel))
 
 * **Handling fibred algebraic effects** (POPL 2018)  
   by Danel Ahman  

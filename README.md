@@ -64,6 +64,10 @@ computational effects.
 
 ### 2017
 
+* **Efficient Compilation of Algebraic Effects and Handlers**  
+  by Matija Pretnar, Amr Hany Saleh, Axel Faes, and Tom Schrijvers  
+  ([technical report](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW708.pdf))
+
 * **Structured asynchrony with algebraic effects** (TyDe 2017)  
   by Daan Leijen  
   ([OpenTOC](http://www.sigplan.org/OpenTOC/tyde17.html))

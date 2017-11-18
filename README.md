@@ -413,9 +413,18 @@ computational effects.
   by Eugenio Moggi  
   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf))
 
-
 * **An abstract view of programming languages** (Ed. Uni. Tech Report, 1989)  
   by Eugenio Moggi
+
+### 1988
+
+* **Polymorphic effect systems** (POPL 1988)  
+  by John M. Lucassen and David K. Gifford  
+  ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.4916&rep=rep1&type=pdf))
+
+* **The FX-87 Interpreter** (ICCL 1988)  
+  by Pierre Jouvelot and David K. Gifford  
+  ([doi](https://doi.org/10.1109%2FICCL.1988.13044))
 
 
 ---

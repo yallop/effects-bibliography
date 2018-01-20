@@ -28,6 +28,9 @@ computational effects.
 * **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  
   by Sam Lindley, Conor McBride and Craig McLaughlin  
   ([www](https://github.com/frank-lang/frank))
+  
+* **F\***: an ML-like effectful dependently typed functional programming language aimed at program verification  
+  ([www](https://fstar-lang.org))
 
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  

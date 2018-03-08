@@ -56,6 +56,10 @@ computational effects.
 
 ### 2018
 
+* **Explicit Effect Subtyping** (ESOP 2018)  
+  by Amr Hany Saleh, Georgios Karachalias, Matija Pretnar, and Tom Schrijvers  
+  ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
+
 * **Handle with Care: Relational Interpretation of Algebraic Effects and Handlers** (POPL 2018)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([pdf](https://bitbucket.org/pl-uwr/aleff-logrel/downloads/popl18e.pdf))

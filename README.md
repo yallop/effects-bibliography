@@ -71,6 +71,10 @@ computational effects.
 
 ### 2017
 
+* **Handlers for Non-Monadic Computations** (IFL 2017)  
+  by Ruben P. Pieters, Tom Schrijvers, and Exequiel Rivas  
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf)) ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/617988/1/CW713.pdf))
+
 * **Effekt: Extensible Algebraic Effects in Scala** (Scala 2017)  
   by Jonathan Immanuel Brachthäuser and Philipp Schuster  
   ([pdf](http://files.b-studios.de/effekt.pdf))

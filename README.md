@@ -181,6 +181,10 @@ computational effects.
 
 ### 2014
 
+* **Algebraic Effects and Handlers in Natural Language Interpretation** (NLCS 2014)  
+  by Jiří Maršík and Maxime Amblard  
+  ([pdf](https://hal.inria.fr/hal-01079206/document))
+
 * **Algebraic effects and effect handlers for idioms and arrows** (WGP 2014)  
   by Sam Lindley  
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14))

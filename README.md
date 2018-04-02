@@ -450,6 +450,37 @@ computational effects.
   ([doi](https://doi.org/10.1109%2FICCL.1988.13044))
 
 
+## Theses and Dissertations
+
+  ### 2017
+
+  * **Enhancing a Modular Effectful Programming Language** (MSc Dissertation, University of Edinburgh)  
+    by Lukas Convent  
+    ([pdf](http://lukas.convnet.de/proj/master/thesis.pdf))
+
+  ### 2016
+
+  * **Compilation of Effect Handlers and their Applications in Concurrency** (MSc Dissertation, University of Edinburgh)  
+    by Daniel Hillerström  
+    ([pdf](https://www.dhil.net/research/papers/thesis2016.pdf))
+
+  * **On the expressive power of effect handlers and monadic reflection** (MSc Dissertation, University of Cambridge)  
+    by Yannick Forster  
+    ([pdf](http://www.ps.uni-saarland.de/~forster/downloads/mphil-thesis.pdf))
+
+  ### 2015
+
+  * **Handlers for Algebraic Effects in Links** (MSc Dissertation, University of Edinburgh)  
+    by Daniel Hillerström  
+    ([pdf](https://www.dhil.net/research/papers/thesis2015.pdf))
+
+  ### 2010
+
+  * **The Logic and Handling of Algebraic Effects** (PhD Thesis, University of Edinburgh)  
+    by Matija Pretnar  
+    ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
+
+
 ---
 
 Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/effects-bibliography.svg?branch=master)](https://travis-ci.org/yallop/effects-bibliography)

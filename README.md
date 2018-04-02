@@ -28,6 +28,9 @@ computational effects.
 * **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  
   by Sam Lindley, Conor McBride and Craig McLaughlin  
   ([www](https://github.com/frank-lang/frank))
+  
+* **F\***: an ML-like effectful dependently typed functional programming language aimed at program verification  
+  ([www](https://fstar-lang.org))
 
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  
@@ -51,7 +54,38 @@ computational effects.
 
 ## Papers
 
+### 2018
+
+* **Explicit Effect Subtyping** (ESOP 2018)  
+  by Amr Hany Saleh, Georgios Karachalias, Matija Pretnar, and Tom Schrijvers  
+  ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf)) ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf)) ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
+
+* **Handle with Care: Relational Interpretation of Algebraic Effects and Handlers** (POPL 2018)  
+  by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
+  ([pdf](https://bitbucket.org/pl-uwr/aleff-logrel/downloads/popl18e.pdf))
+  ([Coq formalisation](https://bitbucket.org/pl-uwr/aleff-logrel))
+
+* **Handling fibred algebraic effects** (POPL 2018)  
+  by Danel Ahman  
+  ([pdf](https://danelahman.github.io/papers/popl18.pdf))
+
 ### 2017
+
+* **Concurrent System Programming with Effect Handlers** (TFP 2017)  
+  by Stephen Dolan, Spiros Eliopolous, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White  
+  ([pdf](http://kcsrk.info/papers/system_effects_feb_18.pdf))
+
+* **Handlers for Non-Monadic Computations** (IFL 2017)  
+  by Ruben P. Pieters, Tom Schrijvers, and Exequiel Rivas  
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf)) ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/617988/1/CW713.pdf))
+
+* **Effekt: Extensible Algebraic Effects in Scala** (Scala 2017)  
+  by Jonathan Immanuel Brachthäuser and Philipp Schuster  
+  ([pdf](http://files.b-studios.de/effekt.pdf))
+
+* **Efficient Compilation of Algebraic Effects and Handlers**  
+  by Matija Pretnar, Amr Hany Saleh, Axel Faes, and Tom Schrijvers  
+  ([technical report](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW708.pdf))
 
 * **Structured asynchrony with algebraic effects** (TyDe 2017)  
   by Daan Leijen  
@@ -61,7 +95,7 @@ computational effects.
 * **Implementing Algebraic Effects in C (or "Monads for Free in C")** (APLAS 2017)  
   by Daan Leijen  
   ([technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/algeff-in-c-tr-v2.pdf))
-  ([github](https://github.com/koka-lang/libhandler))
+  ([GitHub](https://github.com/koka-lang/libhandler))
 
 * **Continuation Passing Style for Effect Handlers** (FSCD 2017)  
   by Daniel Hillerström, Sam Lindley, Robert Atkey, and KC Sivaramakrishnan  
@@ -93,7 +127,7 @@ computational effects.
 
 * **Eff Directly in OCaml** (ML Workshop 2016)  
   by Oleg Kiselyov and KC Sivaramakrishnan  
-  ([pdf](http://kcsrk.info/papers/eff_ocaml_ml16.pdf))
+  ([pdf](http://kcsrk.info/papers/caml-eff17.pdf)) ([extended abstract](http://kcsrk.info/papers/eff_ocaml_ml16.pdf))
 
 * **Compiling Links Effect Handlers to the OCaml Backend** (ML Workshop 2016)  
   by Daniel Hillerström, Sam Lindley, and KC Sivaramakrishnan  
@@ -103,13 +137,17 @@ computational effects.
   by Daniel Hillerström and Sam Lindley  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/HillerstromL16))
-  
+
 * **Dependent Types and Fibred Computational Effects** (FoSSaCS 2016)  
   by Danel Ahman, Neil Ghani, and Gordon Plotkin  
   ([pdf](https://danelahman.github.io/papers/fossacs16.pdf))
   ([dblp](http://dblp.org/rec/conf/fossacs/AhmanGP16))
 
 ### 2015
+
+* **Effective Concurrency with Algebraic Effects** (OCaml Workshop 2015)  
+  by Stephen Dolan, Leo White, KC Sivaramakrishnan, Jeremy Yallop and Anil Madhavapeddy  
+  ([pdf](http://kcsrk.info/papers/effects_ocaml15.pdf))
 
 * **Fixing Non-determinism** (IFL 2015)  
   by Alexander Vandenbroucke, Tom Schrijvers, and Frank Piessens  
@@ -125,18 +163,15 @@ computational effects.
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/jlp/BauerP15))
   ([doi](http://dx.doi.org/10.1016/j.jlamp.2014.02.001))
 
-
 * **An Introduction to Algebraic Effects and Handlers** (MFPS 2015)  
   by Matija Pretnar  
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar15))
   ([doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003))
   ([pdf](http://www.eff-lang.org/handlers-tutorial.pdf))
 
-
 * **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
   by Nicolas Wu and Tom Schrijvers  
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/mpc2015.pdf))
-
 
 * **Interleaving data and effects** (JFP 2015)  
   by Robert Atkey and Patricia Johann  
@@ -145,6 +180,10 @@ computational effects.
   ([pdf](http://bentnib.org/interleaving.pdf))
 
 ### 2014
+
+* **Algebraic Effects and Handlers in Natural Language Interpretation** (NLCS 2014)  
+  by Jiří Maršík and Maxime Amblard  
+  ([pdf](https://hal.inria.fr/hal-01079206/document))
 
 * **Algebraic effects and effect handlers for idioms and arrows** (WGP 2014)  
   by Sam Lindley  
@@ -170,7 +209,6 @@ computational effects.
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/corr/Pretnar13))
   ([doi](http://dx.doi.org/10.2168/LMCS-10%283:21%292014))
 
-
 * **An Effect System for Algebraic Effects and Handlers** (LMCS 2014)  
   by Andrej Bauer and Matija Pretnar  
   ([arxiv](http://arxiv.org/pdf/1306.6316.pdf))
@@ -193,7 +231,7 @@ computational effects.
 
 * **Handlers in action** (ICFP 2013)  
   by Ohad Kammar, Sam Lindley and Nicolas Oury  
-  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf))
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf)) ([GitHub](https://github.com/slindley/effect-handlers))
 
 
 * **Extensible effects: an alternative to monad transformers** (Haskell 2013)  
@@ -272,6 +310,9 @@ computational effects.
   by Robert Atkey  
   ([pdf](http://bentnib.org/arrows.pdf))
 
+* **Data types a la carte** (JFP 2008)  
+  by Wouter Swierstra  
+  ([pdf](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf))
 
 ### 2007
 
@@ -395,9 +436,19 @@ computational effects.
   by Eugenio Moggi  
   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf))
 
-
 * **An abstract view of programming languages** (Ed. Uni. Tech Report, 1989)  
   by Eugenio Moggi
+
+### 1988
+
+* **Polymorphic effect systems** (POPL 1988)  
+  by John M. Lucassen and David K. Gifford  
+  ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.4916&rep=rep1&type=pdf))
+
+* **The FX-87 Interpreter** (ICCL 1988)  
+  by Pierre Jouvelot and David K. Gifford  
+  ([doi](https://doi.org/10.1109%2FICCL.1988.13044))
+
 
 ## Theses and Dissertations
 
@@ -428,6 +479,7 @@ computational effects.
   * **The Logic and Handling of Algebraic Effects** (PhD Thesis, University of Edinburgh)  
     by Matija Pretnar  
     ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
+
 
 ---
 

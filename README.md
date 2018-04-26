@@ -12,6 +12,11 @@ computational effects.
 
 ## Software
 
+See also the [Effects and handlers Rosetta
+stone](https://github.com/andrejbauer/effects-rosetta-stone), a
+comparison of how computational effects and handlers are implemented
+in various programming languages.
+
 * **Eff**: programming language with algebraic effects and handlers  
   by Andrej Bauer and Matija Pretnar  
   ([www](http://www.eff-lang.org/))

@@ -311,7 +311,7 @@ in various programming languages.
   by Gordon Plotkin and Matija Pretnar  
   ([pdf](http://homepages.inf.ed.ac.uk/gdp/publications/Logic_Algebraic_Effects.pdf))
 
-* **What is a Categorical Model of Arrows?** (MSFP 2008)
+* **What is a Categorical Model of Arrows?** (MSFP 2008)  
   by Robert Atkey  
   ([pdf](http://bentnib.org/arrows.pdf))
 

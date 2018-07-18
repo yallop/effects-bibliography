@@ -33,14 +33,14 @@ in various programming languages.
 * **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  
   by Sam Lindley, Conor McBride and Craig McLaughlin  
   ([www](https://github.com/frank-lang/frank))
-  
+
 * **F\***: an ML-like effectful dependently typed functional programming language aimed at program verification  
   ([www](https://fstar-lang.org))
 
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  
   ([www](https://github.com/koka-lang/koka))
-  
+
 * **Links effect handlers**: an effect handlers extension for the Links web programming language  
   by Daniel Hillerström and Sam Lindley  
   ([www](https://github.com/links-lang/links))
@@ -60,6 +60,10 @@ in various programming languages.
 ## Papers
 
 ### 2018
+
+* **Versatile Event Correlation with Algebraic Effects** (ICFP 2018)  
+  by Oliver Bracevac, Nada Amin, Guido Salvaneschi, Sebastian Erdweg, Patrick Eugster, and Mira Mezini  
+  ([pdf](https://www.student.informatik.tu-darmstadt.de/~xx00seba/publications/event-correlation-algebraic-effects.pdf))  
 
 * **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)<BR/>
   by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet <BR/>

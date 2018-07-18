@@ -448,7 +448,7 @@ in various programming languages.
 
 * **Polymorphic effect systems** (POPL 1988)  
   by John M. Lucassen and David K. Gifford  
-  ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.4916&rep=rep1&type=pdf))
+  ([pdf](http://groups.csail.mit.edu/pag/OLD/parg/lucassen88effects.pdf))
 
 * **The FX-87 Interpreter** (ICCL 1988)  
   by Pierre Jouvelot and David K. Gifford  

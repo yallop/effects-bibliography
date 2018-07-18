@@ -65,6 +65,10 @@ in various programming languages.
   by Oliver Bracevac, Nada Amin, Guido Salvaneschi, Sebastian Erdweg, Patrick Eugster, and Mira Mezini  
   ([pdf](https://www.student.informatik.tu-darmstadt.de/~xx00seba/publications/event-correlation-algebraic-effects.pdf))  
 
+* **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)<BR/>
+  by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet <BR/>
+  ([metadata](https://hal.inria.fr/hal-01799712), [pdf](https://hal.inria.fr/hal-01799712/document))
+
 * **Explicit Effect Subtyping** (ESOP 2018)  
   by Amr Hany Saleh, Georgios Karachalias, Matija Pretnar, and Tom Schrijvers  
   ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf)) ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf)) ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
@@ -452,7 +456,7 @@ in various programming languages.
 
 * **Polymorphic effect systems** (POPL 1988)  
   by John M. Lucassen and David K. Gifford  
-  ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.4916&rep=rep1&type=pdf))
+  ([pdf](http://groups.csail.mit.edu/pag/OLD/parg/lucassen88effects.pdf))
 
 * **The FX-87 Interpreter** (ICCL 1988)  
   by Pierre Jouvelot and David K. Gifford  

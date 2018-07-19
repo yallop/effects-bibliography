@@ -466,6 +466,10 @@ in various programming languages.
 ## Theses and Dissertations
 
   ### 2017
+  
+  * **Distributive Interaction of Algebraic Effects** (PhD Thesis, University of Oxford)  
+    by Kwok-Ho Cheung  
+    ([pdf](https://ora.ox.ac.uk/objects/uuid:66106628-0a71-4564-bc34-c398db766818/download_file?file_format=pdf&safe_filename=report.pdf&type_of_work=Thesis))
 
   * **Enhancing a Modular Effectful Programming Language** (MSc Dissertation, University of Edinburgh)  
     by Lukas Convent  

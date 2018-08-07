@@ -51,7 +51,7 @@ in various programming languages.
 
 * **Scala Effekt**: extensible algebraic effects with handlers in Scala  
   by Jonathan Brachthäuser  
-  ([www](http://b-studios.de/scala-effekt/))
+  ([www](https://github.com/b-studios/scala-effekt))
 
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  

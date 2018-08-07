@@ -94,7 +94,6 @@ in various programming languages.
 
 * **Effekt: Extensible Algebraic Effects in Scala** (Scala 2017)  
   by Jonathan Immanuel Brachthäuser and Philipp Schuster  
-  ([pdf](http://files.b-studios.de/effekt.pdf))
 
 * **Efficient Compilation of Algebraic Effects and Handlers**  
   by Matija Pretnar, Amr Hany Saleh, Axel Faes, and Tom Schrijvers  

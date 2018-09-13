@@ -61,6 +61,10 @@ in various programming languages.
 
 ### 2018
 
+* **Shallow Effect Handlers** (APLAS 2018)  
+  by Daniel Hillerström and Sam Lindley  
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/shallow-extended.pdf))
+
 * **Versatile Event Correlation with Algebraic Effects** (ICFP 2018)  
   by Oliver Bracevac, Nada Amin, Guido Salvaneschi, Sebastian Erdweg, Patrick Eugster, and Mira Mezini  
   ([pdf](https://www.student.informatik.tu-darmstadt.de/~xx00seba/publications/event-correlation-algebraic-effects.pdf))  

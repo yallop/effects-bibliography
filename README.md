@@ -66,8 +66,8 @@ in various programming languages.
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/shallow-extended.pdf))
 
 * **Versatile Event Correlation with Algebraic Effects** (ICFP 2018)  
-  by Oliver Bracevac, Nada Amin, Guido Salvaneschi, Sebastian Erdweg, Patrick Eugster, and Mira Mezini  
-  ([pdf](https://www.student.informatik.tu-darmstadt.de/~xx00seba/publications/event-correlation-algebraic-effects.pdf))  
+  by Oliver Bračevac, Nada Amin, Guido Salvaneschi, Sebastian Erdweg, Patrick Eugster, and Mira Mezini  
+  ([pdf](http://www.st.informatik.tu-darmstadt.de/artifacts/corrl/cartesius_preprint.pdf))
 
 * **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)<BR/>
   by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet <BR/>

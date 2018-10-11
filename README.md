@@ -61,6 +61,10 @@ in various programming languages.
 
 ### 2018
 
+* **Abstract Nonsense** (FARM 2018)  
+  by Junia Gonçalves  
+  ([acm dl](https://dl.acm.org/citation.cfm?id=3242908))
+
 * **Syntax and Semantics for Operations with Scopes**  (LICS 2018)  
   by Maciej Piróg and Tom Schrijvers and Nicolas Wu and Mauro Jaskelioff  
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/lics2018.pdf))

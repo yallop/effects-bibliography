@@ -61,6 +61,10 @@ in various programming languages.
 
 ### 2018
 
+* **First Class Dynamic Effect Handlers: or, Polymorphic Heaps with Dynamic Effect Handlers** (TyDe 2018)  
+  by Daan Leijen  
+  ([acm dl](https://dl.acm.org/citation.cfm?id=3241789))
+
 * **Shallow Effect Handlers** (APLAS 2018)  
   by Daniel Hillerström and Sam Lindley  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/shallow-extended.pdf))
@@ -87,6 +91,10 @@ in various programming languages.
   ([pdf](https://danelahman.github.io/papers/popl18.pdf))
 
 ### 2017
+
+* **Staged Generic Programming** (ICFP 2017)  
+  by Jeremy Yallop  
+  ([pdf](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))
 
 * **Concurrent System Programming with Effect Handlers** (TFP 2017)  
   by Stephen Dolan, Spiros Eliopolous, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White  

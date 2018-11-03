@@ -61,12 +61,20 @@ in various programming languages.
 
 ### 2018
 
+* **JEff: Objects for Effect** (Onward 2018)  
+  by Pablo Inostroza and Tijs van der Storm  
+  ([acm dl](https://dl.acm.org/citation.cfm?id=3276955))
+
+* **Effect Handlers for the Masses** (OOPSLA 2018)  
+  by Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
+  ([acm dl](https://dl.acm.org/citation.cfm?id=3276481))
+
 * **Abstract Nonsense** (FARM 2018)  
   by Junia Gonçalves  
   ([acm dl](https://dl.acm.org/citation.cfm?id=3242908))
 
 * **Syntax and Semantics for Operations with Scopes**  (LICS 2018)  
-  by Maciej Piróg and Tom Schrijvers and Nicolas Wu and Mauro Jaskelioff  
+  by Maciej Piróg, Tom Schrijvers, Nicolas Wu, and Mauro Jaskelioff  
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/lics2018.pdf))
 
 * **First Class Dynamic Effect Handlers: or, Polymorphic Heaps with Dynamic Effect Handlers** (TyDe 2018)  

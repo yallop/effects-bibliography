@@ -31,8 +31,13 @@ in various programming languages.
   ([www](http://okmij.org/ftp/Haskell/extensible/))
 
 * **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  
-  by Sam Lindley, Conor McBride and Craig McLaughlin  
+  by Sam Lindley, Conor McBride, and Craig McLaughlin  
   ([www](https://github.com/frank-lang/frank))
+
+* **Fused effects**: a Haskell library for effects  
+  by Rob Rix  
+  ([hackage](https://hackage.haskell.org/package/fused-effects))
+  ([www](https://github.com/robrix/fused-effects))
 
 * **F\***: an ML-like effectful dependently typed functional programming language aimed at program verification  
   ([www](https://fstar-lang.org))
@@ -46,7 +51,7 @@ in various programming languages.
   ([www](https://github.com/links-lang/links))
 
 * **Multicore OCaml**: a multicore + effect handlers extension for OCaml  
-  by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White and Jeremy Yallop  
+  by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White, and Jeremy Yallop  
   ([www](https://github.com/ocamllabs/ocaml-multicore/wiki))
 
 * **Scala Effekt**: extensible algebraic effects with handlers in Scala  

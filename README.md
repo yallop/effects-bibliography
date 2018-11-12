@@ -64,6 +64,16 @@ in various programming languages.
 
 ## Papers
 
+### 2019
+
+* **Abstracting Algebraic Effects** (POPL 2019)  
+  by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
+  ([preprint](https://sites.google.com/a/cs.uni.wroc.pl/efes/research/abstract-aleff.pdf))
+
+* **Abstraction-Safe Effect Handlers via Tunneling** (POPL 2019)  
+  by Yizhou Zhang, and Andrew Myers  
+  ([technical report](https://hdl.handle.net/1813/60202))
+
 ### 2018
 
 * **JEff: Objects for Effect** (Onward 2018)  

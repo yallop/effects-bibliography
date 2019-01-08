@@ -76,6 +76,10 @@ in various programming languages.
 
 ### 2018
 
+* **What is algebraic about algebraic effects and handlers?** (unpublished)  
+  by Andrej Bauer  
+  ([arxiv](https://arxiv.org/pdf/1807.05923))
+
 * **JEff: Objects for Effect** (Onward 2018)  
   by Pablo Inostroza and Tijs van der Storm  
   ([acm dl](https://dl.acm.org/citation.cfm?id=3276955))

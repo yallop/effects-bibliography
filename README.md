@@ -62,6 +62,20 @@ in various programming languages.
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))
 
+## Tutorials
+
+### 2018
+
+* **What is algebraic about algebraic effects and handlers?** (tutorial given at [Dagstuhl](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18172) and [OPLSS](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php))  
+  by Andrej Bauer  
+  ([pdf](https://arxiv.org/pdf/1807.05923))  
+  (Videos: [1.1](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer1-1.mp4),
+           [1.2](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer1-2.mp4),
+           [1.3](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer1-3.mp4),
+           [2.1](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer2-1.mp4),
+           [2.2](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer2-2.mp4),
+           [2.3](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer2-3.mp4))
+
 ## Papers
 
 ### 2019
@@ -75,10 +89,6 @@ in various programming languages.
   ([technical report](https://hdl.handle.net/1813/60202))
 
 ### 2018
-
-* **What is algebraic about algebraic effects and handlers?** (unpublished)  
-  by Andrej Bauer  
-  ([arxiv](https://arxiv.org/pdf/1807.05923))
 
 * **JEff: Objects for Effect** (Onward 2018)  
   by Pablo Inostroza and Tijs van der Storm  

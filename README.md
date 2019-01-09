@@ -42,6 +42,9 @@ in various programming languages.
 * **F\***: an ML-like effectful dependently typed functional programming language aimed at program verification  
   ([www](https://fstar-lang.org))
 
+* **Idris Effects**: library for algebraic effects and handlers in Idris - inspired by Eff language  
+  ([www](https://www.idris-lang.org/documentation/effects/))
+
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  
   ([www](https://github.com/koka-lang/koka))

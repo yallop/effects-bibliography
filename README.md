@@ -58,6 +58,11 @@ in various programming languages.
   by Jonathan Brachthäuser  
   ([www](https://github.com/b-studios/scala-effekt))
 
+* **atnos-org/eff**: extensible effects for Cats in Scala  
+  by Eric Torreborre  
+  ([www](http://atnos-org.github.io/eff/))
+  ([github](http://github.com/atnos-org/eff))
+
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))

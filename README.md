@@ -43,7 +43,7 @@ in various programming languages.
   ([www](https://fstar-lang.org))
 
 * **Idris Effects**: library for algebraic effects and handlers in Idris - inspired by Eff language  
-  ([github](https://github.com/idris-lang/Idris-dev/tree/master/libs/effects))  ([www](https://www.idris-lang.org/documentation/effects/))
+  ([www](https://www.idris-lang.org/documentation/effects/))
 
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  

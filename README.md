@@ -84,6 +84,12 @@ in various programming languages.
            [2.2](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer2-2.mp4),
            [2.3](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer2-3.mp4))
 
+### 2017
+
+* **Concurrent Programming with Effect Handlers** (tutorial given at [CUFP](http://cufp.org/2017/c3-daniel-hillerstrom-kc-concurrent-programming-with-effect-handlers.html))  
+   by Daniel Hillerström and KC Sivaramakrishnan  
+   ([www](http://cufp.org/2017/c3-daniel-hillerstrom-kc-concurrent-programming-with-effect-handlers.html))
+
 ## Papers
 
 ### 2019

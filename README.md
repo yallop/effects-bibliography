@@ -98,6 +98,14 @@ in various programming languages.
 
 ### 2018
 
+* **Factorisation Systems for Logical Relations and Monadic Lifting in Type-and-effect System Semantics** (MFPS 2018)  
+  by Ohad Kammar and Dylan McDermott  
+  ([doi](https://doi.org/10.1016/j.entcs.2018.11.012))
+
+* **Functional Programming for Modular Bayesian Inference** (ICFP 2018)  
+  by Adam Ścibior, Ohad Kammar, and Zoubin Ghahramani  
+  ([pdf](http://denotational.co.uk/publications/scibior-kammar-ghahramani-funcitonal-programming-for-modular-bayesian-inference.pdf))
+
 * **JEff: Objects for Effect** (Onward 2018)  
   by Pablo Inostroza and Tijs van der Storm  
   ([acm dl](https://dl.acm.org/citation.cfm?id=3276955))

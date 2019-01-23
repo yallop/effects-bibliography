@@ -237,6 +237,10 @@ in various programming languages.
   by Danel Ahman, Neil Ghani, and Gordon Plotkin  
   ([pdf](https://danelahman.github.io/papers/fossacs16.pdf))
   ([dblp](http://dblp.org/rec/conf/fossacs/AhmanGP16))
+  
+* **From Monads to Effects and Back** (PADL 2016)  
+  by Niki Vazou and Daan Leijen  
+  ([pdf](http://goto.ucsd.edu/~nvazou/koka/padl16.pdf))
 
 ### 2015
 

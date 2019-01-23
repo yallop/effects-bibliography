@@ -96,13 +96,21 @@ in various programming languages.
 
 * **Abstracting Algebraic Effects** (POPL 2019)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-  ([preprint](https://sites.google.com/a/cs.uni.wroc.pl/efes/research/abstract-aleff.pdf))
+  ([acm dl](https://dl.acm.org/citation.cfm?id=3290319)) ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/biernacki-al-popl19.pdf))
 
 * **Abstraction-Safe Effect Handlers via Tunneling** (POPL 2019)  
-  by Yizhou Zhang, and Andrew Myers  
-  ([technical report](https://hdl.handle.net/1813/60202))
+  by Yizhou Zhang and Andrew Myers  
+  ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318)) ([technical report](https://hdl.handle.net/1813/60202))
 
 ### 2018
+
+* **Automatic Reparameterisation in Probabilistic Programming** (AABI 2018)  
+  by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
+  ([pdf](http://approximateinference.org/2018/accepted/GorinovaEtAl2018.pdf))
+
+* **Effect Handling for Composable Program Transformations in Edward2** (PROBPROG 2018)  
+  by Dave Moore and Maria I. Gorinova  
+  ([arvix](https://arxiv.org/abs/1811.06150))
 
 * **Factorisation Systems for Logical Relations and Monadic Lifting in Type-and-effect System Semantics** (MFPS 2018)  
   by Ohad Kammar and Dylan McDermott  

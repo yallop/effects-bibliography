@@ -57,6 +57,10 @@ in various programming languages.
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White, and Jeremy Yallop  
   ([www](https://github.com/ocamllabs/ocaml-multicore/wiki))
 
+* **Pyro**: a deep universal probabilistic programming language  
+  by Uber AI Labs  
+  ([www](http://pyro.ai/))
+
 * **Scala Effekt**: extensible algebraic effects with handlers in Scala  
   by Jonathan Brachthäuser  
   ([www](https://github.com/b-studios/scala-effekt))
@@ -103,6 +107,10 @@ in various programming languages.
   ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318)) ([technical report](https://hdl.handle.net/1813/60202))
 
 ### 2018
+
+* **Pyro: Deep Universal Probabilistic Programming**  
+  by Eli Bingham, Jonathan P. Chen, Martin Jankowiak, Fritz Obermeyer, Neeraj Pradhan, Theofanis Karaletsos, Rohit Singh, Paul Szerlip, Paul Horsfall, and Noah D. Goodman  
+  ([arvix](https://arxiv.org/abs/1810.09538))
 
 * **Automatic Reparameterisation in Probabilistic Programming** (AABI 2018)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  

@@ -571,6 +571,12 @@ in various programming languages.
 
 ## Theses and Dissertations
 
+  ### 2019
+
+  * **Program Equivalence for Algebraic Effects via Modalities** (MSc Dissertation, University of Oxford)  
+    by Cristina Matache  
+   ([pdf](http://users.ox.ac.uk/~scro3229/documents/m_diss.pdf))
+
   ### 2017
   
   * **Distributive Interaction of Algebraic Effects** (PhD Thesis, University of Oxford)  

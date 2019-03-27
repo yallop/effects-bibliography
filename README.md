@@ -102,6 +102,10 @@ in various programming languages.
 
 ### 2019
 
+* **Handling Polymorphic Algebraic Effects** (ESOP 2019)  
+  Taro Sekiyama and Atsushi Igarashi  
+  ([arxiv](https://arxiv.org/pdf/1811.07332))
+
 * **Abstracting Algebraic Effects** (POPL 2019)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([acm dl](https://dl.acm.org/citation.cfm?id=3290319)) ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/biernacki-al-popl19.pdf))

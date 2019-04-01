@@ -457,7 +457,8 @@ in various programming languages.
   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/fossacs03.pdf))
 
 * **Algebraic Operations and Generic Effects** (Applied categorical structures, 2003)  
-  by Gordon D. Plotkin and John Power
+  by Gordon D. Plotkin and John Power  
+  ([pdf](http://homepages.inf.ed.ac.uk/gdp/publications/alg_ops_gen_effects.pdf))
 
 * **The Marriage of Effects and Monads** (Trans. Comp. Logic, 2003)  
   by Philip Wadler and Peter Thiemann

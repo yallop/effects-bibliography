@@ -106,6 +106,10 @@ in various programming languages.
   Taro Sekiyama and Atsushi Igarashi  
   ([arxiv](https://arxiv.org/pdf/1811.07332))
 
+* **Extended call-by-push-value: reasoning about effectful programs and evaluation order** (ESOP 2019)  
+  by Dylan McDermott and Alan Mycroft  
+  ([pdf](https://www.cl.cam.ac.uk/~dm606/extended-call-by-push-value.pdf))
+
 * **Abstracting Algebraic Effects** (POPL 2019)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([acm dl](https://dl.acm.org/citation.cfm?id=3290319)) ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/biernacki-al-popl19.pdf))
@@ -115,6 +119,10 @@ in various programming languages.
   ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318)) ([technical report](https://hdl.handle.net/1813/60202))
 
 ### 2018
+
+* **Call-by-need effects via coeffects** (Open Computer Science 2018)  
+  by Dylan McDermott and Alan Mycroft  
+  ([pdf](https://www.degruyter.com/downloadpdf/j/comp.2018.8.issue-1/comp-2018-0009/comp-2018-0009.pdf))
 
 * **Pyro: Deep Universal Probabilistic Programming**  
   by Eli Bingham, Jonathan P. Chen, Martin Jankowiak, Fritz Obermeyer, Neeraj Pradhan, Theofanis Karaletsos, Rohit Singh, Paul Szerlip, Paul Horsfall, and Noah D. Goodman  
@@ -239,6 +247,18 @@ in various programming languages.
   ([arxiv](https://arxiv.org/pdf/1605.06938))
 
 ### 2016
+
+* **Combining Effects and Coeffects via Grading** (ICFP 2016)  
+  by Marco Gaboardi, Shin-ya Katsumata, Dominic Orchard, Flavien Breuvart, and Tarmo Uustalu  
+  ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/combining-effects-and-coeffects-icfp16.pdf))
+
+* **Effects as Sessions, Sessions as Effects** (POPL 2016)  
+  by Dominic Orchard and Nobuko Yoshida  
+  ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/popl16-orchard-yoshida.pdf))
+
+* **Effect Systems Revisited -- Control-Flow Algebra and Semantics**  (Semantics, Logics, and Calculi 2016)  
+  by Alan Mycroft, Dominic Orchard, and Tomas Petricek
+  ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/effects-revisited.pdf))
 
 * **Efficient Algebraic Effect Handlers for Prolog** (TPLP/ICLP 2016)  
   by Amr Hany Saleh and Tom Schrijvers  

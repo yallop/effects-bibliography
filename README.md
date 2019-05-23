@@ -102,8 +102,8 @@ in various programming languages.
 
 ### 2019
 
-* **Typed equivalence of effect handlers and delimited control** (FSCD 2019)
-  Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski
+* **Typed equivalence of effect handlers and delimited control** (FSCD 2019)  
+  Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/typed-equivalence-fscd2019.pdf))
 
 * **Handling Polymorphic Algebraic Effects** (ESOP 2019)  

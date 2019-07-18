@@ -514,7 +514,8 @@ in various programming languages.
 ### 1999
 
 * **Representing layered monads** (POPL 1999)  
-  by Andrzej Filinski
+  by Andrzej Filinski  
+  ([ps.gz](http://hjemmesider.diku.dk/~andrzej/papers/RLM.ps.gz))
 
 ### 1995
 
@@ -530,7 +531,8 @@ in various programming languages.
 ### 1994
 
 * **Extensible Denotational Language Specifications** (TACS 1994)  
-  by Robert Cartwright and Matthias Felleisen
+  by Robert Cartwright and Matthias Felleisen  
+  ([ps.gz](http://www.ccis.neu.edu/racket/pubs/tacs94-cf.ps.gz))
 
 * **Building interpreters by transforming stratified monads** (Unpublished, 1994)  
   by David Espinosa

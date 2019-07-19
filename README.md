@@ -102,6 +102,10 @@ in various programming languages.
 
 ### 2019
 
+* **Bisimulations for Delimited-Control Operators** (LMCS 2019)  
+  by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  
+  ([pdf](https://lmcs.episciences.org/5508/pdf))
+
 * **Typed equivalence of effect handlers and delimited control** (FSCD 2019)  
   Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/typed-equivalence-fscd2019.pdf))

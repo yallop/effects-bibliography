@@ -13,7 +13,7 @@ computational effects.
 ## Software
 
 See also the [Effects and handlers Rosetta
-stone](https://github.com/andrejbauer/effects-rosetta-stone), a
+stone](https://github.com/effect-handlers/effects-rosetta-stone), a
 comparison of how computational effects and handlers are implemented
 in various programming languages.
 

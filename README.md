@@ -102,6 +102,14 @@ in various programming languages.
 
 ### 2019
 
+* **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
+  by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
+  ([pdf](https://staff.aist.go.jp/reynald.affeldt/documents/monae.pdf)) ([github](https://github.com/affeldt-aist/monae))
+
+* **Handling Local State with Global State** (MPC 2019)  
+   by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  
+   ([pdf](https://www.iis.sinica.edu.tw/papers/scm/22560-F.pdf))
+
 * **Bisimulations for Delimited-Control Operators** (LMCS 2019)  
   by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  
   ([pdf](https://lmcs.episciences.org/5508/pdf))

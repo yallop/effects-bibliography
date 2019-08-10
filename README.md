@@ -61,6 +61,11 @@ in various programming languages.
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White, and Jeremy Yallop  
   ([www](https://github.com/ocamllabs/ocaml-multicore/wiki))
 
+* **Polysemy**: a Haskell library for effects
+  by Sandy Maguire
+  ([hackage](http://hackage.haskell.org/package/polysemy))
+  ([www](https://github.com/polysemy-research/polysemy))
+
 * **Pyro**: a deep universal probabilistic programming language  
   by Uber AI Labs  
   ([www](http://pyro.ai/))

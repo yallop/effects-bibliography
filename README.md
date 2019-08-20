@@ -111,6 +111,10 @@ in various programming languages.
   by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/effmondel-jfp.pdf))
 
+* **Monad transformers and modular algebraic effects: What binds them together** (Haskell 2019)  
+  by Tom Schrijvers, Maciej Piróg, Nicolas Wu, and Mauro Jaskelioff  
+  ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/what-binds-them-together.pdf))
+
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
   ([pdf](https://staff.aist.go.jp/reynald.affeldt/documents/monae.pdf)) ([github](https://github.com/affeldt-aist/monae))

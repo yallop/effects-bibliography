@@ -103,6 +103,14 @@ in various programming languages.
    by Daniel Hillerström and KC Sivaramakrishnan  
    ([www](http://cufp.org/2017/c3-daniel-hillerstrom-kc-concurrent-programming-with-effect-handlers.html))
 
+### 2015
+
+* **An Introduction to Algebraic Effects and Handlers** (MFPS 2015)  
+  by Matija Pretnar  
+  ([dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar15))
+  ([doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003))
+  ([pdf](http://www.eff-lang.org/handlers-tutorial.pdf))
+
 ## Papers
 
 ### 2019
@@ -330,12 +338,6 @@ in various programming languages.
   ([arxiv](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/jlp/BauerP15))
   ([doi](http://dx.doi.org/10.1016/j.jlamp.2014.02.001))
-
-* **An Introduction to Algebraic Effects and Handlers** (MFPS 2015)  
-  by Matija Pretnar  
-  ([dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar15))
-  ([doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003))
-  ([pdf](http://www.eff-lang.org/handlers-tutorial.pdf))
 
 * **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
   by Nicolas Wu and Tom Schrijvers  

@@ -107,6 +107,10 @@ in various programming languages.
 
 ### 2019
 
+* **On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control** (JFP, ICFP 2017 special issue)  
+  by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/effmondel-jfp.pdf))
+
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
   ([pdf](https://staff.aist.go.jp/reynald.affeldt/documents/monae.pdf)) ([github](https://github.com/affeldt-aist/monae))

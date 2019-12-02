@@ -113,6 +113,12 @@ in various programming languages.
 
 ## Papers
 
+### 2020
+
+* **Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers** (POPL 2020)  
+   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
+   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/binders-labels.pdf))
+
 ### 2019
 
 * **On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control** (JFP, ICFP 2017 special issue)  

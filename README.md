@@ -119,6 +119,10 @@ in various programming languages.
    by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
    ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/binders-labels.pdf))
 
+* **Runners in action** (ESOP 2020)  
+  by Danel Ahman and Andrej Bauer  
+  ([arxiv](https://arxiv.org/pdf/1910.11629.pdf))
+
 ### 2019
 
 * **On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control** (JFP, ICFP 2017 special issue)  

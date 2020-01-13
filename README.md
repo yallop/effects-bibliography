@@ -169,7 +169,7 @@ in various programming languages.
 
 * **Call-by-need effects via coeffects** (Open Computer Science 2018)  
   by Dylan McDermott and Alan Mycroft  
-  ([pdf](https://www.degruyter.com/downloadpdf/j/comp.2018.8.issue-1/comp-2018-0009/comp-2018-0009.pdf))
+  ([pdf](https://www.cl.cam.ac.uk/~dm606/call-by-need-effects.pdf))
 
 * **Pyro: Deep Universal Probabilistic Programming**  
   by Eli Bingham, Jonathan P. Chen, Martin Jankowiak, Fritz Obermeyer, Neeraj Pradhan, Theofanis Karaletsos, Rohit Singh, Paul Szerlip, Paul Horsfall, and Noah D. Goodman  

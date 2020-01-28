@@ -115,13 +115,17 @@ in various programming languages.
 
 ### 2020
 
-* **Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers** (POPL 2020)  
-   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/binders-labels.pdf))
-
 * **Runners in action** (ESOP 2020)  
   by Danel Ahman and Andrej Bauer  
   ([arxiv](https://arxiv.org/pdf/1910.11629.pdf))
+
+* **Interaction Trees: Representing Recursive and Impure Programs in Coq** (POPL 2020)  
+   by Li-yao Xia, Yannick Zakowski, Paul He, Chung-Kil Hur, Gregory Malecha, Benjamin C. Pierce, Steve Zdancewic  
+   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3371119?download=true))
+
+* **Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers** (POPL 2020)  
+   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
+   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/binders-labels.pdf))
 
 ### 2019
 

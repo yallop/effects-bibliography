@@ -47,7 +47,7 @@ in various programming languages.
   ([www](https://bitbucket.org/pl-uwr/helium))
 
 * **Idris Effects**: library for algebraic effects and handlers in Idris - inspired by Eff language  
-  ([www](https://www.idris-lang.org/documentation/effects/))
+  ([www](https://www.idris-lang.org/docs/current/effects_doc/))
 
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  

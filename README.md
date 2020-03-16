@@ -115,6 +115,10 @@ in various programming languages.
 
 ### 2020
 
+* **Effect handlers via generalised continuations** (JFP 2020)  
+  by Daniel Hillerström, Sam Lindley, and Robert Atkey  
+  ([pdf](https://www.dhil.net/research/papers/generalised_continuations-jfp-draft.pdf))
+
 * **Runners in action** (ESOP 2020)  
   by Danel Ahman and Andrej Bauer  
   ([arxiv](https://arxiv.org/pdf/1910.11629.pdf))

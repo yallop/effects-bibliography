@@ -115,6 +115,10 @@ in various programming languages.
 
 ### 2020
 
+* **Doo bee doo bee doo** (JFP 2020)  
+  Lukas Convent, Sam Lindley, Conor McBride, and Craig McLaughlin  
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-jfp.pdf))
+
 * **Effect handlers via generalised continuations** (JFP 2020)  
   by Daniel Hillerström, Sam Lindley, and Robert Atkey  
   ([pdf](https://www.dhil.net/research/papers/generalised_continuations-jfp-draft.pdf))

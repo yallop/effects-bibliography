@@ -139,12 +139,32 @@ in various programming languages.
    by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
    ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/binders-labels.pdf))
 
+* **Combining predicate transformer semantics for effects: a case study in parsing regular languages** (MSFP 2020)  
+  by Anne Baanen and Wouter Swierstra  
+  ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:3))  
+
+* **From Equations to Distinctions: Two Interpretations of Effectful Computations** (MSFP 2020)  
+  by Niels Voorneveld  
+  ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:4))  
+  
+* **Unifying graded and parameterised monads** (MSFP 2020)  
+  by Dominic Orchard, Philip Wadler and Harley Eades III  
+  ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:7))  
+
 ### 2019
 
 * **On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control** (JFP, ICFP 2017 special issue)  
   by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/effmondel-jfp.pdf))
 
+* **Dijkstra Monads for All** (ICFP 2019)  
+  by Kenji Maillard, Danel Ahman, Robert Atkey, Guido Martínez, Cătălin Hriţcu, Exequiel Rivas and Éric Tanter  
+  ([pdf](https://arxiv.org/abs/1903.01237))  
+  
+* **A predicate transformer semantics for effects (Functional Pearl)** (ICFP 2020)  
+  by Wouter Swierstra and Anne Baanen  
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3341707?download=true))  
+  
 * **Monad transformers and modular algebraic effects: What binds them together** (Haskell 2019)  
   by Tom Schrijvers, Maciej Piróg, Nicolas Wu, and Mauro Jaskelioff  
   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/what-binds-them-together.pdf))

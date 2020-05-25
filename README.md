@@ -595,9 +595,6 @@ in various programming languages.
 * **Monad Transformers and Modular Interpreters** (POPL 1995)  
   by Sheng Liang, Paul Hudak and Mark Jones
 
-* **Semantic Lego** (UMI Order No. GAX95-33546, 1995)  
-  by David A. Espinosa
-
 * **Monads for functional programming** (1995)  
   Philip Wadler
 
@@ -608,7 +605,8 @@ in various programming languages.
   ([ps.gz](http://www.ccis.neu.edu/racket/pubs/tacs94-cf.ps.gz))
 
 * **Building interpreters by transforming stratified monads** (Unpublished, 1994)  
-  by David Espinosa
+  by David Espinosa  
+  ([pdf](https://github.com/davidespinosa01/papers/blob/master/E/Espinosa%20David/espinosa-stratified-monads.pdf))
 
 * **Representing monads** (POPL 1994)  
   by Andrzej Filinski
@@ -631,7 +629,8 @@ in various programming languages.
   Guy L. Steele, Jr.
 
 * **Modular denotational semantics** (Unpublished, 1993)  
-  by David Espinosa
+  by David Espinosa  
+  ([pdf](https://github.com/davidespinosa01/papers/blob/master/E/Espinosa%20David/espinosa-semantic-lego.pdf))
 
 ### 1992
 
@@ -717,6 +716,12 @@ in various programming languages.
     by Matija Pretnar  
     ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
 
+  ### 1995
+
+  * **Semantic Lego** (PhD Thesis, Columbia University)  
+    by David Espinosa  
+    ([pdf](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis.pdf))
+    ([pdf slides](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis-slides.pdf))
 
 ---
 

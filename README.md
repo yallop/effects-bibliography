@@ -399,6 +399,10 @@ in various programming languages.
   ([doi](http://dx.doi.org/10.1017/S0956796815000209))
   ([pdf](http://bentnib.org/interleaving.pdf))
 
+* **Stateful Runners of Effectful Computations**
+  by Tarmo Uustalu
+  ([doi](https://doi.org/10.1016/j.entcs.2015.12.024))
+
 ### 2014
 
 * **Algebraic Effects and Handlers in Natural Language Interpretation** (NLCS 2014)  

@@ -117,7 +117,7 @@ in various programming languages.
 
 * **Effekt: Capability-passing style for type- and effect-safe, extensible effect handlers in Scala** (JFP 2020)  
   Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
-  ([pdf](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser19effekt-revision.pdf))
+  ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A19680B18FB74AD95F8D83BC4B097D4F/S0956796820000027a.pdf/effekt_capabilitypassing_style_for_type_and_effectsafe_extensible_effect_handlers_in_scala.pdf))
 
 * **Doo bee doo bee doo** (JFP 2020)  
   Lukas Convent, Sam Lindley, Conor McBride, and Craig McLaughlin  

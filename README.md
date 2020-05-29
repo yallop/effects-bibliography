@@ -151,6 +151,18 @@ in various programming languages.
   by Dominic Orchard, Philip Wadler and Harley Eades III  
   ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:7))  
 
+* **Asynchronous effects**  
+  by Danel Ahman and Matija Pretnar  
+  ([arxiv](https://arxiv.org/abs/2003.02110))  
+
+* **Local Algebraic Effect Theories** (JFP)  
+  by Žiga Lukšič and Matija Pretnar  
+  ([doi](https://doi.org/10.1017/S0956796819000212)) ([arxiv](https://arxiv.org/abs/2005.13654))  
+
+* **Explicit Effect Subtyping**  
+  by Georgios Karachalias, Matija Pretnar, Amr Hany Saleh, Stien Vanderhallen and Tom Schrijvers  
+  ([arxiv](https://arxiv.org/abs/2005.13814))  
+
 ### 2019
 
 * **On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control** (JFP, ICFP 2017 special issue)  

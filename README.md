@@ -213,7 +213,16 @@ in various programming languages.
   by Yizhou Zhang and Andrew Myers  
   ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318)) ([technical report](https://hdl.handle.net/1813/60202))
 
+* **Behavioural Equivalence via Modalities for Algebraic Effects** (TOPLAS 2019)  
+  by Alex Simpson and Niels Voorneveld  
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3363518))
+
+
 ### 2018
+
+* **Behavioural Equivalence via Modalities for Algebraic Effects** (ESOP 2018)  
+  by Alex Simpson and Niels Voorneveld  
+  ([pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-89884-1.pdf))
 
 * **Call-by-need effects via coeffects** (Open Computer Science 2018)  
   by Dylan McDermott and Alan Mycroft  

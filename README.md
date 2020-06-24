@@ -115,12 +115,28 @@ in various programming languages.
 
 ### 2020
 
+* **Signature restriction for polymorphic algebraic effects** (ICFP 2020)  
+  by Taro Sekiyama, Takeshi Tsukada, and Atsushi Igarashi  
+ ([pdf](https://arxiv.org/pdf/2003.08138))
+
+* **Effects for Efficiency: Asymptotic Speedup with First-Class Control** (ICFP 2020)  
+  by Daniel Hillerström, Sam Lindley, and John Longley  
+  ([pdf](https://www.dhil.net/research/papers/effects_for_efficiency-draft-march2020.pdf))
+
+* **Effect Handlers, Evidently** (ICFP 2020)  
+  by Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schuster, and Daan Leijen  
+  ([pdf](https://www.dhil.net/research/papers/effect_handlers_evidently-draft-march2020.pdf))
+
+* **Compiling Effect Handlers in Capability-Passing Style** (ICFP 2020)  
+  by Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann  
+ ([pdf](http://ps.informatik.uni-tuebingen.de/publications/schuster20capability.pdf))
+
 * **Effekt: Capability-passing style for type- and effect-safe, extensible effect handlers in Scala** (JFP 2020)  
-  Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
+  by Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A19680B18FB74AD95F8D83BC4B097D4F/S0956796820000027a.pdf/effekt_capabilitypassing_style_for_type_and_effectsafe_extensible_effect_handlers_in_scala.pdf))
 
 * **Doo bee doo bee doo** (JFP 2020)  
-  Lukas Convent, Sam Lindley, Conor McBride, and Craig McLaughlin  
+  by Lukas Convent, Sam Lindley, Conor McBride, and Craig McLaughlin  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-jfp.pdf))
 
 * **Effect handlers via generalised continuations** (JFP 2020)  

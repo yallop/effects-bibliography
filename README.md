@@ -115,6 +115,10 @@ in various programming languages.
 
 ### 2020
 
+* **Signature restriction for polymorphic algebraic effects** (ICFP 2020)  
+  by Taro Sekiyama, Takeshi Tsukada, and Atsushi Igarashi  
+ ([pdf](https://arxiv.org/pdf/2003.08138))
+
 * **Effects for Efficiency: Asymptotic Speedup with First-Class Control** (ICFP 2020)  
   by Daniel Hillerström, Sam Lindley, and John Longley  
   ([pdf](https://www.dhil.net/research/papers/effects_for_efficiency-draft-march2020.pdf))

@@ -125,7 +125,7 @@ in various programming languages.
 
 * **Effect Handlers, Evidently** (ICFP 2020)  
   by Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schuster, and Daan Leijen  
-  ([pdf](https://www.dhil.net/research/papers/effect_handlers_evidently-draft-march2020.pdf))
+  ([pdf](https://www.dhil.net/research/papers/effect_handlers_evidently-extended-icfp2020.pdf))
 
 * **Compiling Effect Handlers in Capability-Passing Style** (ICFP 2020)  
   by Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann  

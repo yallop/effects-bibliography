@@ -715,6 +715,12 @@ in various programming languages.
 
 ## Theses and Dissertations
 
+  ### 2020
+
+  * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
+    by Jonathan Immanuel Brachthäuser  
+    ([pdf](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/102021/thesis-v1.1.pdf?sequence=1&isAllowed=y))
+
   ### 2019
 
   * **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  

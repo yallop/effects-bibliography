@@ -121,7 +121,7 @@ in various programming languages.
 
 * **Effects for Efficiency: Asymptotic Speedup with First-Class Control** (ICFP 2020)  
   by Daniel Hillerström, Sam Lindley, and John Longley  
-  ([pdf](https://www.dhil.net/research/papers/effects_for_efficiency-draft-march2020.pdf))
+  ([arxiv](https://arxiv.org/abs/2007.00605))
 
 * **Effect Handlers, Evidently** (ICFP 2020)  
   by Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schuster, and Daan Leijen  

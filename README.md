@@ -77,7 +77,7 @@ in various programming languages.
 * **atnos-org/eff**: extensible effects for Cats in Scala  
   by Eric Torreborre  
   ([www](http://atnos-org.github.io/eff/))
-  ([github](http://github.com/atnos-org/eff))
+  ([GitHub](http://github.com/atnos-org/eff))
 
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  
@@ -102,6 +102,7 @@ in various programming languages.
 * **Concurrent Programming with Effect Handlers** (tutorial given at [CUFP](http://cufp.org/2017/c3-daniel-hillerstrom-kc-concurrent-programming-with-effect-handlers.html))  
    by Daniel Hillerström and KC Sivaramakrishnan  
    ([www](http://cufp.org/2017/c3-daniel-hillerstrom-kc-concurrent-programming-with-effect-handlers.html))
+   ([GitHub](https://github.com/ocamllabs/ocaml-effects-tutorial))
 
 ### 2015
 
@@ -195,19 +196,19 @@ in various programming languages.
 
 * **Dijkstra Monads for All** (ICFP 2019)  
   by Kenji Maillard, Danel Ahman, Robert Atkey, Guido Martínez, Cătălin Hriţcu, Exequiel Rivas and Éric Tanter  
-  ([pdf](https://arxiv.org/abs/1903.01237))  
-  
+  ([pdf](https://arxiv.org/abs/1903.01237))
+
 * **A predicate transformer semantics for effects (Functional Pearl)** (ICFP 2020)  
   by Wouter Swierstra and Anne Baanen  
-  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3341707?download=true))  
-  
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3341707?download=true))
+
 * **Monad transformers and modular algebraic effects: What binds them together** (Haskell 2019)  
   by Tom Schrijvers, Maciej Piróg, Nicolas Wu, and Mauro Jaskelioff  
   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/what-binds-them-together.pdf))
 
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
-  ([pdf](https://staff.aist.go.jp/reynald.affeldt/documents/monae.pdf)) ([github](https://github.com/affeldt-aist/monae))
+  ([pdf](https://staff.aist.go.jp/reynald.affeldt/documents/monae.pdf)) ([GitHub](https://github.com/affeldt-aist/monae))
 
 * **Handling Local State with Global State** (MPC 2019)  
    by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  

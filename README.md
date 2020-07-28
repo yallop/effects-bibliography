@@ -115,6 +115,10 @@ in various programming languages.
 
 ### 2020
 
+* **Generalized Monoidal Effects And Handlers** (JFP 2020)  
+  by Ruben P. Pieters, Exequiel Rivas, and Tom Schrijvers  
+  ([pdf](https://rubenpieters.github.io/assets/papers/JFP20-handlers.pdf))
+
 * **Signature restriction for polymorphic algebraic effects** (ICFP 2020)  
   by Taro Sekiyama, Takeshi Tsukada, and Atsushi Igarashi  
  ([pdf](https://arxiv.org/pdf/2003.08138))

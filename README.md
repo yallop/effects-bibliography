@@ -120,6 +120,10 @@ in various programming languages.
 
 ### 2020
 
+* **Effekt: Lightweight Effect Polymorphism for Handlers** (OOPSLA 2020)  
+   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
+  ([pdf](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf))
+
 * **One-shot Algebraic Effects as Coroutines** (TFP 2020)  
   by Satoru Kawahara and Yukiyoshi Kameyama  
   ([pdf](http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_10.pdf))

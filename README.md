@@ -25,6 +25,10 @@ in various programming languages.
   by Nick Palladinos  
   ([www](https://github.com/palladin/Eff))
 
+* **Effekt Language**: A research language with effect handlers and lightweight effect polymorphism  
+  by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
+  ([www](https://effekt-lang.github.io/effekt-website/))
+
 * **Extensible effects**: a Haskell library for effects  
   by Oleg Kiselyov  
   ([hackage](https://hackage.haskell.org/package/extensible-effects))
@@ -115,6 +119,10 @@ in various programming languages.
 ## Papers
 
 ### 2020
+
+* **Effekt: Lightweight Effect Polymorphism for Handlers** (OOPSLA 2020)  
+   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
+  ([pdf](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf))
 
 * **One-shot Algebraic Effects as Coroutines** (TFP 2020)  
   by Satoru Kawahara and Yukiyoshi Kameyama  

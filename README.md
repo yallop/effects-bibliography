@@ -27,7 +27,7 @@ in various programming languages.
 
 * **Effekt Language**: A research language with effect handlers and lightweight effect polymorphism  
   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
-  ([www](https://effekt-lang.github.io/effekt-website/contributing.html))
+  ([www](https://effekt-lang.github.io/effekt-website/))
 
 * **Extensible effects**: a Haskell library for effects  
   by Oleg Kiselyov  

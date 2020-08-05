@@ -120,6 +120,10 @@ in various programming languages.
 
 ### 2020
 
+* **Effect Handlers in Haskell, Evidently** (Haskell 2020)  
+  by Ningning Xie and Daan Leijen  
+  ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/effev.pdf))
+
 * **Effekt: Lightweight Effect Polymorphism for Handlers** (OOPSLA 2020)  
    by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([pdf](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf))

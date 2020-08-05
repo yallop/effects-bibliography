@@ -197,7 +197,7 @@ in various programming languages.
   ([arxiv](https://arxiv.org/abs/2005.13814))  
 
 * **The Fire Triangle: How to Mix Substitution, Dependent Elimination, and Effects** (POPL 2020)  
-  by Pierre-Marie Pédrot and Nicolas Tabareau
+  by Pierre-Marie Pédrot and Nicolas Tabareau  
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3371126))
 
 ### 2019

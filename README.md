@@ -196,7 +196,7 @@ in various programming languages.
   by Georgios Karachalias, Matija Pretnar, Amr Hany Saleh, Stien Vanderhallen and Tom Schrijvers  
   ([arxiv](https://arxiv.org/abs/2005.13814))  
 
-* **The fire triangle: how to mix substitution, dependent elimination, and effects** (POPL 2020)
+* **The Fire Triangle: How to Mix Substitution, Dependent Elimination, and Effects** (POPL 2020)  
   by Pierre-Marie Pédrot and Nicolas Tabareau
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3371126))
 

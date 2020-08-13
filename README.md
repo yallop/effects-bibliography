@@ -63,7 +63,7 @@ in various programming languages.
 
 * **Multicore OCaml**: a multicore + effect handlers extension for OCaml  
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White, and Jeremy Yallop  
-  ([www](https://github.com/ocamllabs/ocaml-multicore/wiki))
+  ([www](https://github.com/ocaml-multicore/ocaml-multicore/wiki))
 
 * **Polysemy**: a Haskell library for effects  
   by Sandy Maguire  

@@ -120,6 +120,11 @@ in various programming languages.
 
 ### 2020
 
+* **A Reflection on Continuation-Composing Style** (FSCD 2020)  
+  by Dariusz Biernacki, Mateusz Pyzik, and Filip Sieczkowski  
+  ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2020.18))
+  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2020/12340/pdf/LIPIcs-FSCD-2020-18.pdf))
+
 * **Effect Handlers in Haskell, Evidently** (Haskell 2020)  
   by Ningning Xie and Daan Leijen  
   ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/effev.pdf))

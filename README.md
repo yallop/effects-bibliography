@@ -63,7 +63,7 @@ in various programming languages.
 
 * **Multicore OCaml**: a multicore + effect handlers extension for OCaml  
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White, and Jeremy Yallop  
-  ([www](https://github.com/ocamllabs/ocaml-multicore/wiki))
+  ([www](https://github.com/ocaml-multicore/ocaml-multicore/wiki))
 
 * **Polysemy**: a Haskell library for effects  
   by Sandy Maguire  
@@ -119,6 +119,11 @@ in various programming languages.
 ## Papers
 
 ### 2020
+
+* **A Reflection on Continuation-Composing Style** (FSCD 2020)  
+  by Dariusz Biernacki, Mateusz Pyzik, and Filip Sieczkowski  
+  ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2020.18))
+  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2020/12340/pdf/LIPIcs-FSCD-2020-18.pdf))
 
 * **Effect Handlers in Haskell, Evidently** (Haskell 2020)  
   by Ningning Xie and Daan Leijen  

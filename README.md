@@ -113,6 +113,7 @@ in various programming languages.
 * **An Introduction to Algebraic Effects and Handlers** (MFPS 2015)  
   by Matija Pretnar  
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar15))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/journals/entcs/Pretnar15?view=bibtex))
   ([doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003))
   ([pdf](http://www.eff-lang.org/handlers-tutorial.pdf))
 
@@ -385,15 +386,18 @@ in various programming languages.
 * **Do be do be do** (POPL 2017)  
   by Sam Lindley, Conor McBride, and Craig McLaughlin  
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/popl/LindleyMM17))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/conf/popl/LindleyMM17?view=bibtex))
   ([arxiv](https://arxiv.org/pdf/1611.09259))
 
 * **Type directed compilation of row-typed algebraic effects** (POPL 2017)  
   by Daan Leijen  
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/popl/Leijen17))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/conf/popl/Leijen17?view=bibtex))
 
 * **No value restriction is needed for algebraic effects and handlers** (J. Funct. Program. 2017)  
   by Ohad Kammar and Matija Pretnar  
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/jfp/KammarP17))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/journals/jfp/KammarP17?view=bibtex))
   ([arxiv](https://arxiv.org/pdf/1605.06938))
 
 ### 2016
@@ -426,11 +430,13 @@ in various programming languages.
   by Daniel Hillerström and Sam Lindley  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/HillerstromL16))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/conf/icfp/HillerstromL16?view=bibtex))
 
 * **Dependent Types and Fibred Computational Effects** (FoSSaCS 2016)  
   by Danel Ahman, Neil Ghani, and Gordon Plotkin  
   ([pdf](https://danelahman.github.io/papers/fossacs16.pdf))
   ([dblp](http://dblp.org/rec/conf/fossacs/AhmanGP16))
+  ([bibtex](http://dblp.org/rec/conf/fossacs/AhmanGP16?view=bibtex))
   
 * **From Monads to Effects and Back** (PADL 2016)  
   by Niki Vazou and Daan Leijen  
@@ -454,6 +460,7 @@ in various programming languages.
   by Andrej Bauer and Matija Pretnar  
   ([arxiv](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/jlp/BauerP15))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/journals/jlp/BauerP15?view=bibtex))
   ([doi](http://dx.doi.org/10.1016/j.jlamp.2014.02.001))
 
 * **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
@@ -463,6 +470,7 @@ in various programming languages.
 * **Interleaving data and effects** (JFP 2015)  
   by Robert Atkey and Patricia Johann  
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/jfp/AtkeyJ15))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/journals/jfp/AtkeyJ15?view=bibtex))
   ([doi](http://dx.doi.org/10.1017/S0956796815000209))
   ([pdf](http://bentnib.org/interleaving.pdf))
 
@@ -479,6 +487,7 @@ in various programming languages.
 * **Algebraic effects and effect handlers for idioms and arrows** (WGP 2014)  
   by Sam Lindley  
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14?view=bibtex))
   ([doi](http://dx.doi.org/10.1145/2633628.2633636))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))
 
@@ -498,12 +507,14 @@ in various programming languages.
   by Matija Pretnar  
   ([arxiv](http://arxiv.org/pdf/1312.2334.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/corr/Pretnar13))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/journals/corr/Pretnar13?view=bibtex))
   ([doi](http://dx.doi.org/10.2168/LMCS-10%283:21%292014))
 
 * **An Effect System for Algebraic Effects and Handlers** (LMCS 2014)  
   by Andrej Bauer and Matija Pretnar  
   ([arxiv](http://arxiv.org/pdf/1306.6316.pdf))
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/corr/BauerP13))
+  ([bibtex](http://dblp.uni-trier.de/rec/html/journals/corr/BauerP13?view=bibtex))
   ([doi](http://dx.doi.org/10.2168/LMCS-10%284:9%292014))
 
 
@@ -534,6 +545,7 @@ in various programming languages.
   by Gordon Plotkin and Matija Pretnar  
   ([arxiv](http://arxiv.org/abs/1312.1399))
   ([dblp](http://dblp.org/rec/journals/corr/PlotkinP13))
+  ([bibtex](http://dblp.org/rec/journals/corr/PlotkinP13?view=bibtex))
   ([doi](http://dx.doi.org/10.2168/LMCS-9%284:23%292013))
 
 ### 2012

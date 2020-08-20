@@ -136,7 +136,7 @@ in various programming languages.
 
 * **One-shot Algebraic Effects as Coroutines** (TFP 2020)  
   by Satoru Kawahara and Yukiyoshi Kameyama  
-  ([pdf](http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_10.pdf))
+  ([doi](https://doi.org/10.1007/978-3-030-57761-2_8)) ([pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-57761-2_8.pdf))
 
 * **Generalized Monoidal Effects And Handlers** (JFP 2020)  
   by Ruben P. Pieters, Exequiel Rivas, and Tom Schrijvers  

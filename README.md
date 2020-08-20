@@ -29,6 +29,10 @@ in various programming languages.
   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([www](https://effekt-lang.github.io/effekt-website/))
 
+* **EvEff**: A Haskell library for programming with evidence-translated effect handlers  
+  by Daan Leijen and Ningning Xie  
+  ([www](https://github.com/xnning/EvEff))
+
 * **Extensible effects**: a Haskell library for effects  
   by Oleg Kiselyov  
   ([hackage](https://hackage.haskell.org/package/extensible-effects))

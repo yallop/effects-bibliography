@@ -407,7 +407,7 @@ in various programming languages.
   ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/popl16-orchard-yoshida.pdf))
 
 * **Effect Systems Revisited -- Control-Flow Algebra and Semantics**  (Semantics, Logics, and Calculi 2016)  
-  by Alan Mycroft, Dominic Orchard, and Tomas Petricek
+  by Alan Mycroft, Dominic Orchard, and Tomas Petricek  
   ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/effects-revisited.pdf))
 
 * **Efficient Algebraic Effect Handlers for Prolog** (TPLP/ICLP 2016)  

@@ -216,6 +216,10 @@ in various programming languages.
 
 ### 2019
 
+* **A Sound and Complete Logic for Algebraic Effects** (FoSSaCS 2019)  
+  by Cristina Matache and Sam Staton  
+  ([pdf](http://www.cs.ox.ac.uk/people/samuel.staton/papers/fossacs-2019.pdf))
+
 * **On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control** (JFP, ICFP 2017 special issue)  
   by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/effmondel-jfp.pdf))
@@ -329,7 +333,8 @@ in various programming languages.
 
 * **Versatile Event Correlation with Algebraic Effects** (ICFP 2018)  
   by Oliver Bračevac, Nada Amin, Guido Salvaneschi, Sebastian Erdweg, Patrick Eugster, and Mira Mezini  
-  ([pdf](http://www.st.informatik.tu-darmstadt.de/artifacts/corrl/cartesius_preprint.pdf))
+  ([doi](https://doi.org/10.1145/3236762))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3236762))
 
 * **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)<BR/>
   by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet <BR/>
@@ -447,6 +452,10 @@ in various programming languages.
   ([pdf](http://goto.ucsd.edu/~nvazou/koka/padl16.pdf))
 
 ### 2015
+
+* **Algebraic Effects, Linearity, and Quantum Programming Languages** (POPL 2015)  
+  by Sam Staton  
+  ([pdf](http://www.cs.ox.ac.uk/people/samuel.staton/papers/popl2015.pdf))
 
 * **Effective Concurrency with Algebraic Effects** (OCaml Workshop 2015)  
   by Stephen Dolan, Leo White, KC Sivaramakrishnan, Jeremy Yallop and Anil Madhavapeddy  

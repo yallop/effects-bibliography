@@ -452,6 +452,10 @@ in various programming languages.
 
 ### 2015
 
+* **Algebraic Effects, Linearity, and Quantum Programming Languages** (POPL 2015)  
+  by Sam Staton  
+  ([pdf](http://www.cs.ox.ac.uk/people/samuel.staton/papers/popl2015.pdf))
+
 * **Effective Concurrency with Algebraic Effects** (OCaml Workshop 2015)  
   by Stephen Dolan, Leo White, KC Sivaramakrishnan, Jeremy Yallop and Anil Madhavapeddy  
   ([pdf](http://kcsrk.info/papers/effects_ocaml15.pdf))

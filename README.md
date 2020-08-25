@@ -216,6 +216,10 @@ in various programming languages.
 
 ### 2019
 
+* **A Sound and Complete Logic for Algebraic Effects** (FoSSaCS 2019)  
+  by Cristina Matache and Sam Staton  
+  ([pdf](http://www.cs.ox.ac.uk/people/samuel.staton/papers/fossacs-2019.pdf))
+
 * **On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control** (JFP, ICFP 2017 special issue)  
   by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/effmondel-jfp.pdf))

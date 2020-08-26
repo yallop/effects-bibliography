@@ -796,6 +796,10 @@ in various programming languages.
     by Lukas Convent  
     ([pdf](http://lukas.convnet.de/proj/master/thesis.pdf))
 
+  * **Fibred Computational Effects** (PhD Thesis, University of Edinburgh)  
+    by Danel Ahman  
+    ([pdf](https://danel.ahman.ee/papers/phd-thesis.pdf))
+
   ### 2016
 
   * **Compilation of Effect Handlers and their Applications in Concurrency** (MSc Dissertation, University of Edinburgh)  

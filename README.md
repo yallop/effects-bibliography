@@ -91,7 +91,7 @@ in various programming languages.
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))
 
-* **Coop**: A prototype programming language for programming with runners
+* **Coop**: A prototype programming language for programming with runners  
   by Andrej Bauer and Danel Ahman  
   ([www](https://github.com/andrejbauer/coop))
 

@@ -95,6 +95,10 @@ in various programming languages.
   by Andrej Bauer and Danel Ahman  
   ([www](https://github.com/andrejbauer/coop))
 
+* **Unison** a programming language with effects called abilities, inspired by Frank  
+  ([www](https://www.unisonweb.org/docs/language-reference#abilities-and-ability-handlers))  
+  ([GitHub](https://github.com/unisonweb/unison))
+
 ## Tutorials
 
 ### 2018

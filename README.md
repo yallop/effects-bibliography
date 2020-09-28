@@ -17,6 +17,10 @@ stone](https://github.com/effect-handlers/effects-rosetta-stone), a
 comparison of how computational effects and handlers are implemented
 in various programming languages.
 
+* **Coop**: A prototype programming language for programming with runners  
+  by Andrej Bauer and Danel Ahman  
+  ([www](https://github.com/andrejbauer/coop))
+
 * **Eff**: programming language with algebraic effects and handlers  
   by Andrej Bauer and Matija Pretnar  
   ([www](http://www.eff-lang.org/))
@@ -38,6 +42,10 @@ in various programming languages.
   ([hackage](https://hackage.haskell.org/package/extensible-effects))
   ([www](http://okmij.org/ftp/Haskell/extensible/))
 
+* **F\***: an ML-like effectful dependently typed functional programming language aimed at program verification  
+  by Microsoft Research and Inria  
+  ([www](https://fstar-lang.org))
+
 * **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  
   by Sam Lindley, Conor McBride, and Craig McLaughlin  
   ([www](https://github.com/frank-lang/frank))
@@ -46,9 +54,6 @@ in various programming languages.
   by Rob Rix  
   ([hackage](https://hackage.haskell.org/package/fused-effects))
   ([www](https://github.com/robrix/fused-effects))
-
-* **F\***: an ML-like effectful dependently typed functional programming language aimed at program verification  
-  ([www](https://fstar-lang.org))
 
 * **Helium**: a functional programming language with effect handlers and an ML-like module system  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
@@ -84,6 +89,11 @@ in various programming languages.
   by Jonathan Brachthäuser  
   ([www](https://github.com/b-studios/scala-effekt))
 
+* **Unison** a programming language with effects called abilities, inspired by Frank  
+  by Unison Computing  
+  ([www](https://www.unisonweb.org/docs/language-reference#abilities-and-ability-handlers))
+  ([GitHub](https://github.com/unisonweb/unison))
+
 * **atnos-org/eff**: extensible effects for Cats in Scala  
   by Eric Torreborre  
   ([www](http://atnos-org.github.io/eff/))
@@ -92,15 +102,6 @@ in various programming languages.
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))
-
-* **Coop**: A prototype programming language for programming with runners  
-  by Andrej Bauer and Danel Ahman  
-  ([www](https://github.com/andrejbauer/coop))
-
-* **Unison** a programming language with effects called abilities, inspired by Frank  
-  by Unison Computing  
-  ([www](https://www.unisonweb.org/docs/language-reference#abilities-and-ability-handlers))
-  ([GitHub](https://github.com/unisonweb/unison))
 
 ## Tutorials
 
@@ -171,6 +172,7 @@ in various programming languages.
 
 * **Compiling Effect Handlers in Capability-Passing Style** (ICFP 2020)  
   by Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann  
+ ([doi](https://doi.org/10.1145/3408975))
  ([pdf](http://ps.informatik.uni-tuebingen.de/publications/schuster20capability.pdf))
 
 * **Effekt: Capability-passing style for type- and effect-safe, extensible effect handlers in Scala** (JFP 2020)  

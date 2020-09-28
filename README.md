@@ -43,6 +43,7 @@ in various programming languages.
   ([www](http://okmij.org/ftp/Haskell/extensible/))
 
 * **F\***: an ML-like effectful dependently typed functional programming language aimed at program verification  
+  by Microsoft Research and Inria  
   ([www](https://fstar-lang.org))
 
 * **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  

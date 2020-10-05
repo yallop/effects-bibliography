@@ -94,6 +94,11 @@ in various programming languages.
   ([www](https://www.unisonweb.org/docs/language-reference#abilities-and-ability-handlers))
   ([GitHub](https://github.com/unisonweb/unison))
 
+* **Wasm/k**: WebAssembly, extended with support for first-class continuations  
+  by Donald Pinckney  
+  ([www](https://wasmk.github.io/))
+  ([GitHub](https://github.com/donald-pinckney/WasmContinuations))
+
 * **atnos-org/eff**: extensible effects for Cats in Scala  
   by Eric Torreborre  
   ([www](http://atnos-org.github.io/eff/))
@@ -136,6 +141,10 @@ in various programming languages.
 ## Papers
 
 ### 2020
+
+* **Wasm/k: Delimited Continuations for WebAssembly** (DLS 2020)  
+  by Donald Pinckney, Arjun Guha, and Yuriy Brun  
+  ([pdf](https://wasmk.github.io/FullVersion.pdf))
 
 * **A Reflection on Continuation-Composing Style** (FSCD 2020)  
   by Dariusz Biernacki, Mateusz Pyzik, and Filip Sieczkowski  

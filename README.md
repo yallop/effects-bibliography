@@ -142,6 +142,11 @@ in various programming languages.
 
 ### 2020
 
+* **Degrading Lists** (PPDP 2020)  
+  by Dylan McDermott, Maciej Piróg, and Tarmo Uustalu  
+  ([doi])(https://doi.org/10.1145/3414080.3414084)
+  ([pdf])(https://dl.acm.org/doi/pdf/10.1145/3414080.3414084)
+
 * **Wasm/k: Delimited Continuations for WebAssembly** (DLS 2020)  
   by Donald Pinckney, Arjun Guha, and Yuriy Brun  
   ([pdf](https://wasmk.github.io/FullVersion.pdf))

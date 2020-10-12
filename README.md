@@ -144,8 +144,8 @@ in various programming languages.
 
 * **Degrading Lists** (PPDP 2020)  
   by Dylan McDermott, Maciej Piróg, and Tarmo Uustalu  
-  ([doi])(https://doi.org/10.1145/3414080.3414084)
-  ([pdf])(https://dl.acm.org/doi/pdf/10.1145/3414080.3414084)
+  ([doi](https://doi.org/10.1145/3414080.3414084))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3414080.3414084))
 
 * **Wasm/k: Delimited Continuations for WebAssembly** (DLS 2020)  
   by Donald Pinckney, Arjun Guha, and Yuriy Brun  
@@ -199,7 +199,7 @@ in various programming languages.
 
 * **Effect handlers via generalised continuations** (JFP 2020)  
   by Daniel Hillerström, Sam Lindley, and Robert Atkey  
-  ([pdf](https://www.dhil.net/research/papers/generalised_continuations-jfp-draft.pdf))
+  ([pdf](https://dhil.net/research/papers/generalised_continuations-jfp2020.pdf))
 
 * **Runners in action** (ESOP 2020)  
   by Danel Ahman and Andrej Bauer  
@@ -799,6 +799,11 @@ in various programming languages.
 
   ### 2020
 
+  * **Relational Reasoning for Effects and Handlers** (PhD Dissertation, The University of Edinburgh)  
+  by Craig McLaughlin  
+  ([doi](http://dx.doi.org/10.7488/era/537))
+  ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
+
   * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
     by Jonathan Immanuel Brachthäuser  
     ([pdf](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/102021/thesis-v1.1.pdf?sequence=1&isAllowed=y))
@@ -815,15 +820,15 @@ in various programming languages.
 
   ### 2017
   
-  * **Distributive Interaction of Algebraic Effects** (PhD Thesis, University of Oxford)  
+  * **Distributive Interaction of Algebraic Effects** (PhD Dissertation, University of Oxford)  
     by Kwok-Ho Cheung  
     ([pdf](https://ora.ox.ac.uk/objects/uuid:66106628-0a71-4564-bc34-c398db766818/download_file?file_format=pdf&safe_filename=report.pdf&type_of_work=Thesis))
 
-  * **Enhancing a Modular Effectful Programming Language** (MSc Dissertation, University of Edinburgh)  
+  * **Enhancing a Modular Effectful Programming Language** (MSc Dissertation, The University of Edinburgh)  
     by Lukas Convent  
     ([pdf](http://lukas.convnet.de/proj/master/thesis.pdf))
 
-  * **Fibred Computational Effects** (PhD Thesis, University of Edinburgh)  
+  * **Fibred Computational Effects** (PhD Dissertation, The University of Edinburgh)  
     by Danel Ahman  
     ([pdf](https://danel.ahman.ee/papers/phd-thesis.pdf))
 
@@ -839,19 +844,19 @@ in various programming languages.
 
   ### 2015
 
-  * **Handlers for Algebraic Effects in Links** (MSc Dissertation, University of Edinburgh)  
+  * **Handlers for Algebraic Effects in Links** (MSc Dissertation, The University of Edinburgh)  
     by Daniel Hillerström  
     ([pdf](https://www.dhil.net/research/papers/thesis2015.pdf))
 
   ### 2010
 
-  * **The Logic and Handling of Algebraic Effects** (PhD Thesis, University of Edinburgh)  
+  * **The Logic and Handling of Algebraic Effects** (PhD Dissertation, The University of Edinburgh)  
     by Matija Pretnar  
     ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
 
   ### 1995
 
-  * **Semantic Lego** (PhD Thesis, Columbia University)  
+  * **Semantic Lego** (PhD Dissertation, Columbia University)  
     by David Espinosa  
     ([pdf](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis.pdf))
     ([pdf slides](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis-slides.pdf))

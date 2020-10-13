@@ -99,6 +99,11 @@ in various programming languages.
   ([www](https://wasmk.github.io/))
   ([GitHub](https://github.com/donald-pinckney/WasmContinuations))
 
+* **Æff**: An interactive interpreter for asynchronous algebraic effects  
+  by Matija Pretnar and Danel Ahman  
+  ([www](https://matija.pretnar.info/aeff/))
+  ([GitHub](https://github.com/matijapretnar/aeff))
+
 * **atnos-org/eff**: extensible effects for Cats in Scala  
   by Eric Torreborre  
   ([www](http://atnos-org.github.io/eff/))

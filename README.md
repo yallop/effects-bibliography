@@ -89,7 +89,7 @@ in various programming languages.
   by Jonathan Brachthäuser  
   ([www](https://github.com/b-studios/scala-effekt))
 
-* **Unison** a programming language with effects called abilities, inspired by Frank  
+* **Unison**: a programming language with effects called abilities, inspired by Frank  
   by Unison Computing  
   ([www](https://www.unisonweb.org/docs/language-reference#abilities-and-ability-handlers))
   ([GitHub](https://github.com/unisonweb/unison))

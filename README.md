@@ -806,6 +806,10 @@ in various programming languages.
 
   ### 2020
 
+  * **Asynchronous Effect Handling** (MSc Dissertation, The University of Edinburgh)  
+  by Leo Poulson  
+  ([pdf](https://raw.githubusercontent.com/leopoulson/thesis/master/thesis.pdf))
+
   * **Relational Reasoning for Effects and Handlers** (PhD Dissertation, The University of Edinburgh)  
   by Craig McLaughlin  
   ([doi](http://dx.doi.org/10.7488/era/537))

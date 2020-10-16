@@ -147,6 +147,10 @@ in various programming languages.
 
 ### 2020
 
+* **Handling Bidirectional Control Flow** (OOPSLA 2020)  
+  Yizhou Zhang, Guido Salvaneschi, and Andrew C. Myers  
+  ([pdf](https://www.cs.cornell.edu/andru/papers/ufo/bidirectional-effects.pdf))
+
 * **Degrading Lists** (PPDP 2020)  
   by Dylan McDermott, Maciej Piróg, and Tarmo Uustalu  
   ([doi](https://doi.org/10.1145/3414080.3414084))

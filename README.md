@@ -574,11 +574,10 @@ in various programming languages.
   by Edwin Brady  
   ([pdf](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf))
 
-
 * **The constrained-monad problem** (ICFP 2013)  
   by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill  
-  ([pdf](http://www.cs.rhul.ac.uk/home/ucac009/publications/constrained-monad-problem.pdf))
-
+  ([doi](https://doi.org/10.1145/2544174.2500602))
+  ([pdf](http://neilsculthorpe.com/publications/constrained-monad-problem.pdf))
 
 * **Handlers in action** (ICFP 2013)  
   by Ohad Kammar, Sam Lindley and Nicolas Oury  
@@ -588,7 +587,6 @@ in various programming languages.
 * **Extensible effects: an alternative to monad transformers** (Haskell 2013)  
   by Oleg Kiselyov, Amr Sabry and Cameron Swords  
   ([pdf](https://www.cs.indiana.edu/~sabry/papers/exteff.pdf))
-
 
 * **Handling algebraic effects** (LMCS 2013)  
   by Gordon Plotkin and Matija Pretnar  

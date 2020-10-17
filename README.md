@@ -147,6 +147,11 @@ in various programming languages.
 
 ### 2020
 
+* **Composing Effects into Tasks and Workflows** (Haskell 2020)  
+  by Yves Parès, Jean-Philippe Bernardy, and Richard A. Eisenberg  
+  ([doi](https://doi.org/10.1145/3410242))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3406088.3409023))
+
 * **Handling Bidirectional Control Flow** (OOPSLA 2020)  
   Yizhou Zhang, Guido Salvaneschi, and Andrew C. Myers  
   ([pdf](https://www.cs.cornell.edu/andru/papers/ufo/bidirectional-effects.pdf))

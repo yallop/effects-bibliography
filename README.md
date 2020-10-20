@@ -854,7 +854,7 @@ in various programming languages.
 
   ### 2016
 
-  * **Compilation of Effect Handlers and their Applications in Concurrency** (MSc Dissertation, University of Edinburgh)  
+  * **Compilation of Effect Handlers and their Applications in Concurrency** (MSc Dissertation, The University of Edinburgh)  
     by Daniel Hillerström  
     ([pdf](https://www.dhil.net/research/papers/thesis2016.pdf))
 

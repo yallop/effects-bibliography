@@ -147,6 +147,10 @@ in various programming languages.
 
 ### 2020
 
+* **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
+  by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf  
+  ([pdf](https://continuation.passing.style/static/papers/oopsla20.pdf))
+
 * **Composing Effects into Tasks and Workflows** (Haskell 2020)  
   by Yves Parès, Jean-Philippe Bernardy, and Richard A. Eisenberg  
   ([doi](https://doi.org/10.1145/3410242))

@@ -604,6 +604,12 @@ in various programming languages.
   ([bibtex](http://dblp.org/rec/journals/corr/PlotkinP13?view=bibtex))
   ([doi](http://dx.doi.org/10.2168/LMCS-9%284:23%292013))
 
+* **Normalization by Evaluation and Algebraic Effects**  
+  by Danel Ahman, Sam Staton  
+  ([doi](https://doi.org/10.1016/j.entcs.2013.09.007))
+  ([pdf](https://danel.ahman.ee/papers/mfps13.pdf))
+
+
 ### 2012
 
 * **The Frank Manual** (2012)  

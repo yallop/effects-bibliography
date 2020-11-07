@@ -145,6 +145,12 @@ in various programming languages.
 
 ## Papers
 
+### 2021
+
+* **A Separation Logic for Effect Handlers** (POPL 2021)  
+  by Paulo Emílio de Vilhena and  François Pottier  
+  ([pdf](http://cambium.inria.fr/~fpottier/publis/de-vilhena-pottier-sleh.pdf))
+
 ### 2020
 
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  

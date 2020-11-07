@@ -151,6 +151,10 @@ in various programming languages.
   by Paulo Emílio de Vilhena and  François Pottier  
   ([pdf](http://cambium.inria.fr/~fpottier/publis/de-vilhena-pottier-sleh.pdf))
 
+* **Asynchronous Effects** (POPL 2021)  
+  by Danel Ahman and Matija Pretnar  
+  ([arxiv](https://arxiv.org/abs/2003.02110))  
+
 ### 2020
 
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
@@ -248,10 +252,6 @@ in various programming languages.
 * **Unifying graded and parameterised monads** (MSFP 2020)  
   by Dominic Orchard, Philip Wadler and Harley Eades III  
   ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:7))  
-
-* **Asynchronous effects**  
-  by Danel Ahman and Matija Pretnar  
-  ([arxiv](https://arxiv.org/abs/2003.02110))  
 
 * **Local Algebraic Effect Theories** (JFP)  
   by Žiga Lukšič and Matija Pretnar  

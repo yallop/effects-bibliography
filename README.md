@@ -157,6 +157,10 @@ in various programming languages.
 
 ### 2020
 
+* **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
+  by Maria I. Gorinova, Dave Moore, Matthew D. Hoffman  
+  ([pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/271-Paper.pdf))
+
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
   by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf  
   ([pdf](https://continuation.passing.style/static/papers/oopsla20.pdf))

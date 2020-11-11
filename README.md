@@ -179,6 +179,11 @@ in various programming languages.
   by Donald Pinckney, Arjun Guha, and Yuriy Brun  
   ([pdf](https://wasmk.github.io/FullVersion.pdf))
 
+* **A Complete Normal-Form Bisimilarity for Algebraic Effects and Handlers** (FSCD 2020)  
+  by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  
+  ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2020.7))
+  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2020/12329/pdf/LIPIcs-FSCD-2020-7.pdf))
+
 * **A Reflection on Continuation-Composing Style** (FSCD 2020)  
   by Dariusz Biernacki, Mateusz Pyzik, and Filip Sieczkowski  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2020.18))

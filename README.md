@@ -1,4 +1,4 @@
-# Effects bibliography
+RUN TRAVIS # Effects bibliography
 
 A collection of research papers and other resources related to the theory and practice of
 computational effects.

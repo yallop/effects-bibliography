@@ -162,7 +162,7 @@ in various programming languages.
   ([pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/271-Paper.pdf))
 
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
-  by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf
+  by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf  
   ([doi](https://doi.org/10.1145/3428232))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3428232))
 

@@ -163,7 +163,8 @@ in various programming languages.
 
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
   by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf  
-  ([pdf](https://continuation.passing.style/static/papers/oopsla20.pdf))
+  ([doi](https://doi.org/10.1145/3428232))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3428232))
 
 * **Composing Effects into Tasks and Workflows** (Haskell 2020)  
   by Yves Parès, Jean-Philippe Bernardy, and Richard A. Eisenberg  

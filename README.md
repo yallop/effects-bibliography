@@ -905,4 +905,4 @@ in various programming languages.
 
 ---
 
-Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/effects-bibliography.svg?branch=master)](https://travis-ci.org/yallop/effects-bibliography)
+Status of links at last commit: ![Build Status](https://github.com/yallop/effects-bibliography/workflows/checklinks/badge.svg)

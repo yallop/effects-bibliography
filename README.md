@@ -858,7 +858,11 @@ in various programming languages.
 
   * **Program Equivalence for Algebraic Effects via Modalities** (MSc Dissertation, University of Oxford)  
     by Cristina Matache  
-   ([pdf](http://users.ox.ac.uk/~scro3229/documents/m_diss.pdf))
+    ([pdf](http://users.ox.ac.uk/~scro3229/documents/m_diss.pdf))
+ 
+  * **Defined Algebraic Operations** (PhD Dissertation, University of Birmingham)  
+    by Bram Geron  
+    ([pdf](https://bram.xyz/thesis.pdf))
 
   ### 2017
   

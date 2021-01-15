@@ -153,9 +153,19 @@ in various programming languages.
 
 * **Asynchronous Effects** (POPL 2021)  
   by Danel Ahman and Matija Pretnar  
-  ([arxiv](https://arxiv.org/abs/2003.02110))  
+  ([arxiv](https://arxiv.org/abs/2003.02110))
+  ([doi](https://doi.org/10.1145/3434305))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3434305))
 
 ### 2020
+
+* **Modular verification of programs with effects and effects handlers** (FAOC 2020)  
+  by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet  
+  ([doi](https://dx.doi.org/10.1007/s00165-020-00523-2))
+
+* **Not by equations alone: reasoning with extensible effects** (JFP 2020)  
+  by Oleg Kiselyov, Shin-Cheng Mu, and Amr Sabry  
+  ([pdf](https://scm.iis.sinica.edu.tw/pub/2020-denot.pdf))
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
   by Maria I. Gorinova, Dave Moore, Matthew D. Hoffman  
@@ -198,9 +208,10 @@ in various programming languages.
   by Ningning Xie and Daan Leijen  
   ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/effev.pdf))
 
-* **Effekt: Lightweight Effect Polymorphism for Handlers** (Technical report 2020)  
+* **Effects as capabilities: effect handlers and lightweight effect polymorphism** (OOPSLA 2020)  
    by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
-  ([pdf](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf))
+  ([doi](https://doi.org/10.1145/3428194))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3428194))
 
 * **One-shot Algebraic Effects as Coroutines** (TFP 2020)  
   by Satoru Kawahara and Yukiyoshi Kameyama  

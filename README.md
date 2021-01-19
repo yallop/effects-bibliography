@@ -147,6 +147,14 @@ in various programming languages.
 
 ### 2021
 
+* **Automatic Differentiation via Effects and Handlers: An Implementation in Frank** (PEPM 2021)  
+  by Jesse Sigal  
+  ([pdf](https://popl21.sigplan.org/details?action-call-with-get-request-type=1&be1f505513b748138c41bfbf062f68b0action_109369449308ac3565a357a0cd70d7713336ff8c29c=1&__ajax_runtime_request__=1&context=POPL-2021&track=pepm-2021-papers&urlKey=8&decoTitle=Automatic-Differentiation-via-Effects-and-Handlers-An-Implementation-in-Frank))
+
+* **Staged Effects and Handlers for Modular Languages with Abstraction** (PEPM 2021)  
+  by Casper Bach Poulsen, Cas van der Rest, Tom Schrijvers  
+  ([pdf](https://casvdrest.github.io/staged-effects.agda/pepm21.pdf))
+
 * **A Separation Logic for Effect Handlers** (POPL 2021)  
   by Paulo Emílio de Vilhena and  François Pottier  
   ([pdf](http://cambium.inria.fr/~fpottier/publis/de-vilhena-pottier-sleh.pdf))

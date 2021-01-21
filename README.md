@@ -176,7 +176,7 @@ in various programming languages.
   ([pdf](https://scm.iis.sinica.edu.tw/pub/2020-denot.pdf))
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
-  by Maria I. Gorinova, Dave Moore, Matthew D. Hoffman  
+  by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
   ([pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/271-Paper.pdf))
 
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  

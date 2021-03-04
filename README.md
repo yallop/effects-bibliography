@@ -113,6 +113,11 @@ in various programming languages.
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))
 
+
+* **Effects.js**: algebraic effects for Javascript based on Koka and Eff  
+  by Jason Butler  
+  ([www](https://github.com/nythrox/effects.js))
+
 ## Tutorials
 
 ### 2018

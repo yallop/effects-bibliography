@@ -287,11 +287,11 @@ in various programming languages.
   by Dominic Orchard, Philip Wadler and Harley Eades III  
   ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:7))  
 
-* **Local Algebraic Effect Theories** (JFP)  
+* **Local Algebraic Effect Theories** (JFP 2020)  
   by Žiga Lukšič and Matija Pretnar  
   ([doi](https://doi.org/10.1017/S0956796819000212)) ([arxiv](https://arxiv.org/abs/2005.13654))  
 
-* **Explicit Effect Subtyping**  
+* **Explicit Effect Subtyping** (JFP 2020)  
   by Georgios Karachalias, Matija Pretnar, Amr Hany Saleh, Stien Vanderhallen and Tom Schrijvers  
   ([arxiv](https://arxiv.org/abs/2005.13814))  
 

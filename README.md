@@ -928,6 +928,13 @@ in various programming languages.
     by Matija Pretnar  
     ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
 
+  ### 1996
+
+  * **Controlling Effects** (PhD Dissertation, Carnegie Mellon University)  
+    by Andrzej Filinski  
+    ([dvi](http://hjemmesider.diku.dk/~andrzej/papers/CE.dvi.gz))
+    ([ps](http://hjemmesider.diku.dk/~andrzej/papers/CE.ps.gz))
+
   ### 1995
 
   * **Semantic Lego** (PhD Dissertation, Columbia University)  

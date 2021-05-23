@@ -942,6 +942,12 @@ in various programming languages.
     ([pdf](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis.pdf))
     ([pdf slides](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis-slides.pdf))
 
+  ### 1987
+
+  * **Types and Effects --- Towards the Integration of Functional and Imperative Programming** (PhD Dissertation, MIT)  
+    by John M. Lucassen  
+    ([pdf](https://apps.dtic.mil/sti/pdfs/ADA186930.pdf))
+
 ---
 
 Status of links at last commit: ![Build Status](https://github.com/yallop/effects-bibliography/workflows/checklinks/badge.svg)

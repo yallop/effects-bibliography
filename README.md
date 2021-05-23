@@ -932,8 +932,8 @@ in various programming languages.
 
   * **Controlling Effects** (PhD Dissertation, Carnegie Mellon University)  
     by Andrzej Filinski  
-    ([dvi](http://hjemmesider.diku.dk/~andrzej/papers/CE.dvi.gz))
-    ([ps](http://hjemmesider.diku.dk/~andrzej/papers/CE.ps.gz))
+    ([dvi.gz](http://hjemmesider.diku.dk/~andrzej/papers/CE.dvi.gz))
+    ([ps.gz](http://hjemmesider.diku.dk/~andrzej/papers/CE.ps.gz))
 
   ### 1995
 

@@ -861,6 +861,10 @@ in various programming languages.
 
   ### 2020
 
+  * **Applications of Algebraic Effect Theories** (PhD Dissertation, University of Ljubljana)  
+  by Žiga Lukšič  
+  ([pdf](https://repozitorij.uni-lj.si/Dokument.php?id=137124&lang=eng))
+
   * **Asynchronous Effect Handling** (MSc Dissertation, The University of Edinburgh)  
   by Leo Poulson  
   ([pdf](https://raw.githubusercontent.com/leopoulson/thesis/master/thesis.pdf))

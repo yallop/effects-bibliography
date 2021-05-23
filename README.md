@@ -944,7 +944,7 @@ in various programming languages.
 
   ### 1987
 
-  * **Types and Effects --- Towards the Integration of Functional and Imperative Programming** (PhD Dissertation, MIT)  
+  * **Types and Effects &mdash; Towards the Integration of Functional and Imperative Programming** (PhD Dissertation, MIT)  
     by John M. Lucassen  
     ([pdf](https://apps.dtic.mil/sti/pdfs/ADA186930.pdf))
 

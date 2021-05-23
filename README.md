@@ -928,12 +928,25 @@ in various programming languages.
     by Matija Pretnar  
     ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
 
+  ### 1996
+
+  * **Controlling Effects** (PhD Dissertation, Carnegie Mellon University)  
+    by Andrzej Filinski  
+    ([dvi.gz](http://hjemmesider.diku.dk/~andrzej/papers/CE.dvi.gz))
+    ([ps.gz](http://hjemmesider.diku.dk/~andrzej/papers/CE.ps.gz))
+
   ### 1995
 
   * **Semantic Lego** (PhD Dissertation, Columbia University)  
     by David Espinosa  
     ([pdf](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis.pdf))
     ([pdf slides](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis-slides.pdf))
+
+  ### 1987
+
+  * **Types and Effects &mdash; Towards the Integration of Functional and Imperative Programming** (PhD Dissertation, MIT)  
+    by John M. Lucassen  
+    ([pdf](https://apps.dtic.mil/sti/pdfs/ADA186930.pdf))
 
 ---
 

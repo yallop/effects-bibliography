@@ -864,6 +864,12 @@ in various programming languages.
 
 ## Theses and Dissertations
 
+  ### 2021
+
+  * **Extending Effekt with Bidirectional Effects** (MSc Dissertation, Tokyo Institute of Technology)  
+  by Kazuki Niimi  
+  ([pdf](https://prg.is.titech.ac.jp/wp-content/uploads/2021/04/2021-03M-niimi.pdf))
+
   ### 2020
 
   * **Applications of Algebraic Effect Theories** (PhD Dissertation, University of Ljubljana)  

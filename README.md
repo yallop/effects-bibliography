@@ -152,6 +152,11 @@ in various programming languages.
 
 ### 2021
 
+* **Retrofitting Effect Handlers onto OCaml** (PLDI 2021)  
+  by KC Sivaramakrishnan, Stephen Dolan, Leo White, Tom Kelly, Sadiq Jaffer, and Anil Madhavapeddy  
+  ([arxiv](https://arxiv.org/abs/2104.00250))
+  ([pdf](https://arxiv.org/pdf/2104.00250.pdf))
+
 * **Automatic Differentiation via Effects and Handlers: An Implementation in Frank** (PEPM 2021)  
   by Jesse Sigal  
   ([arxiv](https://arxiv.org/abs/2101.08095))

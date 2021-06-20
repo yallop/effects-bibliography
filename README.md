@@ -162,7 +162,7 @@ in various programming languages.
   ([arxiv](https://arxiv.org/abs/2101.08095))
 
 * **Staged Effects and Handlers for Modular Languages with Abstraction** (PEPM 2021)  
-  by Casper Bach Poulsen, Cas van der Rest, Tom Schrijvers  
+  by Casper Bach Poulsen, Cas van der Rest, and Tom Schrijvers  
   ([pdf](https://casvdrest.github.io/staged-effects.agda/pepm21.pdf))
 
 * **A Separation Logic for Effect Handlers** (POPL 2021)  

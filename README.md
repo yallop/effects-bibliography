@@ -356,7 +356,8 @@ in various programming languages.
 
 * **Abstraction-Safe Effect Handlers via Tunneling** (POPL 2019)  
   by Yizhou Zhang and Andrew Myers  
-  ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318)) ([technical report](https://hdl.handle.net/1813/60202))
+  ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318))
+  ([technical report](https://ecommons.cornell.edu/handle/1813/60202))
 
 * **Behavioural Equivalence via Modalities for Algebraic Effects** (TOPLAS 2019)  
   by Alex Simpson and Niels Voorneveld  

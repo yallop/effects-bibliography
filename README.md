@@ -152,12 +152,17 @@ in various programming languages.
 
 ### 2021
 
+* **Retrofitting Effect Handlers onto OCaml** (PLDI 2021)  
+  by KC Sivaramakrishnan, Stephen Dolan, Leo White, Tom Kelly, Sadiq Jaffer, and Anil Madhavapeddy  
+  ([arxiv](https://arxiv.org/abs/2104.00250))
+  ([pdf](https://arxiv.org/pdf/2104.00250.pdf))
+
 * **Automatic Differentiation via Effects and Handlers: An Implementation in Frank** (PEPM 2021)  
   by Jesse Sigal  
   ([arxiv](https://arxiv.org/abs/2101.08095))
 
 * **Staged Effects and Handlers for Modular Languages with Abstraction** (PEPM 2021)  
-  by Casper Bach Poulsen, Cas van der Rest, Tom Schrijvers  
+  by Casper Bach Poulsen, Cas van der Rest, and Tom Schrijvers  
   ([pdf](https://casvdrest.github.io/staged-effects.agda/pepm21.pdf))
 
 * **A Separation Logic for Effect Handlers** (POPL 2021)  
@@ -351,7 +356,8 @@ in various programming languages.
 
 * **Abstraction-Safe Effect Handlers via Tunneling** (POPL 2019)  
   by Yizhou Zhang and Andrew Myers  
-  ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318)) ([technical report](https://hdl.handle.net/1813/60202))
+  ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318))
+  ([technical report](https://ecommons.cornell.edu/handle/1813/60202))
 
 * **Behavioural Equivalence via Modalities for Algebraic Effects** (TOPLAS 2019)  
   by Alex Simpson and Niels Voorneveld  
@@ -858,6 +864,12 @@ in various programming languages.
 
 
 ## Theses and Dissertations
+
+  ### 2021
+
+  * **Extending Effekt with Bidirectional Effects** (MSc Dissertation, Tokyo Institute of Technology)  
+  by Kazuki Niimi  
+  ([pdf](https://prg.is.titech.ac.jp/wp-content/uploads/2021/04/2021-03M-niimi.pdf))
 
   ### 2020
 

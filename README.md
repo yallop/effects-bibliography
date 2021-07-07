@@ -152,6 +152,10 @@ in various programming languages.
 
 ### 2021
 
+* **Handler Calculus** (HOPE 2021)  
+  by Sam Lindley  
+  ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/handler-calculus-draft-may2021.pdf))
+
 * **Retrofitting Effect Handlers onto OCaml** (PLDI 2021)  
   by KC Sivaramakrishnan, Stephen Dolan, Leo White, Tom Kelly, Sadiq Jaffer, and Anil Madhavapeddy  
   ([arxiv](https://arxiv.org/abs/2104.00250))

@@ -152,6 +152,11 @@ in various programming languages.
 
 ### 2021
 
+* **Derivation of a Virtual Machine For Four Variants of Delimited-Control Operators** (FSCD 2021)  
+  by Maika Fujii and Kenichi Asai  
+  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14254/pdf/LIPIcs-FSCD-2021-16.pdf))
+  ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.16))
+
 * **Handler Calculus** (HOPE 2021)  
   by Sam Lindley  
   ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/handler-calculus-draft-may2021.pdf))

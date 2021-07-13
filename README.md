@@ -152,6 +152,11 @@ in various programming languages.
 
 ### 2021
 
+* **A Functional Abstraction of Typed Invocation Contexts** (FSCD 2021)  
+  by Youyou Cong, Chiaki Ishio, Kaho Honda, and Kenichi Asai  
+  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14250/pdf/LIPIcs-FSCD-2021-12.pdf))
+  ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.12))
+
 * **Derivation of a Virtual Machine For Four Variants of Delimited-Control Operators** (FSCD 2021)  
   by Maika Fujii and Kenichi Asai  
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14254/pdf/LIPIcs-FSCD-2021-16.pdf))

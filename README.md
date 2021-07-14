@@ -29,6 +29,10 @@ in various programming languages.
   by Nick Palladinos  
   ([www](https://github.com/palladin/Eff))
 
+* **Effects.js**: algebraic effects for Javascript based on Koka and Eff  
+  by Jason Butler  
+  ([www](https://github.com/nythrox/effects.js))
+
 * **Effekt Language**: A research language with effect handlers and lightweight effect polymorphism  
   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([www](https://effekt-lang.github.io/effekt-website/))
@@ -109,14 +113,17 @@ in various programming languages.
   ([www](http://atnos-org.github.io/eff/))
   ([GitHub](http://github.com/atnos-org/eff))
 
+* **libhandler**: an implementation of algebraic effects and handlers in portable C99  
+  by Daan Leijen  
+  ([www](https://github.com/koka-lang/libhandler))
+
+* **libmprompt**: robust multi-prompt delimited control and effect handlers in C/C++  
+  by Daan Leijen  
+  ([www](https://github.com/koka-lang/libmprompt))
+
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))
-
-
-* **Effects.js**: algebraic effects for Javascript based on Koka and Eff  
-  by Jason Butler  
-  ([www](https://github.com/nythrox/effects.js))
 
 ## Tutorials
 

@@ -162,6 +162,10 @@ in various programming languages.
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14254/pdf/LIPIcs-FSCD-2021-16.pdf))
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.16))
 
+* **Higher-Order Asynchronous Effects** (HOPE 2021)  
+  by Danel Ahman, Matija Pretnar, and Janez Radešček  
+  ([pdf](https://danel.ahman.ee/papers/hope21.pdf))
+
 * **Handler Calculus** (HOPE 2021)  
   by Sam Lindley  
   ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/handler-calculus-draft-may2021.pdf))

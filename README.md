@@ -159,6 +159,10 @@ in various programming languages.
 
 ### 2021
 
+* **Reasoning about Effect Interaction by Fusion** (ICFP 2021)  
+  by Zhixuan Yang and Nicolas Wu   
+  ([extended pdf](https://yangzhixuan.github.io/pdf/fused-reasoning-appendices.pdf))
+
 * **Generalized Evidence Passing for Effect Handlers** (ICFP 2021)  
   by Ningning Xie and Daan Leijen  
   ([pdf](https://xnning.github.io/papers/multip.pdf))

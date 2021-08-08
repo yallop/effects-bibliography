@@ -159,6 +159,10 @@ in various programming languages.
 
 ### 2021
 
+* **Generalized Evidence Passing for Effect Handlers** (ICFP 2021)  
+  by Ningning Xie and Daan Leijen  
+  ([pdf](https://xnning.github.io/papers/multip.pdf))
+
 * **A Functional Abstraction of Typed Invocation Contexts** (FSCD 2021)  
   by Youyou Cong, Chiaki Ishio, Kaho Honda, and Kenichi Asai  
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14250/pdf/LIPIcs-FSCD-2021-12.pdf))

@@ -177,6 +177,14 @@ in various programming languages.
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14254/pdf/LIPIcs-FSCD-2021-16.pdf))
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.16))
 
+* **Contextual Effect Polymorphism Meets Bidirectional Effects (Extended Abstract)** (TyDe 2021)  
+  by Kazuki Niimi, Youyou Cong, and Jonathan Immanuel Brachthäuser  
+  ([pdf](https://researchmap.jp/youyoucong/presentations/32929533/attachment_file.pdf))
+
+* **First-class Named Handlers** (HOPE 2021)  
+  by Ningning Xie, Youyou Cong, and Daan Leijen  
+  ([pdf](https://researchmap.jp/youyoucong/presentations/32929533/attachment_file.pdf))
+
 * **Higher-Order Asynchronous Effects** (HOPE 2021)  
   by Danel Ahman, Matija Pretnar, and Janez Radešček  
   ([pdf](https://danel.ahman.ee/papers/hope21.pdf))

@@ -228,7 +228,7 @@ in various programming languages.
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
-  ([arxiv (preprint)](https://arxiv.org/abs/1906.03028))
+  ([pdf](http://proceedings.mlr.press/v119/gorinova20a/gorinova20a.pdf))
 
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
   by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf  

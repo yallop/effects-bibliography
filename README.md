@@ -159,6 +159,14 @@ in various programming languages.
 
 ### 2021
 
+* **Reasoning about Effect Interaction by Fusion** (ICFP 2021)  
+  by Zhixuan Yang and Nicolas Wu   
+  ([extended pdf](https://yangzhixuan.github.io/pdf/fused-reasoning-appendices.pdf))
+
+* **Generalized Evidence Passing for Effect Handlers** (ICFP 2021)  
+  by Ningning Xie and Daan Leijen  
+  ([pdf](https://xnning.github.io/papers/multip.pdf))
+
 * **A Functional Abstraction of Typed Invocation Contexts** (FSCD 2021)  
   by Youyou Cong, Chiaki Ishio, Kaho Honda, and Kenichi Asai  
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14250/pdf/LIPIcs-FSCD-2021-12.pdf))
@@ -168,6 +176,14 @@ in various programming languages.
   by Maika Fujii and Kenichi Asai  
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14254/pdf/LIPIcs-FSCD-2021-16.pdf))
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.16))
+
+* **Contextual Effect Polymorphism Meets Bidirectional Effects (Extended Abstract)** (TyDe 2021)  
+  by Kazuki Niimi, Youyou Cong, and Jonathan Immanuel Brachthäuser  
+  ([pdf](https://researchmap.jp/youyoucong/presentations/32929533/attachment_file.pdf))
+
+* **First-class Named Handlers** (HOPE 2021)  
+  by Ningning Xie, Youyou Cong, and Daan Leijen  
+  ([pdf](https://researchmap.jp/youyoucong/presentations/32929533/attachment_file.pdf))
 
 * **Higher-Order Asynchronous Effects** (HOPE 2021)  
   by Danel Ahman, Matija Pretnar, and Janez Radešček  
@@ -212,7 +228,7 @@ in various programming languages.
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
-  ([pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/271-Paper.pdf))
+  ([pdf](http://proceedings.mlr.press/v119/gorinova20a/gorinova20a.pdf))
 
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
   by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf  

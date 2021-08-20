@@ -159,6 +159,10 @@ in various programming languages.
 
 ### 2021
 
+* **Composing UNIX with Effect Handlers** (ML Workshop 2021)  
+  by Daniel Hillerström  
+  ([pdf](https://dhil.net/research/papers/unix-ml2021.pdf))
+
 * **Reasoning about Effect Interaction by Fusion** (ICFP 2021)  
   by Zhixuan Yang and Nicolas Wu   
   ([extended pdf](https://yangzhixuan.github.io/pdf/fused-reasoning-appendices.pdf))

@@ -164,7 +164,7 @@ in various programming languages.
   ([pdf](https://dhil.net/research/papers/unix-ml2021.pdf))
 
 * **Contextual Modal Types for Algebraic Effects and Handlers** (ICFP 2021)  
-  by Nikita Zyuzin and Aleksandar Nanevski    
+  by Nikita Zyuzin and Aleksandar Nanevski  
   ([doi](https://doi.org/10.1145/3473580))
   ([pdf](https://software.imdea.org/~aleks/icfp21/icfp21.pdf))
 

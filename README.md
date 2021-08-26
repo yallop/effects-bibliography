@@ -163,7 +163,7 @@ in various programming languages.
   by Daniel Hillerström  
   ([pdf](https://dhil.net/research/papers/unix-ml2021.pdf))
 
-* *Safe mutation with algebraic effects* (Haskell 2021)  
+* **Safe mutation with algebraic effects** (Haskell 2021)  
   by Hashan Punchihewa and Nicolas Wu  
   ([doi](https://doi.org/10.1145/3471874.3472988))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3471874.3472988))

@@ -163,6 +163,11 @@ in various programming languages.
   by Daniel Hillerström  
   ([pdf](https://dhil.net/research/papers/unix-ml2021.pdf))
 
+* *Safe mutation with algebraic effects* (Haskell 2021)  
+  by Hashan Punchihewa and Nicolas Wu  
+  ([doi](https://doi.org/10.1145/3471874.3472988))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3471874.3472988))
+
 * **Contextual Modal Types for Algebraic Effects and Handlers** (ICFP 2021)  
   by Nikita Zyuzin and Aleksandar Nanevski  
   ([doi](https://doi.org/10.1145/3473580))
@@ -170,11 +175,14 @@ in various programming languages.
 
 * **Reasoning about Effect Interaction by Fusion** (ICFP 2021)  
   by Zhixuan Yang and Nicolas Wu   
+  ([doi](https://doi.org/10.1145/3473578))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3473578))
   ([extended pdf](https://yangzhixuan.github.io/pdf/fused-reasoning-appendices.pdf))
 
 * **Generalized Evidence Passing for Effect Handlers** (ICFP 2021)  
   by Ningning Xie and Daan Leijen  
-  ([pdf](https://xnning.github.io/papers/multip.pdf))
+  ([doi](https://doi.org/10.1145/3473576))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3473576))
 
 * **A Functional Abstraction of Typed Invocation Contexts** (FSCD 2021)  
   by Youyou Cong, Chiaki Ishio, Kaho Honda, and Kenichi Asai  

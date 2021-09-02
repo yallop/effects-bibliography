@@ -198,6 +198,10 @@ in various programming languages.
   by Kazuki Niimi, Youyou Cong, and Jonathan Immanuel Brachthäuser  
   ([pdf](https://researchmap.jp/youyoucong/presentations/32929533/attachment_file.pdf))
 
+* **Formalising Algebraic Effects with Non-Recoverable Failure** (HOPE 2021)  
+  by Timotej Tomandl and Dominic Orchard  
+  ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/timo-hope21.pdf))
+
 * **First-class Named Handlers** (HOPE 2021)  
   by Ningning Xie, Youyou Cong, and Daan Leijen  
   ([pdf](https://researchmap.jp/youyoucong/presentations/32929533/attachment_file.pdf))

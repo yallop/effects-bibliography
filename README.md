@@ -664,11 +664,11 @@ in various programming languages.
 
 * **Embedding effect systems in Haskell** (Haskell 2014)  
   by Dominic Orchard and Tomas Petricek  
-  ([pdf](https://www.cl.cam.ac.uk/~dao29/publ/haskell14-effects.pdf))
+  ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/haskell14-effects.pdf))
 
 * **The semantic marriage of monads and effects (extended abstract)** (Unpublished, 2014)  
   by Dominic Orchard, Tomas Petricek and Alan Mycroft  
-  ([pdf](https://www.cl.cam.ac.uk/~dao29/drafts/ixmonad-eabstract.pdf))
+  ([pdf](https://arxiv.org/pdf/1401.5391.pdf))
 
 * **Inferring algebraic effects** (LMCS 2014)  
   by Matija Pretnar  

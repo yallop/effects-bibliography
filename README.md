@@ -159,6 +159,17 @@ in various programming languages.
 
 ### 2021
 
+* **Efficient Compilation of Algebraic Effect Handlers** (OOPSLA 2021)  
+  by Georgios Karachalias, Filip Koprivec, Matija Pretnar, and Tom Schrijvers  
+  ([doi](https://doi.org/10.1145/3485479))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3485479))
+
+* **Latent Effects for Resuable Language Components** (APLAS 2021)  
+  by Birthe van den Berg, Tom Schrijvers, Casper Bach Poulsen, and Nicolas Wu  
+  ([doi](https://doi.org/10.1007/978-3-030-89051-3_11)) 
+  ([arxiv](https://arxiv.org/abs/2108.11155))
+  ([pdf (extended version)](https://arxiv.org/pdf/2108.11155.pdf))
+
 * **Composing UNIX with Effect Handlers** (ML Workshop 2021)  
   by Daniel Hillerström  
   ([pdf](https://dhil.net/research/papers/unix-ml2021.pdf))

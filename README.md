@@ -196,7 +196,7 @@ in various programming languages.
 
 * **Contextual Effect Polymorphism Meets Bidirectional Effects (Extended Abstract)** (TyDe 2021)  
   by Kazuki Niimi, Youyou Cong, and Jonathan Immanuel Brachthäuser  
-  ([pdf](https://researchmap.jp/youyoucong/presentations/32929533/attachment_file.pdf))
+  ([pdf](https://prg.is.titech.ac.jp/members/masuhara/papers/tyde2021.pdf))
 
 * **Formalising Algebraic Effects with Non-Recoverable Failure** (HOPE 2021)  
   by Timotej Tomandl and Dominic Orchard  

@@ -951,7 +951,7 @@ in various programming languages.
 
   * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
     by Jonathan Immanuel Brachthäuser  
-    ([pdf](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/102021/thesis-v1.1.pdf?sequence=1&isAllowed=y))
+    ([dblp](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html))
 
   ### 2019
 

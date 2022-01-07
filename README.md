@@ -1,7 +1,7 @@
 # Effects bibliography
 
-A collection of research papers and other resources related to the theory and practice of
-computational effects.
+A collection of research papers and other resources related to the
+theory and practice of computational effects.
 
 ## Instructions
 
@@ -207,7 +207,7 @@ in various programming languages.
 
 * **Contextual Effect Polymorphism Meets Bidirectional Effects (Extended Abstract)** (TyDe 2021)  
   by Kazuki Niimi, Youyou Cong, and Jonathan Immanuel Brachthäuser  
-  ([pdf](https://researchmap.jp/youyoucong/presentations/32929533/attachment_file.pdf))
+  ([pdf](https://prg.is.titech.ac.jp/members/masuhara/papers/tyde2021.pdf))
 
 * **Formalising Algebraic Effects with Non-Recoverable Failure** (HOPE 2021)  
   by Timotej Tomandl and Dominic Orchard  
@@ -960,6 +960,10 @@ in various programming languages.
   ([doi](http://dx.doi.org/10.7488/era/537))
   ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
 
+  * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
+    by Jonathan Immanuel Brachthäuser  
+    ([dblp](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html))
+    
   ### 2019
 
   * **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  

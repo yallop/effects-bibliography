@@ -159,6 +159,17 @@ in various programming languages.
 
 ### 2021
 
+* **Efficient Compilation of Algebraic Effect Handlers** (OOPSLA 2021)  
+  by Georgios Karachalias, Filip Koprivec, Matija Pretnar, and Tom Schrijvers  
+  ([doi](https://doi.org/10.1145/3485479))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3485479))
+
+* **Latent Effects for Resuable Language Components** (APLAS 2021)  
+  by Birthe van den Berg, Tom Schrijvers, Casper Bach Poulsen, and Nicolas Wu  
+  ([doi](https://doi.org/10.1007/978-3-030-89051-3_11)) 
+  ([arxiv](https://arxiv.org/abs/2108.11155))
+  ([pdf (extended version)](https://arxiv.org/pdf/2108.11155.pdf))
+
 * **Composing UNIX with Effect Handlers** (ML Workshop 2021)  
   by Daniel Hillerström  
   ([pdf](https://dhil.net/research/papers/unix-ml2021.pdf))
@@ -245,7 +256,7 @@ in various programming languages.
 
 * **Not by equations alone: reasoning with extensible effects** (JFP 2020)  
   by Oleg Kiselyov, Shin-Cheng Mu, and Amr Sabry  
-  ([pdf](https://scm.iis.sinica.edu.tw/pub/2020-denot.pdf))
+  ([pdf](https://homepage.iis.sinica.edu.tw/papers/scm/23598-F.pdf))
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
@@ -952,7 +963,7 @@ in various programming languages.
   * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
     by Jonathan Immanuel Brachthäuser  
     ([dblp](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html))
-
+    
   ### 2019
 
   * **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  

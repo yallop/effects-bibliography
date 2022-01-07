@@ -256,7 +256,7 @@ in various programming languages.
 
 * **Not by equations alone: reasoning with extensible effects** (JFP 2020)  
   by Oleg Kiselyov, Shin-Cheng Mu, and Amr Sabry  
-  ([pdf](https://scm.iis.sinica.edu.tw/pub/2020-denot.pdf))
+  ([pdf](https://homepage.iis.sinica.edu.tw/papers/scm/23598-F.pdf))
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  

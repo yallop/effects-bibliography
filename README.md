@@ -960,10 +960,6 @@ in various programming languages.
   ([doi](http://dx.doi.org/10.7488/era/537))
   ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
 
-  * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
-    by Jonathan Immanuel Brachthäuser  
-    ([pdf](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/102021/thesis-v1.1.pdf?sequence=1&isAllowed=y))
-
   ### 2019
 
   * **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  

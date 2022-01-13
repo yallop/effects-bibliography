@@ -120,6 +120,10 @@ in various programming languages.
 * **libmprompt**: robust multi-prompt delimited control and effect handlers in C/C++  
   by Daan Leijen  
   ([www](https://github.com/koka-lang/libmprompt))
+  
+* **multicont**: continuations with multi-shot semantics in OCaml  
+  by Daniel Hillerström  
+  ([www](https://github.com/dhil/ocaml-multicont))
 
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  
@@ -963,7 +967,7 @@ in various programming languages.
   * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
     by Jonathan Immanuel Brachthäuser  
     ([dblp](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html))
-    
+
   ### 2019
 
   * **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  

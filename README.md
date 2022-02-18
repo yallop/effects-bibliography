@@ -112,7 +112,11 @@ in various programming languages.
   by Eric Torreborre  
   ([www](http://atnos-org.github.io/eff/))
   ([GitHub](http://github.com/atnos-org/eff))
-
+  
+* **cpp-effects**: effect handlers in C++  
+  by Maciej Piróg  
+  ([GitHub](https://github.com/maciejpirog/cpp-effects))
+  
 * **libhandler**: an implementation of algebraic effects and handlers in portable C99  
   by Daan Leijen  
   ([www](https://github.com/koka-lang/libhandler))

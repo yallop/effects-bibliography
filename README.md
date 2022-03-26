@@ -952,7 +952,7 @@ in various programming languages.
   * **Foundations for Programming and Implementing Effect Handlers** (PhD Dissertation, The University of Edinburgh)  
   by Daniel Hillerström  
   ([pdf](https://dhil.net/research/papers/thesis.pdf))
-  ([GitHub](https://github.com/dhil/phd-disseration))
+  ([GitHub](https://github.com/dhil/phd-dissertation))
 
   * **Extending Effekt with Bidirectional Effects** (MSc Dissertation, Tokyo Institute of Technology)  
   by Kazuki Niimi  

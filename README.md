@@ -128,6 +128,10 @@ in various programming languages.
 * **multicont**: continuations with multi-shot semantics in OCaml  
   by Daniel Hillerström  
   ([www](https://github.com/dhil/ocaml-multicont))
+  
+* **Freak**: a programming language with coalgebraic effects and cohandlers  
+  by Mateusz Urbańczyk  
+  ([www](https://github.com/Tomatosoup97/freak))
 
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  

@@ -132,7 +132,7 @@ in various programming languages.
 * **multicont**: continuations with multi-shot semantics in OCaml  
   by Daniel Hillerström  
   ([www](https://github.com/dhil/ocaml-multicont))
-  
+
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))

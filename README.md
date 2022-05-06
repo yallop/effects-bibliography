@@ -54,6 +54,10 @@ in various programming languages.
   by Sam Lindley, Conor McBride, and Craig McLaughlin  
   ([www](https://github.com/frank-lang/frank))
 
+* **Freak**: a programming language with coalgebraic effects and cohandlers  
+  by Mateusz Urbańczyk  
+  ([www](https://github.com/Tomatosoup97/freak))
+
 * **Fused effects**: a Haskell library for effects  
   by Rob Rix  
   ([hackage](https://hackage.haskell.org/package/fused-effects))

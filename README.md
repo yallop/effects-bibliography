@@ -169,6 +169,17 @@ in various programming languages.
 
 ## Papers
 
+### 2022
+
+* **Structured Handling of Scoped Effects** (ESOP 2022)  
+  by Zhixuan Yang, Marco Paviotti, Nicolas Wu, Birthe van den Berg, and Tom Schrijvers  
+  ([pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-99336-8_17.pdf))
+  ([pdf (extended version)](https://arxiv.org/pdf/2201.10287.pdf))
+
+* **Effects, Capabilities, and Boxes: From Scope-Based Reasoning to Type-Based Reasoning and Back** (OOPSLA 2022)  
+  by Jonathan Immanuel Brachthäuser, Philipp Schuster, Edward Lee, and Aleksander Boruch-Gruszecki  
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3527320))
+
 ### 2021
 
 * **Efficient Compilation of Algebraic Effect Handlers** (OOPSLA 2021)  

@@ -171,6 +171,11 @@ in various programming languages.
 
 ### 2022
 
+* **A Typed Continuation-Passing Translation for Lexical Effect Handlers** (PLDI 2022)  
+  by Philipp Schuster, Jonathan Immanuel Brachthäuser, Marius Müller, and Klaus Ostermann  
+  ([doi](https://doi.org/10.1145/3519939.3523710))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3519939.3523710))
+
 * **Structured Handling of Scoped Effects** (ESOP 2022)  
   by Zhixuan Yang, Marco Paviotti, Nicolas Wu, Birthe van den Berg, and Tom Schrijvers  
   ([pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-99336-8_17.pdf))
@@ -189,7 +194,7 @@ in various programming languages.
 
 * **Latent Effects for Resuable Language Components** (APLAS 2021)  
   by Birthe van den Berg, Tom Schrijvers, Casper Bach Poulsen, and Nicolas Wu  
-  ([doi](https://doi.org/10.1007/978-3-030-89051-3_11)) 
+  ([doi](https://doi.org/10.1007/978-3-030-89051-3_11))
   ([arxiv](https://arxiv.org/abs/2108.11155))
   ([pdf (extended version)](https://arxiv.org/pdf/2108.11155.pdf))
 
@@ -375,7 +380,7 @@ in various programming languages.
 
 * **Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers** (POPL 2020)  
    by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/binders-labels.pdf))
+   ([pdf](https://maciejpirog.github.io/papers/binders-labels.pdf))
 
 * **Combining predicate transformer semantics for effects: a case study in parsing regular languages** (MSFP 2020)  
   by Anne Baanen and Wouter Swierstra  
@@ -421,7 +426,7 @@ in various programming languages.
 
 * **Monad transformers and modular algebraic effects: What binds them together** (Haskell 2019)  
   by Tom Schrijvers, Maciej Piróg, Nicolas Wu, and Mauro Jaskelioff  
-  ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/what-binds-them-together.pdf))
+  ([pdf](https://maciejpirog.github.io/papers/what-binds-them-together.pdf))
 
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
@@ -437,7 +442,7 @@ in various programming languages.
 
 * **Typed equivalence of effect handlers and delimited control** (FSCD 2019)  
   Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-  ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/typed-equivalence-fscd2019.pdf))
+  ([pdf](https://maciejpirog.github.io/papers/typed-equivalence-fscd2019.pdf))
 
 * **Handling Polymorphic Algebraic Effects** (ESOP 2019)  
   Taro Sekiyama and Atsushi Igarashi  
@@ -449,7 +454,8 @@ in various programming languages.
 
 * **Abstracting Algebraic Effects** (POPL 2019)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-  ([acm dl](https://dl.acm.org/citation.cfm?id=3290319)) ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/biernacki-al-popl19.pdf))
+  ([acm dl](https://dl.acm.org/citation.cfm?id=3290319)) 
+  ([pdf](https://maciejpirog.github.io/papers/biernacki-al-popl19.pdf))
 
 * **Abstraction-Safe Effect Handlers via Tunneling** (POPL 2019)  
   by Yizhou Zhang and Andrew Myers  
@@ -524,13 +530,16 @@ in various programming languages.
   ([doi](https://doi.org/10.1145/3236762))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3236762))
 
-* **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)<BR/>
-  by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet <BR/>
-  ([metadata](https://hal.inria.fr/hal-01799712), [pdf](https://hal.inria.fr/hal-01799712/document))
+* **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)  
+  by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet  
+  ([metadata](https://hal.inria.fr/hal-01799712))
+  ([pdf](https://hal.inria.fr/hal-01799712/document))
 
 * **Explicit Effect Subtyping** (ESOP 2018)  
   by Amr Hany Saleh, Georgios Karachalias, Matija Pretnar, and Tom Schrijvers  
-  ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf)) ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf)) ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
+  ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf))
+  ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf))
+  ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
 
 * **Handle with Care: Relational Interpretation of Algebraic Effects and Handlers** (POPL 2018)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  

@@ -530,8 +530,8 @@ in various programming languages.
   ([doi](https://doi.org/10.1145/3236762))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3236762))
 
-* **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)<BR/>
-  by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet <BR/>
+* **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)  
+  by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet  
   ([metadata](https://hal.inria.fr/hal-01799712), [pdf](https://hal.inria.fr/hal-01799712/document))
 
 * **Explicit Effect Subtyping** (ESOP 2018)  

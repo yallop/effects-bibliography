@@ -380,7 +380,7 @@ in various programming languages.
 
 * **Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers** (POPL 2020)  
    by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-   ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/binders-labels.pdf))
+   ([pdf](https://maciejpirog.github.io/papers/binders-labels.pdf))
 
 * **Combining predicate transformer semantics for effects: a case study in parsing regular languages** (MSFP 2020)  
   by Anne Baanen and Wouter Swierstra  
@@ -426,7 +426,7 @@ in various programming languages.
 
 * **Monad transformers and modular algebraic effects: What binds them together** (Haskell 2019)  
   by Tom Schrijvers, Maciej Piróg, Nicolas Wu, and Mauro Jaskelioff  
-  ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/what-binds-them-together.pdf))
+  ([pdf](https://maciejpirog.github.io/papers/what-binds-them-together.pdf))
 
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
@@ -442,7 +442,7 @@ in various programming languages.
 
 * **Typed equivalence of effect handlers and delimited control** (FSCD 2019)  
   Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-  ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/typed-equivalence-fscd2019.pdf))
+  ([pdf](https://maciejpirog.github.io/papers/typed-equivalence-fscd2019.pdf))
 
 * **Handling Polymorphic Algebraic Effects** (ESOP 2019)  
   Taro Sekiyama and Atsushi Igarashi  
@@ -454,7 +454,8 @@ in various programming languages.
 
 * **Abstracting Algebraic Effects** (POPL 2019)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-  ([acm dl](https://dl.acm.org/citation.cfm?id=3290319)) ([pdf](http://www.ii.uni.wroc.pl/~mpirog/papers/biernacki-al-popl19.pdf))
+  ([acm dl](https://dl.acm.org/citation.cfm?id=3290319)) 
+  ([pdf](https://maciejpirog.github.io/papers/biernacki-al-popl19.pdf))
 
 * **Abstraction-Safe Effect Handlers via Tunneling** (POPL 2019)  
   by Yizhou Zhang and Andrew Myers  

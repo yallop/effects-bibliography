@@ -171,6 +171,11 @@ in various programming languages.
 
 ### 2022
 
+* **A Typed Continuation-Passing Translation for Lexical Effect Handlers** (PLDI 2022)  
+  by Philipp Schuster, Jonathan Immanuel Brachthäuser, Marius Müller, and Klaus Ostermann  
+  ([doi](https://doi.org/10.1145/3519939.3523710))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3519939.3523710))
+
 * **Structured Handling of Scoped Effects** (ESOP 2022)  
   by Zhixuan Yang, Marco Paviotti, Nicolas Wu, Birthe van den Berg, and Tom Schrijvers  
   ([pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-99336-8_17.pdf))
@@ -189,7 +194,7 @@ in various programming languages.
 
 * **Latent Effects for Resuable Language Components** (APLAS 2021)  
   by Birthe van den Berg, Tom Schrijvers, Casper Bach Poulsen, and Nicolas Wu  
-  ([doi](https://doi.org/10.1007/978-3-030-89051-3_11)) 
+  ([doi](https://doi.org/10.1007/978-3-030-89051-3_11))
   ([arxiv](https://arxiv.org/abs/2108.11155))
   ([pdf (extended version)](https://arxiv.org/pdf/2108.11155.pdf))
 

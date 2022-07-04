@@ -171,6 +171,10 @@ in various programming languages.
 
 ### 2022
 
+* **Algebraic effects for extensible dynamic semantics** (Journal of Logic, Language and Information)  
+  by Julian Grove and Jean-Philippe Bernardy  
+  ([pdf](https://semanticsarchive.net/Archive/TMxNGE3M/algebraic.pdf))
+
 * **A Typed Continuation-Passing Translation for Lexical Effect Handlers** (PLDI 2022)  
   by Philipp Schuster, Jonathan Immanuel Brachthäuser, Marius Müller, and Klaus Ostermann  
   ([doi](https://doi.org/10.1145/3519939.3523710))

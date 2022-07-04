@@ -733,7 +733,7 @@ in various programming languages.
 
 * **Programming and reasoning with algebraic effects and dependent types** (ICFP 2013)  
   by Edwin Brady  
-  ([pdf](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf))
+  ([pdf](https://www.type-driven.org.uk/edwinb/papers/effects.pdf))
 
 * **The constrained-monad problem** (ICFP 2013)  
   by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill  

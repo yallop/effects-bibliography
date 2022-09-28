@@ -373,7 +373,7 @@ in various programming languages.
 * **Compiling Effect Handlers in Capability-Passing Style** (ICFP 2020)  
   by Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann  
  ([doi](https://doi.org/10.1145/3408975))
- ([pdf](http://ps.informatik.uni-tuebingen.de/publications/schuster20capability.pdf))
+ ([pdf](https://dl.acm.org/doi/pdf/10.1145/3408975))
 
 * **Effekt: Capability-passing style for type- and effect-safe, extensible effect handlers in Scala** (JFP 2020)  
   by Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  

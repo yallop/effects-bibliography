@@ -846,7 +846,7 @@ in various programming languages.
 
 * **Data types a la carte** (JFP 2008)  
   by Wouter Swierstra  
-  ([pdf](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf))
+  ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/14416CB20C4637164EA9F77097909409/S0956796808006758a.pdf))
 
 ### 2007
 

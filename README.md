@@ -512,7 +512,7 @@ in various programming languages.
 
 * **Functional Programming for Modular Bayesian Inference** (ICFP 2018)  
   by Adam Ścibior, Ohad Kammar, and Zoubin Ghahramani  
-  ([pdf](http://denotational.co.uk/publications/scibior-kammar-ghahramani-funcitonal-programming-for-modular-bayesian-inference.pdf))
+  ([pdf](https://www.cs.ubc.ca/~ascibior/assets/pdf/icfp2018.pdf))
 
 * **JEff: Objects for Effect** (Onward 2018)  
   by Pablo Inostroza and Tijs van der Storm  

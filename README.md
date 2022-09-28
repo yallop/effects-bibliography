@@ -139,6 +139,19 @@ in various programming languages.
 
 ## Tutorials
 
+### 2022
+
+* **Effect handler oriented programming** (lecture series given at [OPLSS](https://www.cs.uoregon.edu/research/summerschool/summer22/topics.php#Lindley))  
+  by Sam Lindley  
+  (Videos: [1](https://www.cs.uoregon.edu/research/summerschool/summer22/lectures/Lindley1.mp4),
+           [2](https://www.cs.uoregon.edu/research/summerschool/summer22/lectures/Lindley2.mp4),
+           [3](https://www.cs.uoregon.edu/research/summerschool/summer22/lectures/Lindley3.mp4),
+           [4](https://www.cs.uoregon.edu/research/summerschool/summer22/lectures/Lindley4.mp4))  
+  (Notes:  [1](https://www.cs.uoregon.edu/research/summerschool/summer22/lectures/handlers.pdf),
+           [2](https://www.cs.uoregon.edu/research/summerschool/summer22/lectures/ehop.pdf),
+           [3](https://www.cs.uoregon.edu/research/summerschool/summer22/lectures/effexp.pdf),
+           [4](https://www.cs.uoregon.edu/research/summerschool/summer22/lectures/et.pdf))
+
 ### 2018
 
 * **What is algebraic about algebraic effects and handlers?** (tutorial given at [Dagstuhl](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18172) and [OPLSS](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php))  

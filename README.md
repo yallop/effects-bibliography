@@ -184,6 +184,10 @@ in various programming languages.
 
 ### 2022
 
+* **High-level effect handlers in C++** (OOPSLA 2022)  
+  by Dan Ghica, Sam Lindley, Marcos Maroñas Bravo, and Maciej Piróg  
+  ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/cppeff.pdf))
+
 * **Algebraic effects for extensible dynamic semantics** (Journal of Logic, Language and Information)  
   by Julian Grove and Jean-Philippe Bernardy  
   ([pdf](https://semanticsarchive.net/Archive/TMxNGE3M/algebraic.pdf))

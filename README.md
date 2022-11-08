@@ -184,6 +184,10 @@ in various programming languages.
 
 ### 2022
 
+* **First-class Names for Effect Handlers** (OOPSLA 2022)  
+  by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3563289))
+
 * **High-level effect handlers in C++** (OOPSLA 2022)  
   by Dan Ghica, Sam Lindley, Marcos Maroñas Bravo, and Maciej Piróg  
   ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/cppeff.pdf))

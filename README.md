@@ -21,7 +21,7 @@ in various programming languages.
   by Andrej Bauer and Danel Ahman  
   ([www](https://github.com/andrejbauer/coop))
   
-* **Desk**: A statically-typed functional language with set-operation based effect system  
+* **Desk**: A statically-typed functional language with effect system based on set-operation  
   by Ryo Hirayama from Hihaheho Studio  
   ([GitHub](https://github.com/Hihaheho/Desk))
 

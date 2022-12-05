@@ -188,6 +188,10 @@ in various programming languages.
 
 ### 2022
 
+* **Automated Temporal Veriﬁcation for Algebraic Effects** (APLAS 2022)  
+  by Yahui Song, Darius Foo, and Wei-Ngan Chin  
+  ([pdf](https://www.comp.nus.edu.sg/~yahuis/APLAS2022.pdf))
+
 * **First-class Names for Effect Handlers** (OOPSLA 2022)  
   by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3563289))
@@ -524,7 +528,7 @@ in various programming languages.
 
 * **Functional Programming for Modular Bayesian Inference** (ICFP 2018)  
   by Adam Ścibior, Ohad Kammar, and Zoubin Ghahramani  
-  ([pdf](https://www.cs.ubc.ca/~ascibior/assets/pdf/icfp2018.pdf))
+  ([pdf](https://core.ac.uk/download/pdf/189162890.pdf))
 
 * **JEff: Objects for Effect** (Onward 2018)  
   by Pablo Inostroza and Tijs van der Storm  

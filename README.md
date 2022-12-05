@@ -20,6 +20,10 @@ in various programming languages.
 * **Coop**: A prototype programming language for programming with runners  
   by Andrej Bauer and Danel Ahman  
   ([www](https://github.com/andrejbauer/coop))
+  
+* **Desk**: A statically-typed functional language with set-operation based effect system  
+  by Ryo Hirayama from Hihaheho Studio  
+  ([GitHub](https://github.com/Hihaheho/Desk))
 
 * **Eff**: programming language with algebraic effects and handlers  
   by Andrej Bauer and Matija Pretnar  

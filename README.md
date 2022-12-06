@@ -21,9 +21,9 @@ in various programming languages.
   by Andrej Bauer and Danel Ahman  
   ([www](https://github.com/andrejbauer/coop))
   
-* **Desk**: A statically-typed functional language with effect system based on set-operation  
+* **Desk**: A statically-typed functional language with an effect system based on set-operation  
   by Ryo Hirayama from Hihaheho Studio  
-  ([GitHub](https://github.com/Hihaheho/Desk))
+  ([GitHub](https://github.com/Hihaheho/Desk)) ([an effects tutorial article](https://github.com/Hihaheho/Desk/blob/main/docs/blog/0002-algebraic-effects.md))
 
 * **Eff**: programming language with algebraic effects and handlers  
   by Andrej Bauer and Matija Pretnar  

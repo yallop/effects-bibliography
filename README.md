@@ -141,6 +141,11 @@ in various programming languages.
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))
 
+* **Turbolift**: algebraic effects for Scala 3
+  by Marcin Żebrowski  
+  ([www](https://marcinzh.github.io/turbolift/))
+  ([GitHub](https://github.com/marcinzh/turbolift))
+
 ## Tutorials
 
 ### 2022

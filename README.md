@@ -193,6 +193,11 @@ in various programming languages.
 
 ### 2023
 
+* **Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects** (POPL 2023)  
+  by Caspar Bach Poulsen and Cas Van Der Rest  
+  ([doi](https://dl.acm.org/doi/abs/10.1145/3571255))
+  ([pdf](http://casperbp.net/store/hefty-algebras.pdf))
+
 * **Towards a Reflection for Effect Handlers** (PEPM 2023)  
   by Youyou Cong and Kenichi Asai  
   ([doi](https://dl.acm.org/doi/abs/10.1145/3571786.3573015))

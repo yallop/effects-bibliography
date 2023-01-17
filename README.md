@@ -191,6 +191,12 @@ in various programming languages.
 
 ## Papers
 
+### 2023
+
+* **Towards a Reflection for Effect Handlers** (PEPM 2023)  
+  by Youyou Cong and Kenichi Asai  
+  ([doi](https://dl.acm.org/doi/abs/10.1145/3571786.3573015))
+
 ### 2022
 
 * **Automated Temporal Veriﬁcation for Algebraic Effects** (APLAS 2022)  
@@ -305,7 +311,7 @@ in various programming languages.
   ([pdf](https://casvdrest.github.io/staged-effects.agda/pepm21.pdf))
 
 * **A Separation Logic for Effect Handlers** (POPL 2021)  
-  by Paulo Emílio de Vilhena and  François Pottier  
+  by Paulo Emílio de Vilhena and François Pottier  
   ([pdf](http://cambium.inria.fr/~fpottier/publis/de-vilhena-pottier-sleh.pdf))
 
 * **Asynchronous Effects** (POPL 2021)  
@@ -366,7 +372,7 @@ in various programming languages.
   ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/effev.pdf))
 
 * **Effects as capabilities: effect handlers and lightweight effect polymorphism** (OOPSLA 2020)  
-   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
+  by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([doi](https://doi.org/10.1145/3428194))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3428194))
 
@@ -413,12 +419,12 @@ in various programming languages.
   ([arxiv](https://arxiv.org/pdf/1910.11629.pdf))
 
 * **Interaction Trees: Representing Recursive and Impure Programs in Coq** (POPL 2020)  
-   by Li-yao Xia, Yannick Zakowski, Paul He, Chung-Kil Hur, Gregory Malecha, Benjamin C. Pierce, Steve Zdancewic  
-   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3371119?download=true))
+  by Li-yao Xia, Yannick Zakowski, Paul He, Chung-Kil Hur, Gregory Malecha, Benjamin C. Pierce, Steve Zdancewic  
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3371119?download=true))
 
 * **Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers** (POPL 2020)  
-   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-   ([pdf](https://maciejpirog.github.io/papers/binders-labels.pdf))
+  by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
+  ([pdf](https://maciejpirog.github.io/papers/binders-labels.pdf))
 
 * **Combining predicate transformer semantics for effects: a case study in parsing regular languages** (MSFP 2020)  
   by Anne Baanen and Wouter Swierstra  
@@ -471,8 +477,8 @@ in various programming languages.
   ([pdf](https://staff.aist.go.jp/reynald.affeldt/documents/monae.pdf)) ([GitHub](https://github.com/affeldt-aist/monae))
 
 * **Handling Local State with Global State** (MPC 2019)  
-   by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  
-   ([pdf](https://www.iis.sinica.edu.tw/papers/scm/22560-F.pdf))
+  by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  
+  ([pdf](https://www.iis.sinica.edu.tw/papers/scm/22560-F.pdf))
 
 * **Bisimulations for Delimited-Control Operators** (LMCS 2019)  
   by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  

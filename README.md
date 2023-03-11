@@ -1023,7 +1023,7 @@ in various programming languages.
   ### 2022
 
   * **Comprehending Pure Functional Effect Systems** (MSc Dissertation, University of Oxford)  
-  by Daniel Tattan-Birch
+  by Daniel Tattan-Birch  
   ([pdf](https://www.dantb.dev/files/dissertation.pdf))
   ([Summary post](https://www.dantb.dev/posts/dissertation))
 

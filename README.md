@@ -1020,6 +1020,13 @@ in various programming languages.
 
 ## Theses and Dissertations
 
+  ### 2022
+
+  * **Comprehending Pure Functional Effect Systems** (MSc Dissertation, University of Oxford)  
+  by Daniel Tattan-Birch  
+  ([pdf](https://www.dantb.dev/files/dissertation.pdf))
+  ([Summary post](https://www.dantb.dev/posts/dissertation))
+
   ### 2021
   
   * **Foundations for Programming and Implementing Effect Handlers** (PhD Dissertation, The University of Edinburgh)  

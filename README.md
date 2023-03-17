@@ -327,6 +327,10 @@ in various programming languages.
 
 ### 2020
 
+* **Graded Algebraic Theories** (FoSSaCS 2020)  
+  by Satoshi Kura  
+  ([pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-45231-5_21.pdf))
+
 * **Modular verification of programs with effects and effects handlers** (FAOC 2020)  
   by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet  
   ([doi](https://dx.doi.org/10.1007/s00165-020-00523-2))

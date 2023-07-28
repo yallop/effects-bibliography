@@ -141,10 +141,14 @@ in various programming languages.
   by Conor McBride  
   ([www](https://github.com/pigworker/shonky))
 
-* **Turbolift**: algebraic effects for Scala 3
+* **Turbolift**: algebraic effects for Scala 3  
   by Marcin Żebrowski  
   ([www](https://marcinzh.github.io/turbolift/))
   ([GitHub](https://github.com/marcinzh/turbolift))
+
+* **Enterprise**: library for creating HTTP services using algebraic effects and handlers (Turbolift)  
+  by Marcin Żebrowski  
+  ([GitHub](https://github.com/marcinzh/enterprise))
 
 ## Tutorials
 

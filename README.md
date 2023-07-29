@@ -317,7 +317,7 @@ in various programming languages.
 
 * **A Separation Logic for Effect Handlers** (POPL 2021)  
   by Paulo Emílio de Vilhena and François Pottier  
-  ([pdf](http://cambium.inria.fr/~fpottier/publis/de-vilhena-pottier-sleh.pdf))
+  ([pdf](https://inria.hal.science/hal-03049514v1/document))
 
 * **Asynchronous Effects** (POPL 2021)  
   by Danel Ahman and Matija Pretnar  
@@ -337,7 +337,7 @@ in various programming languages.
 
 * **Not by equations alone: reasoning with extensible effects** (JFP 2020)  
   by Oleg Kiselyov, Shin-Cheng Mu, and Amr Sabry  
-  ([pdf](https://homepage.iis.sinica.edu.tw/papers/scm/23598-F.pdf))
+  ([pdf](https://www.okmij.org/ftp/Haskell/extensible/denot.pdf))
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
@@ -487,7 +487,7 @@ in various programming languages.
 
 * **Handling Local State with Global State** (MPC 2019)  
   by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  
-  ([pdf](https://www.iis.sinica.edu.tw/papers/scm/22560-F.pdf))
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/mpc2019.pdf))
 
 * **Bisimulations for Delimited-Control Operators** (LMCS 2019)  
   by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  
@@ -507,12 +507,10 @@ in various programming languages.
 
 * **Abstracting Algebraic Effects** (POPL 2019)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-  ([acm dl](https://dl.acm.org/citation.cfm?id=3290319)) 
   ([pdf](https://maciejpirog.github.io/papers/biernacki-al-popl19.pdf))
 
 * **Abstraction-Safe Effect Handlers via Tunneling** (POPL 2019)  
   by Yizhou Zhang and Andrew Myers  
-  ([acm dl](https://dl.acm.org/citation.cfm?doid=3302515.3290318))
   ([technical report](https://ecommons.cornell.edu/handle/1813/60202))
 
 * **Behavioural Equivalence via Modalities for Algebraic Effects** (TOPLAS 2019)  
@@ -552,11 +550,11 @@ in various programming languages.
 
 * **JEff: Objects for Effect** (Onward 2018)  
   by Pablo Inostroza and Tijs van der Storm  
-  ([acm dl](https://dl.acm.org/citation.cfm?id=3276955))
+  ([acm dl](https://homepages.cwi.nl/~storm/publications/jeff.pdf))
 
 * **Effect Handlers for the Masses** (OOPSLA 2018)  
   by Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
-  ([acm dl](https://dl.acm.org/citation.cfm?id=3276481))
+  ([acm dl](https://dl.acm.org/doi/pdf/10.1145/3276481))
 
 * **Abstract Nonsense** (FARM 2018)  
   by Junia Gonçalves  
@@ -580,8 +578,7 @@ in various programming languages.
 
 * **Versatile Event Correlation with Algebraic Effects** (ICFP 2018)  
   by Oliver Bračevac, Nada Amin, Guido Salvaneschi, Sebastian Erdweg, Patrick Eugster, and Mira Mezini  
-  ([doi](https://doi.org/10.1145/3236762))
-  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3236762))
+  ([pdf](https://programming-group.com/assets/pdf/papers/2018-Versatile-event-correlation-with-algebraic-effects.pdf))
 
 * **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)  
   by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet  
@@ -751,7 +748,6 @@ in various programming languages.
   by Sam Lindley  
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14))
   ([bibtex](http://dblp.uni-trier.de/rec/html/conf/icfp/Lindley14?view=bibtex))
-  ([doi](http://dx.doi.org/10.1145/2633628.2633636))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/aeia.pdf))
 
 * **Effect handlers in scope** (Haskell 2014)  
@@ -790,7 +786,6 @@ in various programming languages.
 
 * **The constrained-monad problem** (ICFP 2013)  
   by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill  
-  ([doi](https://doi.org/10.1145/2544174.2500602))
   ([pdf](http://neilsculthorpe.com/publications/constrained-monad-problem.pdf))
 
 * **Handlers in action** (ICFP 2013)  

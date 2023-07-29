@@ -317,7 +317,7 @@ in various programming languages.
 
 * **A Separation Logic for Effect Handlers** (POPL 2021)  
   by Paulo Emílio de Vilhena and François Pottier  
-  ([pdf](http://cambium.inria.fr/~fpottier/publis/de-vilhena-pottier-sleh.pdf))
+  ([pdf](https://inria.hal.science/hal-03049514v1/document))
 
 * **Asynchronous Effects** (POPL 2021)  
   by Danel Ahman and Matija Pretnar  
@@ -333,7 +333,7 @@ in various programming languages.
 
 * **Not by equations alone: reasoning with extensible effects** (JFP 2020)  
   by Oleg Kiselyov, Shin-Cheng Mu, and Amr Sabry  
-  ([pdf](https://homepage.iis.sinica.edu.tw/papers/scm/23598-F.pdf))
+  ([pdf](https://www.okmij.org/ftp/Haskell/extensible/denot.pdf))
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
@@ -483,7 +483,7 @@ in various programming languages.
 
 * **Handling Local State with Global State** (MPC 2019)  
   by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  
-  ([pdf](https://www.iis.sinica.edu.tw/papers/scm/22560-F.pdf))
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/mpc2019.pdf))
 
 * **Bisimulations for Delimited-Control Operators** (LMCS 2019)  
   by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  

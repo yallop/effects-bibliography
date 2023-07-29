@@ -1,9 +1,12 @@
 name: checklinks
 
 on:
-  - pull_request
-  - push
-  - workflow_dispatch
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
 
 jobs:
   build:

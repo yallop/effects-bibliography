@@ -566,7 +566,6 @@ in various programming languages.
 
 * **First Class Dynamic Effect Handlers: or, Polymorphic Heaps with Dynamic Effect Handlers** (TyDe 2018)  
   by Daan Leijen  
-  ([acm dl](https://dl.acm.org/citation.cfm?id=3241789))
 
 * **Algebraic Effect Handlers with Resources and Deep Finalization** (MSR technical report)  
   by Daan Leijen  

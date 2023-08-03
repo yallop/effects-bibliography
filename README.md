@@ -204,6 +204,9 @@ in various programming languages.
 
 ### 2022
 
+* **Modular probabilistic models via algebraic effects** (ICFP 2022)  
+  by Minh Nguyen, Roly Perera, Meng Wang, and Nicolas Wu  
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3547635))
 * **Automated Temporal Veriﬁcation for Algebraic Effects** (APLAS 2022)  
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([pdf](https://www.comp.nus.edu.sg/~yahuis/APLAS2022.pdf))

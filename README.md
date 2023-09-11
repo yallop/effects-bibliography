@@ -197,6 +197,16 @@ in various programming languages.
 
 ### 2023
 
+* **A General Fine-Grained Reduction Theory for Effect Handlers** (ICFP 2023)  
+  by Filip Sieczkowski, Mateusz Pyzik, and Dariusz Biernacki  
+  ([doi](https://doi.org/10.1145/3607848))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3607848))
+
+* **With or Without You: Programming with Effect Exclusion** (ICFP 2023)  
+  by Matthew Lutze, Magnus Madsen, Philipp Schuster, and Jonathan Immanuel Brachthäuser  
+  ([doi](https://doi.org/10.1145/3607846))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3607846))
+
 * **Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects** (POPL 2023)  
   by Casper Bach Poulsen and Cas Van Der Rest  
   ([doi](https://dl.acm.org/doi/abs/10.1145/3571255))

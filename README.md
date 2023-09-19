@@ -197,6 +197,16 @@ in various programming languages.
 
 ### 2023
 
+* **A General Fine-Grained Reduction Theory for Effect Handlers** (ICFP 2023)  
+  by Filip Sieczkowski, Mateusz Pyzik, and Dariusz Biernacki  
+  ([doi](https://doi.org/10.1145/3607848))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3607848))
+
+* **With or Without You: Programming with Effect Exclusion** (ICFP 2023)  
+  by Matthew Lutze, Magnus Madsen, Philipp Schuster, and Jonathan Immanuel Brachthäuser  
+  ([doi](https://doi.org/10.1145/3607846))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3607846))
+
 * **Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects** (POPL 2023)  
   by Casper Bach Poulsen and Cas Van Der Rest  
   ([doi](https://dl.acm.org/doi/abs/10.1145/3571255))
@@ -217,7 +227,7 @@ in various programming languages.
 
 * **First-class Names for Effect Handlers** (OOPSLA 2022)  
   by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  
-  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3563289))
+  ([pdf](https://xnning.github.io/papers/oopsla22namedh.pdf))
 
 * **High-level effect handlers in C++** (OOPSLA 2022)  
   by Dan Ghica, Sam Lindley, Marcos Maroñas Bravo, and Maciej Piróg  
@@ -277,7 +287,7 @@ in various programming languages.
 * **Generalized Evidence Passing for Effect Handlers** (ICFP 2021)  
   by Ningning Xie and Daan Leijen  
   ([doi](https://doi.org/10.1145/3473576))
-  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3473576))
+  ([pdf](https://xnning.github.io/papers/multip.pdf))
 
 * **A Functional Abstraction of Typed Invocation Contexts** (FSCD 2021)  
   by Youyou Cong, Chiaki Ishio, Kaho Honda, and Kenichi Asai  
@@ -330,7 +340,7 @@ in various programming languages.
   by Danel Ahman and Matija Pretnar  
   ([arxiv](https://arxiv.org/abs/2003.02110))
   ([doi](https://doi.org/10.1145/3434305))
-  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3434305))
+  ([pdf](https://arxiv.org/pdf/2003.02110.pdf))
 
 ### 2020
 
@@ -353,7 +363,7 @@ in various programming languages.
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
   by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf  
   ([doi](https://doi.org/10.1145/3428232))
-  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3428232))
+  ([pdf](https://bracevac.org/assets/pdf/oopsla20.pdf))
 
 * **Composing Effects into Tasks and Workflows** (Haskell 2020)  
   by Yves Parès, Jean-Philippe Bernardy, and Richard A. Eisenberg  

@@ -197,6 +197,11 @@ in various programming languages.
 
 ### 2023
 
+* **Typed equivalence of labeled effect handlers and labeled delimited control operators** (PPDP 2023)  
+  by Kazuki Ikemori, Youyou Cong, and Hidehiko Masuhara  
+  ([pdf](https://prg.is.titech.ac.jp/members/masuhara/papers/ppdp2023.pdf))
+  ([bibtex](https://dblp.org/rec/conf/ppdp/IkemoriCM23.html?view=bibtex))
+
 * **A General Fine-Grained Reduction Theory for Effect Handlers** (ICFP 2023)  
   by Filip Sieczkowski, Mateusz Pyzik, and Dariusz Biernacki  
   ([doi](https://doi.org/10.1145/3607848))

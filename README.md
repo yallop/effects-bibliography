@@ -20,7 +20,7 @@ in various programming languages.
 * **Coop**: A prototype programming language for programming with runners  
   by Andrej Bauer and Danel Ahman  
   ([www](https://github.com/andrejbauer/coop))
-  
+
 * **Desk**: A statically-typed functional language with an effect system based on set-operation  
   by Ryo Hirayama from Hihaheho Studio  
   ([GitHub](https://github.com/Hihaheho/Desk)) ([an effects tutorial article](https://github.com/Hihaheho/Desk/blob/main/docs/blog/0002-algebraic-effects.md))
@@ -87,6 +87,7 @@ in various programming languages.
 * **Multicore OCaml**: a multicore + effect handlers extension for OCaml  
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White, and Jeremy Yallop  
   ([www](https://github.com/ocaml-multicore/ocaml-multicore/wiki))
+  (now incorporated into [OCaml 5+](https://github.com/ocaml/ocaml))
 
 * **Polysemy**: a Haskell library for effects  
   by Sandy Maguire  

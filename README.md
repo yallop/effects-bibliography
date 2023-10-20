@@ -82,7 +82,8 @@ in various programming languages.
 
 * **Links effect handlers**: an effect handlers extension for the Links web programming language  
   by Daniel Hillerström and Sam Lindley  
-  ([www](https://github.com/links-lang/links))
+  ([www](https://links-lang.org))
+  ([GitHub](https://github.com/links-lang/links))
 
 * **Multicore OCaml**: a multicore + effect handlers extension for OCaml  
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White, and Jeremy Yallop  

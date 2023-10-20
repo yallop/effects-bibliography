@@ -106,6 +106,11 @@ in various programming languages.
   ([www](https://www.unisonweb.org/docs/language-reference#abilities-and-ability-handlers))
   ([GitHub](https://github.com/unisonweb/unison))
 
+* **WasmFXtime**: A fork of Wasmtime extended with support for effect handlers  
+  by Luna Phipps-Costin, Frank Emrich, and  Daniel Hillerström  
+  ([www](https://wasmfx.dev))
+  ([GitHub](https://github.com/wasmfx/wasmfxtime))
+
 * **Wasm/k**: WebAssembly, extended with support for first-class continuations  
   by Donald Pinckney  
   ([www](https://wasmk.github.io/))
@@ -120,11 +125,11 @@ in various programming languages.
   by Eric Torreborre  
   ([www](http://atnos-org.github.io/eff/))
   ([GitHub](http://github.com/atnos-org/eff))
-  
+
 * **cpp-effects**: effect handlers in C++  
   by Maciej Piróg  
   ([GitHub](https://github.com/maciejpirog/cpp-effects))
-  
+
 * **libhandler**: an implementation of algebraic effects and handlers in portable C99  
   by Daan Leijen  
   ([www](https://github.com/koka-lang/libhandler))
@@ -132,7 +137,7 @@ in various programming languages.
 * **libmprompt**: robust multi-prompt delimited control and effect handlers in C/C++  
   by Daan Leijen  
   ([www](https://github.com/koka-lang/libmprompt))
-  
+
 * **multicont**: continuations with multi-shot semantics in OCaml  
   by Daniel Hillerström  
   ([www](https://github.com/dhil/ocaml-multicont))
@@ -153,6 +158,11 @@ in various programming languages.
 ## Tutorials
 
 ### 2022
+
+* **Effect-Handler Oriented Programming** (lecture given at [SPLV](https://www.macs.hw.ac.uk/splv/splv-2022/))  
+  by Sam Lindley  
+  ([YouTube](https://www.youtube.com/watch?v=G8XMRZKOhG0))
+  ([slides](https://www.macs.hw.ac.uk/splv/wp-content/uploads/2022/07/ehop.pdf))
 
 * **Effect handler oriented programming** (lecture series given at [OPLSS](https://www.cs.uoregon.edu/research/summerschool/summer22/topics.php#Lindley))  
   by Sam Lindley  
@@ -196,6 +206,11 @@ in various programming languages.
 ## Papers
 
 ### 2023
+
+* **Continuing WebAssembly with Effect Handlers** (OOPSLA 2023)  
+  by Luna Phipps-Costin, Andreas Rossberg, Arjun Guha, Daan Leijen, Daniel Hillerström, KC Sivaramakrishnan, Matija Pretnar, and Sam Lindley  
+  ([doi](https://doi.org/10.1145/3622814))
+  ([arxiv](https://doi.org/10.48550/arXiv.2308.08347))
 
 * **Typed equivalence of labeled effect handlers and labeled delimited control operators** (PPDP 2023)  
   by Kazuki Ikemori, Youyou Cong, and Hidehiko Masuhara  

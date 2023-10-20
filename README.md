@@ -19,7 +19,7 @@ in various programming languages.
 
 * **Coop**: A prototype programming language for programming with runners  
   by Andrej Bauer and Danel Ahman  
-  ([www](https://github.com/andrejbauer/coop))
+  ([GitHub](https://github.com/andrejbauer/coop))
 
 * **Desk**: A statically-typed functional language with an effect system based on set-operation  
   by Ryo Hirayama from Hihaheho Studio  
@@ -31,11 +31,11 @@ in various programming languages.
 
 * **Eff in F#**: A library for programming with algebraic effects in F#  
   by Nick Palladinos  
-  ([www](https://github.com/palladin/Eff))
+  ([GitHub](https://github.com/palladin/Eff))
 
 * **Effects.js**: algebraic effects for Javascript based on Koka and Eff  
   by Jason Butler  
-  ([www](https://github.com/nythrox/effects.js))
+  ([GitHub](https://github.com/nythrox/effects.js))
 
 * **Effekt Language**: A research language with effect handlers and lightweight effect polymorphism  
   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
@@ -43,7 +43,7 @@ in various programming languages.
 
 * **EvEff**: A Haskell library for programming with evidence-translated effect handlers  
   by Daan Leijen and Ningning Xie  
-  ([www](https://github.com/xnning/EvEff))
+  ([GitHub](https://github.com/xnning/EvEff))
 
 * **Extensible effects**: a Haskell library for effects  
   by Oleg Kiselyov  
@@ -56,20 +56,20 @@ in various programming languages.
 
 * **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  
   by Sam Lindley, Conor McBride, and Craig McLaughlin  
-  ([www](https://github.com/frank-lang/frank))
+  ([GitHub](https://github.com/frank-lang/frank))
 
 * **Freak**: a programming language with coalgebraic effects and cohandlers  
   by Mateusz Urbańczyk  
-  ([www](https://github.com/Tomatosoup97/freak))
+  ([GitHub](https://github.com/Tomatosoup97/freak))
 
 * **Fused effects**: a Haskell library for effects  
   by Rob Rix  
   ([hackage](https://hackage.haskell.org/package/fused-effects))
-  ([www](https://github.com/robrix/fused-effects))
+  ([GitHub](https://github.com/robrix/fused-effects))
 
 * **Helium**: a functional programming language with effect handlers and an ML-like module system  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
-  ([www](https://bitbucket.org/pl-uwr/helium))
+  ([BitBucket](https://bitbucket.org/pl-uwr/helium))
 
 * **Idris Effects**: library for algebraic effects and handlers in Idris - inspired by Eff language  
   by Edwin Brady  
@@ -78,7 +78,7 @@ in various programming languages.
 
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  
-  ([www](https://github.com/koka-lang/koka))
+  ([GitHub](https://github.com/koka-lang/koka))
 
 * **Links effect handlers**: an effect handlers extension for the Links web programming language  
   by Daniel Hillerström and Sam Lindley  
@@ -87,13 +87,13 @@ in various programming languages.
 
 * **Multicore OCaml**: a multicore + effect handlers extension for OCaml  
   by Stephen Dolan, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White, and Jeremy Yallop  
-  ([www](https://github.com/ocaml-multicore/ocaml-multicore/wiki))
+  ([GitHub](https://github.com/ocaml-multicore/ocaml-multicore/wiki))
   (now incorporated into [OCaml 5+](https://github.com/ocaml/ocaml))
 
 * **Polysemy**: a Haskell library for effects  
   by Sandy Maguire  
   ([hackage](http://hackage.haskell.org/package/polysemy))
-  ([www](https://github.com/polysemy-research/polysemy))
+  ([GitHub](https://github.com/polysemy-research/polysemy))
 
 * **Pyro**: a deep universal probabilistic programming language  
   by Uber AI Labs  
@@ -101,7 +101,7 @@ in various programming languages.
 
 * **Scala Effekt**: extensible algebraic effects with handlers in Scala  
   by Jonathan Brachthäuser  
-  ([www](https://github.com/b-studios/scala-effekt))
+  ([GitHub](https://github.com/b-studios/scala-effekt))
 
 * **Unison**: a programming language with effects called abilities, inspired by Frank  
   by Unison Computing  
@@ -134,19 +134,19 @@ in various programming languages.
 
 * **libhandler**: an implementation of algebraic effects and handlers in portable C99  
   by Daan Leijen  
-  ([www](https://github.com/koka-lang/libhandler))
+  ([GitHub](https://github.com/koka-lang/libhandler))
 
 * **libmprompt**: robust multi-prompt delimited control and effect handlers in C/C++  
   by Daan Leijen  
-  ([www](https://github.com/koka-lang/libmprompt))
+  ([GitHub](https://github.com/koka-lang/libmprompt))
 
 * **multicont**: continuations with multi-shot semantics in OCaml  
   by Daniel Hillerström  
-  ([www](https://github.com/dhil/ocaml-multicont))
+  ([GitHub](https://github.com/dhil/ocaml-multicont))
 
 * **shonky**: a dynamically typed variant of Frank with C-like syntax  
   by Conor McBride  
-  ([www](https://github.com/pigworker/shonky))
+  ([GitHub](https://github.com/pigworker/shonky))
 
 * **Turbolift**: algebraic effects for Scala 3  
   by Marcin Żebrowski  

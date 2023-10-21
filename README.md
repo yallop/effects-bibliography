@@ -589,11 +589,11 @@ in various programming languages.
 
 * **JEff: Objects for Effect** (Onward 2018)  
   by Pablo Inostroza and Tijs van der Storm  
-  ([acm dl](https://homepages.cwi.nl/~storm/publications/jeff.pdf))
+  ([pdf](https://homepages.cwi.nl/~storm/publications/jeff.pdf))
 
 * **Effect Handlers for the Masses** (OOPSLA 2018)  
   by Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
-  ([acm dl](https://dl.acm.org/doi/pdf/10.1145/3276481))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3276481))
 
 * **Abstract Nonsense** (FARM 2018)  
   by Junia Gonçalves  
@@ -605,6 +605,7 @@ in various programming languages.
 
 * **First Class Dynamic Effect Handlers: or, Polymorphic Heaps with Dynamic Effect Handlers** (TyDe 2018)  
   by Daan Leijen  
+  ([doi](https://doi.org/10.1145/3240719.3241789))
 
 * **Algebraic Effect Handlers with Resources and Deep Finalization** (MSR technical report)  
   by Daan Leijen  

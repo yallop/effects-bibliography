@@ -597,7 +597,7 @@ in various programming languages.
 
 * **Abstract Nonsense** (FARM 2018)  
   by Junia Gonçalves  
-  ([acm dl](https://dl.acm.org/citation.cfm?id=3242908))
+  ([doi](https://doi.org/10.1145/3242903.3242908))
 
 * **Syntax and Semantics for Operations with Scopes**  (LICS 2018)  
   by Maciej Piróg, Tom Schrijvers, Nicolas Wu, and Mauro Jaskelioff  

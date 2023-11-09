@@ -209,6 +209,12 @@ in various programming languages.
 
 ### 2023
 
+
+* **From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers** (OOPSLA 2023)  
+  by Marius Müller, Philipp Schuster, Jonathan Lindegaard Starup, Klaus Ostermann, and Jonathan Immanuel Brachthäuser  
+  ([doi](https://doi.org/10.1145/3622831))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3622831))
+
 * **Continuing WebAssembly with Effect Handlers** (OOPSLA 2023)  
   by Luna Phipps-Costin, Andreas Rossberg, Arjun Guha, Daan Leijen, Daniel Hillerström, KC Sivaramakrishnan, Matija Pretnar, and Sam Lindley  
   ([doi](https://doi.org/10.1145/3622814))

@@ -1,25 +1,24 @@
-name: checklinks
+name: Links (Fail Fast)
 
 on:
   push:
-    branches:
-      - master
   pull_request:
-    branches:
-      - master
 
 jobs:
-  build:
+  linkChecker:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@v3
+
+      - name: Restore lychee cache
+        uses: actions/cache@v3
         with:
-          python-version: '3.8'
-      - name: install URL-checking script
-        run: |
-          pip install requests markdown beautifulsoup4
-          wget https://raw.githubusercontent.com/yallop/check-markdown-urls/master/src/check_markdown_urls.py
-      - name: check the URLs
-        run: python check_markdown_urls.py README.md
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Run lychee
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          fail: true
+          args: "--cache --max-redirects 10 --max-cache-age 1d ."

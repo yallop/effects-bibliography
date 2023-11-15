@@ -1068,7 +1068,7 @@ in various programming languages.
 
   * **Elaine: Elaboration of Higher-Order Effects as First-Class Language Feature** (MSc Dissertation, TU Delft)  
     by Terts Diepraam  
-    ([pdf](https://repository.tudelft.nl/islandora/object/uuid:f6c38be6-853f-499b-aa4e-cfa2ce219bf5/datastream/OBJ/download)
+    ([pdf](https://repository.tudelft.nl/islandora/object/uuid:f6c38be6-853f-499b-aa4e-cfa2ce219bf5/datastream/OBJ/download))
 
   * **Deriving Effect Handler Semantics** (MSc Dissertation, TU Delft)  
     by Chris Lemaire  

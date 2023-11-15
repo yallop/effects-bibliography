@@ -1064,44 +1064,70 @@ in various programming languages.
 
 ## Theses and Dissertations
 
+  ### 2023
+
+  * **Elaine: Elaboration of Higher-Order Effects as First-Class Language Feature** (MSc Dissertation, TU Delft)  
+    by Terts Diepraam  
+    ([pdf](https://repository.tudelft.nl/islandora/object/uuid:f6c38be6-853f-499b-aa4e-cfa2ce219bf5/datastream/OBJ/download)
+
+  * **Deriving Effect Handler Semantics** (MSc Dissertation, TU Delft)  
+    by Chris Lemaire  
+    ([pdf](https://repository.tudelft.nl/islandora/object/uuid:414215b8-837d-46d5-952e-bdc5b47e47cc/datastream/OBJ/download))
+
+  * **Concurrent Structures and Effect Handlers: A Batch Made in Heaven** (BSc Dissertation, Yale NUS College)  
+    by Lee Koon Wen  
+    ([pdf](https://ilyasergey.net/assets/pdf/papers/Koon-Wen-Lee-Capstone.pdf))
+
   ### 2022
 
+  * **Algebraic Effect Instance Scopes** (BSc Dissertation, University of Wroclaw)  
+    by Patrycja Balik  
+    ([pdf](https://ii.uni.wroc.pl/media/uploads/2022/11/18/balik-patrycja-praca.pdf))
+
   * **Comprehending Pure Functional Effect Systems** (MSc Dissertation, University of Oxford)  
-  by Daniel Tattan-Birch  
-  ([pdf](https://www.dantb.dev/files/dissertation.pdf))
-  ([Summary post](https://www.dantb.dev/posts/dissertation))
+    by Daniel Tattan-Birch  
+    ([pdf](https://www.dantb.dev/files/dissertation.pdf))
+    ([Summary post](https://www.dantb.dev/posts/dissertation))
 
   ### 2021
-  
+
   * **Foundations for Programming and Implementing Effect Handlers** (PhD Dissertation, The University of Edinburgh)  
-  by Daniel Hillerström  
-  ([pdf](https://dhil.net/research/papers/thesis.pdf))
-  ([GitHub](https://github.com/dhil/phd-dissertation))
+    by Daniel Hillerström  
+    ([pdf](https://dhil.net/research/papers/thesis.pdf))
+    ([GitHub](https://github.com/dhil/phd-dissertation))
 
   * **Extending Effekt with Bidirectional Effects** (MSc Dissertation, Tokyo Institute of Technology)  
-  by Kazuki Niimi  
-  ([pdf](https://prg.is.titech.ac.jp/wp-content/uploads/2021/04/2021-03M-niimi.pdf))
+    by Kazuki Niimi  
+    ([pdf](https://prg.is.titech.ac.jp/wp-content/uploads/2021/04/2021-03M-niimi.pdf))
 
   ### 2020
 
+  * **Linear Frank** (BSc Dissertation, The University of New South Wales)  
+    by James Treloar  
+    ([pdf](https://people.eng.unimelb.edu.au/rizkallahc/theses/james-treloar-honours-thesis.pdf))
+
   * **Applications of Algebraic Effect Theories** (PhD Dissertation, University of Ljubljana)  
-  by Žiga Lukšič  
-  ([pdf](https://repozitorij.uni-lj.si/Dokument.php?id=137124&lang=eng))
+    by Žiga Lukšič  
+    ([pdf](https://repozitorij.uni-lj.si/Dokument.php?id=137124&lang=eng))
 
   * **Asynchronous Effect Handling** (MSc Dissertation, The University of Edinburgh)  
-  by Leo Poulson  
-  ([pdf](https://raw.githubusercontent.com/leopoulson/thesis/master/thesis.pdf))
+    by Leo Poulson  
+    ([pdf](https://raw.githubusercontent.com/leopoulson/thesis/master/thesis.pdf))
 
   * **Relational Reasoning for Effects and Handlers** (PhD Dissertation, The University of Edinburgh)  
-  by Craig McLaughlin  
-  ([doi](http://dx.doi.org/10.7488/era/537))
-  ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
+    by Craig McLaughlin  
+    ([doi](http://dx.doi.org/10.7488/era/537))
+    ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
 
   * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
     by Jonathan Immanuel Brachthäuser  
     ([dblp](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html))
 
   ### 2019
+
+  * **A Type System for Dynamic Instances** (MSc Dissertation, TU Delft)  
+    by Albert ten Napel  
+    ([pdf](https://repository.tudelft.nl/islandora/object/uuid:36d382d8-3ba4-4825-b718-a080b01b0649/datastream/OBJ/download))
 
   * **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  
     by Amr Hany Saleh  
@@ -1110,13 +1136,19 @@ in various programming languages.
   * **Program Equivalence for Algebraic Effects via Modalities** (MSc Dissertation, University of Oxford)  
     by Cristina Matache  
     ([pdf](https://homepages.inf.ed.ac.uk/cmatache/documents/m_diss.pdf))
- 
+
   * **Defined Algebraic Operations** (PhD Dissertation, University of Birmingham)  
     by Bram Geron  
     ([pdf](https://bram.xyz/thesis.pdf))
 
+  ### 2018
+
+  * **Algebraic Subtyping for Algebraic Effects and Handlers** (MSc Dissertation, KU Leuven)  
+    by Alex Faes  
+    ([pdf](https://github.com/TheAxeC/algebraic-subtyping-for-algebraic-effects-and-handlers/blob/master/thesis.pdf))
+
   ### 2017
-  
+
   * **Distributive Interaction of Algebraic Effects** (PhD Dissertation, University of Oxford)  
     by Kwok-Ho Cheung  
     ([pdf](https://ora.ox.ac.uk/objects/uuid:66106628-0a71-4564-bc34-c398db766818/download_file?file_format=pdf&safe_filename=report.pdf&type_of_work=Thesis))

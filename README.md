@@ -249,9 +249,14 @@ in various programming languages.
 * **Modular probabilistic models via algebraic effects** (ICFP 2022)  
   by Minh Nguyen, Roly Perera, Meng Wang, and Nicolas Wu  
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3547635))
+  
 * **Automated Temporal Veriﬁcation for Algebraic Effects** (APLAS 2022)  
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([pdf](https://www.comp.nus.edu.sg/~yahuis/APLAS2022.pdf))
+
+* **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)
+  by Yotam Dvir, Ohad Kammar, and Ori Lahav
+  ([pdf](https://yotamdvir.github.io/publications/an-algebraic-theory-for-shared-state-concurrency/paper.pdf))
 
 * **First-class Names for Effect Handlers** (OOPSLA 2022)  
   by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  

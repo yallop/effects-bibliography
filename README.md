@@ -222,7 +222,7 @@ in various programming languages.
 
 * **Typed equivalence of labeled effect handlers and labeled delimited control operators** (PPDP 2023)  
   by Kazuki Ikemori, Youyou Cong, and Hidehiko Masuhara  
-  ([pdf](https://prg.is.titech.ac.jp/members/masuhara/papers/ppdp2023.pdf))
+  ([pdf](https://prg.is.titech.ac.jp/papers/pdf/ppdp2023.pdf))
   ([bibtex](https://dblp.org/rec/conf/ppdp/IkemoriCM23.html?view=bibtex))
 
 * **A General Fine-Grained Reduction Theory for Effect Handlers** (ICFP 2023)  
@@ -329,7 +329,7 @@ in various programming languages.
 
 * **Contextual Effect Polymorphism Meets Bidirectional Effects (Extended Abstract)** (TyDe 2021)  
   by Kazuki Niimi, Youyou Cong, and Jonathan Immanuel Brachthäuser  
-  ([pdf](https://prg.is.titech.ac.jp/members/masuhara/papers/tyde2021.pdf))
+  ([pdf](https://prg.is.titech.ac.jp/papers/pdf/tyde2021.pdf))
 
 * **Formalising Algebraic Effects with Non-Recoverable Failure** (HOPE 2021)  
   by Timotej Tomandl and Dominic Orchard  

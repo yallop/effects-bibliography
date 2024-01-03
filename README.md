@@ -254,8 +254,8 @@ in various programming languages.
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([pdf](https://www.comp.nus.edu.sg/~yahuis/APLAS2022.pdf))
 
-* **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)
-  by Yotam Dvir, Ohad Kammar, and Ori Lahav
+* **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)  
+  by Yotam Dvir, Ohad Kammar, and Ori Lahav  
   ([pdf](https://yotamdvir.github.io/publications/an-algebraic-theory-for-shared-state-concurrency/paper.pdf))
 
 * **First-class Names for Effect Handlers** (OOPSLA 2022)  

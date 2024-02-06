@@ -556,7 +556,7 @@ in various programming languages.
 
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
-  ([pdf](https://staff.aist.go.jp/reynald.affeldt/documents/monae.pdf)) ([GitHub](https://github.com/affeldt-aist/monae))
+  ([pdf](https://hal.science/hal-02359796v1/preview/monae.pdf)) ([GitHub](https://github.com/affeldt-aist/monae))
 
 * **Handling Local State with Global State** (MPC 2019)  
   by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  

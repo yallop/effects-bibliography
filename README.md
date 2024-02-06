@@ -207,6 +207,29 @@ in various programming languages.
 
 ## Papers
 
+### 2024
+
+* **Soundly Handling Linearity** (POPL 2024)  
+  by Wenhao Tang, Daniel Hillerström, Sam Lindley, and J. Garrett Morris  
+  ([doi](https://doi.org/10.1145/3632896))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632896))
+
+* **On Model-Checking Higher-Order Effectful Programs** (POPL 2024)  
+  by Ugo Dal Lago and Alexis Ghyselen  
+  ([doi](https://doi.org/10.1145/3632929))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632929))
+  ([pdf (extended version)](https://arxiv.org/abs/2308.16542))
+
+* **Effectful Software Contracts** (POPL 2024)  
+  by Cameron Moy, Christos Dimoulas, and Matthias Felleisen  
+  ([doi](https://doi.org/10.1145/3632930))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632930))
+
+* **An Intrinsically Typed Compiler for Algebraic Effect Handlers** (PEPM 2024)  
+  by Syouki Tsuyama, Youyou Cong, and Hidehiko Masuhara  
+  ([doi](https://doi.org/10.1145/3635800.3636968))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3635800.3636968))
+
 ### 2023
 
 
@@ -249,14 +272,14 @@ in various programming languages.
 * **Modular probabilistic models via algebraic effects** (ICFP 2022)  
   by Minh Nguyen, Roly Perera, Meng Wang, and Nicolas Wu  
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3547635))
-  
+
 * **Automated Temporal Veriﬁcation for Algebraic Effects** (APLAS 2022)  
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([pdf](https://www.comp.nus.edu.sg/~yahuis/APLAS2022.pdf))
 
 * **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)  
   by Yotam Dvir, Ohad Kammar, and Ori Lahav  
-  ([pdf](https://yotamdvir.github.io/publications/an-algebraic-theory-for-shared-state-concurrency/paper.pdf))
+  ([pdf](https://www.cs.tau.ac.il/~orilahav/papers/aplas22full.pdf))
 
 * **First-class Names for Effect Handlers** (OOPSLA 2022)  
   by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  
@@ -533,7 +556,7 @@ in various programming languages.
 
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
-  ([pdf](https://staff.aist.go.jp/reynald.affeldt/documents/monae.pdf)) ([GitHub](https://github.com/affeldt-aist/monae))
+  ([pdf](https://hal.science/hal-02359796v1/preview/monae.pdf)) ([GitHub](https://github.com/affeldt-aist/monae))
 
 * **Handling Local State with Global State** (MPC 2019)  
   by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  
@@ -997,7 +1020,7 @@ in various programming languages.
 
 * **Extensible Denotational Language Specifications** (TACS 1994)  
   by Robert Cartwright and Matthias Felleisen  
-  ([ps.gz](http://www.ccis.neu.edu/racket/pubs/tacs94-cf.ps.gz))
+  ([ps.gz](http://www.cs.rice.edu/CS/PLT/Publications/Scheme/tacs94-cf.ps.gz))
 
 * **Building interpreters by transforming stratified monads** (Unpublished, 1994)  
   by David Espinosa  

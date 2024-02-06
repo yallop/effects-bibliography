@@ -1020,7 +1020,7 @@ in various programming languages.
 
 * **Extensible Denotational Language Specifications** (TACS 1994)  
   by Robert Cartwright and Matthias Felleisen  
-  ([ps.gz](http://www.ccis.neu.edu/racket/pubs/tacs94-cf.ps.gz))
+  ([ps.gz](http://www.cs.rice.edu/CS/PLT/Publications/Scheme/tacs94-cf.ps.gz))
 
 * **Building interpreters by transforming stratified monads** (Unpublished, 1994)  
   by David Espinosa  

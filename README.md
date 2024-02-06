@@ -279,7 +279,7 @@ in various programming languages.
 
 * **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)  
   by Yotam Dvir, Ohad Kammar, and Ori Lahav  
-  ([pdf](https://yotamdvir.github.io/publications/an-algebraic-theory-for-shared-state-concurrency/paper.pdf))
+  ([pdf](https://www.cs.tau.ac.il/~orilahav/papers/aplas22full.pdf))
 
 * **First-class Names for Effect Handlers** (OOPSLA 2022)  
   by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  

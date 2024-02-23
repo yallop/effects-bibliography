@@ -269,6 +269,10 @@ in various programming languages.
 
 ### 2022
 
+*  **Category-Graded Algebraic Theories and Effect Handlers** (MFPS 2022)  
+   by Takahiro Sanada  
+  ([pdf](https://www.kurims.kyoto-u.ac.jp/~tsanada/papers/mfps2022-cat-graded-preproceedings-extended.pdf))
+
 * **Modular probabilistic models via algebraic effects** (ICFP 2022)  
   by Minh Nguyen, Roly Perera, Meng Wang, and Nicolas Wu  
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3547635))
@@ -1091,6 +1095,12 @@ in various programming languages.
 
 
 ## Theses and Dissertations
+
+  ### 2024
+
+  * **Algebraic Effects and Handlers for Arrows** (PhD Dissertation, Kyoto University)  
+    by Takahiro Sanada  
+    ([pdf](https://www.kurims.kyoto-u.ac.jp/~tsanada/papers/phdthesis.pdf))
 
   ### 2023
 

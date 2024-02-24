@@ -514,15 +514,15 @@ in various programming languages.
 
 * **Combining predicate transformer semantics for effects: a case study in parsing regular languages** (MSFP 2020)  
   by Anne Baanen and Wouter Swierstra  
-  ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:3))  
+  ([pdf](https://arxiv.org/pdf/2005.00197v1.pdf))  
 
 * **From Equations to Distinctions: Two Interpretations of Effectful Computations** (MSFP 2020)  
   by Niels Voorneveld  
-  ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:4))  
+  ([pdf](https://arxiv.org/pdf/2005.00196.pdf))  
   
 * **Unifying graded and parameterised monads** (MSFP 2020)  
   by Dominic Orchard, Philip Wadler and Harley Eades III  
-  ([pdf](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?MSFP2020:7))  
+  ([pdf](https://arxiv.org/pdf/2001.10274.pdf))  
 
 * **Local Algebraic Effect Theories** (JFP 2020)  
   by Žiga Lukšič and Matija Pretnar  

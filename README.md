@@ -209,6 +209,11 @@ in various programming languages.
 
 ### 2024
 
+* **Active Objects Based on Algebraic Effects** (Active Object Languages: Current Research Trends)  
+  by Martin Andrieux, Ludovic Henrio, and Gabriel Radanne  
+  ([doi](https://doi.org/10.1007/978-3-031-51060-1_1))
+  ([pdf](https://hal.science/hal-04388798/document))
+
 * **Soundly Handling Linearity** (POPL 2024)  
   by Wenhao Tang, Daniel Hillerström, Sam Lindley, and J. Garrett Morris  
   ([doi](https://doi.org/10.1145/3632896))

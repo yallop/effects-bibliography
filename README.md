@@ -140,6 +140,10 @@ in various programming languages.
   by Daan Leijen  
   ([GitHub](https://github.com/koka-lang/libmprompt))
 
+* **effects**: An experimental C++ runtime effect system
+  by Michael Truog  
+  ([GitHub](https://github.com/okeuday/effects))
+
 * **multicont**: continuations with multi-shot semantics in OCaml  
   by Daniel Hillerström  
   ([GitHub](https://github.com/dhil/ocaml-multicont))

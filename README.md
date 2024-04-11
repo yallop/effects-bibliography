@@ -211,8 +211,8 @@ in various programming languages.
 
 * **Asymptotic speedup via effect handlers** (JFP 2024)  
   by Daniel Hillerström, Sam Lindley, and John Longley  
-  ([doi])(https://doi.org/10.1017/S0956796824000030)
-  ([pdf])(https://www.cambridge.org/core/services/aop-cambridge-core/content/view/296879DE2FD96FB6CF388F27978C76E4/S0956796824000030a.pdf/asymptotic-speedup-via-effect-handlers.pdf)
+  ([doi](https://doi.org/10.1017/S0956796824000030))
+  ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/296879DE2FD96FB6CF388F27978C76E4/S0956796824000030a.pdf/asymptotic-speedup-via-effect-handlers.pdf))
 
 * **Active Objects Based on Algebraic Effects** (Active Object Languages: Current Research Trends)  
   by Martin Andrieux, Ludovic Henrio, and Gabriel Radanne  

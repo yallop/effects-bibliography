@@ -209,6 +209,11 @@ in various programming languages.
 
 ### 2024
 
+* **Asymptotic speedup via effect handlers** (JFP 2024)  
+  by Daniel Hillerström, Sam Lindley, and John Longley  
+  ([doi](https://doi.org/10.1017/S0956796824000030))
+  ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/296879DE2FD96FB6CF388F27978C76E4/S0956796824000030a.pdf/asymptotic-speedup-via-effect-handlers.pdf))
+
 * **Active Objects Based on Algebraic Effects** (Active Object Languages: Current Research Trends)  
   by Martin Andrieux, Ludovic Henrio, and Gabriel Radanne  
   ([doi](https://doi.org/10.1007/978-3-031-51060-1_1))
@@ -628,7 +633,7 @@ in various programming languages.
 
 * **Functional Programming for Modular Bayesian Inference** (ICFP 2018)  
   by Adam Ścibior, Ohad Kammar, and Zoubin Ghahramani  
-  ([pdf](https://core.ac.uk/download/pdf/189162890.pdf))
+  ([pdf](https://api.repository.cam.ac.uk/server/api/core/bitstreams/36a3c9ad-9633-4e69-a96f-fd76d1d49ccd/content))
 
 * **JEff: Objects for Effect** (Onward 2018)  
   by Pablo Inostroza and Tijs van der Storm  

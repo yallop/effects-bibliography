@@ -942,7 +942,7 @@ in various programming languages.
   ([pdf](https://danel.ahman.ee/papers/mfps13.pdf))
 
 * **The Sequential Semantics of Producer Effect Systems** (POPL 2013)  
-  by Ross Tate
+  by Ross Tate  
   ([doi](https://doi.org/10.1145/2429069.2429074))
 
 

@@ -899,8 +899,8 @@ in various programming languages.
   ([bibtex](http://dblp.uni-trier.de/rec/html/journals/corr/BauerP13?view=bibtex))
   ([doi](http://dx.doi.org/10.2168/LMCS-10%284:9%292014))
 
-* **Parametric Effect Monads and Semantics of Effect Systems** (POPL 2014)
-  by Shin-ya Katsumata
+* **Parametric Effect Monads and Semantics of Effect Systems** (POPL 2014)  
+  by Shin-ya Katsumata  
   ([doi](https://doi.org/10.1145/2535838.2535846))
 
 

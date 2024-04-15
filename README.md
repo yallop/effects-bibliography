@@ -263,7 +263,7 @@ in various programming languages.
   ([bibtex](https://dblp.org/rec/conf/ppdp/IkemoriCM23.html?view=bibtex))
 
 * **Error Localization for Sequential Effect Systems** (SAS 2023)  
-  by Colin S. Gordon, Chaewon Yun
+  by Colin S. Gordon, Chaewon Yun  
   ([doi](https://doi.org/10.1007/978-3-031-44245-2_16))
 
 * **A General Fine-Grained Reduction Theory for Effect Handlers** (ICFP 2023)  
@@ -403,7 +403,7 @@ in various programming languages.
   ([pdf](https://arxiv.org/pdf/2104.00250.pdf))
 
 * **Polymorphic Iterable Sequential Effect Systems** (TOPLAS 2021)  
-  by Colin S. Gordon
+  by Colin S. Gordon  
   ([doi](https://doi.org/10.1145/3450272))
   ([arxiv](https://arxiv.org/abs/1808.02010))
 
@@ -458,12 +458,12 @@ in various programming languages.
   ([pdf](https://www.cs.cornell.edu/andru/papers/ufo/bidirectional-effects.pdf))
 
 * **Designing with Static Capabilities and Effects: Use, Mention, and Invariants** (ECOOP 2020)  
-  by Colin S. Gordon
+  by Colin S. Gordon  
   ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2020.10))
   ([pdf](https://drops.dagstuhl.de/storage/00lipics/lipics-vol166-ecoop2020/LIPIcs.ECOOP.2020.10/LIPIcs.ECOOP.2020.10.pdf))
 
 * **Lifting Sequential Effects to Control Operators** (ECOOP 2020)  
-  by Colin S. Gordon
+  by Colin S. Gordon  
   ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2020.23))
   ([pdf](https://drops.dagstuhl.de/storage/00lipics/lipics-vol166-ecoop2020/LIPIcs.ECOOP.2020.23/LIPIcs.ECOOP.2020.23.pdf))
 
@@ -750,7 +750,7 @@ in various programming languages.
   ([arxiv](https://arxiv.org/pdf/1610.09161))
 
 * **A Generic Approach to Flow-Sensitive Polymorphic Effects** (ECOOP 2017)  
-  by Colin S. Gordon
+  by Colin S. Gordon  
   ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2017.13))
   ([pdf](https://drops.dagstuhl.de/storage/00lipics/lipics-vol074-ecoop2017/LIPIcs.ECOOP.2017.13/LIPIcs.ECOOP.2017.13.pdf))
 

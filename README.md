@@ -1019,8 +1019,8 @@ in various programming languages.
   by Wouter Swierstra  
   ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/14416CB20C4637164EA9F77097909409/S0956796808006758a.pdf))
 
-* **Types and trace effects of higher-order programs** (JFP 2008)
-  by Christian Skalka, Scott Smith, and David van Horn
+* **Types and trace effects of higher-order programs** (JFP 2008)  
+  by Christian Skalka, Scott Smith, and David van Horn  
   ([doi](https://doi.org/10.1017/S0956796807006466))
 
 ### 2007

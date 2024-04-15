@@ -899,6 +899,9 @@ in various programming languages.
   ([bibtex](http://dblp.uni-trier.de/rec/html/journals/corr/BauerP13?view=bibtex))
   ([doi](http://dx.doi.org/10.2168/LMCS-10%284:9%292014))
 
+* **Parametric Effect Monads and Semantics of Effect Systems** (POPL 2014)
+  by Shin-ya Katsumata
+  ([doi](https://doi.org/10.1145/2535838.2535846))
 
 
 ### 2013
@@ -937,6 +940,10 @@ in various programming languages.
   by Danel Ahman and Sam Staton  
   ([doi](https://doi.org/10.1016/j.entcs.2013.09.007))
   ([pdf](https://danel.ahman.ee/papers/mfps13.pdf))
+
+* **The Sequential Semantics of Producer Effect Systems** (POPL 2013)  
+  by Ross Tate
+  ([doi](https://doi.org/10.1145/2429069.2429074))
 
 
 ### 2012
@@ -1011,6 +1018,10 @@ in various programming languages.
 * **Data types a la carte** (JFP 2008)  
   by Wouter Swierstra  
   ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/14416CB20C4637164EA9F77097909409/S0956796808006758a.pdf))
+
+* **Types and trace effects of higher-order programs** (JFP 2008)
+  by Christian Skalka, Scott Smith, and David van Horn
+  ([doi](https://doi.org/10.1017/S0956796807006466))
 
 ### 2007
 

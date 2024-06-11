@@ -678,9 +678,9 @@ in various programming languages.
   by Daan Leijen  
   ([doi](https://doi.org/10.1145/3240719.3241789))
 
-* **Algebraic Effect Handlers with Resources and Deep Finalization** (MSR technical report)  
+* **Algebraic Effect Handlers with Resources and Deep Finalization** (MSR Technical Report)  
   by Daan Leijen  
-  ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/resource-v1.pdf))
+  ([technical report](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/resource-v1.pdf))
 
 * **Shallow Effect Handlers** (APLAS 2018)  
   by Daniel Hillerström and Sam Lindley  
@@ -761,9 +761,12 @@ in various programming languages.
   ([arxiv](https://arxiv.org/pdf/1611.09259))
 
 * **Type directed compilation of row-typed algebraic effects** (POPL 2017)  
+  **Algebraic effects for functional programming**  
   by Daan Leijen  
   ([dblp](http://dblp.uni-trier.de/rec/html/conf/popl/Leijen17))
   ([bibtex](http://dblp.uni-trier.de/rec/html/conf/popl/Leijen17?view=bibtex))
+  ([technical report v1](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-1.pdf))
+  ([technical report v2](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v2.pdf))
 
 * **No value restriction is needed for algebraic effects and handlers** (J. Funct. Program. 2017)  
   by Ohad Kammar and Matija Pretnar  

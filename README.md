@@ -41,6 +41,10 @@ in various programming languages.
   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([www](https://effekt-lang.github.io/effekt-website/))
 
+* **effing-mad**: An effect library for Rust  
+  by Rose Hudson  
+  ([GitHub](https://github.com/rosefromthedead/effing-mad))
+
 * **EvEff**: A Haskell library for programming with evidence-translated effect handlers  
   by Daan Leijen and Ningning Xie  
   ([GitHub](https://github.com/xnning/EvEff))

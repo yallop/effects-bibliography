@@ -23,7 +23,8 @@ in various programming languages.
 
 * **Desk**: A statically-typed functional language with an effect system based on set-operation  
   by Ryo Hirayama from Hihaheho Studio  
-  ([GitHub](https://github.com/Hihaheho/Desk)) ([an effects tutorial article](https://github.com/Hihaheho/Desk/blob/main/docs/blog/0002-algebraic-effects.md))
+  ([GitHub](https://github.com/Hihaheho/Desk))
+  ([an effects tutorial article](https://github.com/Hihaheho/Desk/blob/main/docs/blog/0002-algebraic-effects.md))
 
 * **Eff**: programming language with algebraic effects and handlers  
   by Andrej Bauer and Matija Pretnar  
@@ -196,9 +197,9 @@ in various programming languages.
 ### 2017
 
 * **Concurrent Programming with Effect Handlers** (tutorial given at [CUFP](http://cufp.org/2017/c3-daniel-hillerstrom-kc-concurrent-programming-with-effect-handlers.html))  
-   by Daniel Hillerström and KC Sivaramakrishnan  
-   ([www](http://cufp.org/2017/c3-daniel-hillerstrom-kc-concurrent-programming-with-effect-handlers.html))
-   ([GitHub](https://github.com/ocamllabs/ocaml-effects-tutorial))
+  by Daniel Hillerström and KC Sivaramakrishnan  
+  ([www](http://cufp.org/2017/c3-daniel-hillerstrom-kc-concurrent-programming-with-effect-handlers.html))
+  ([GitHub](https://github.com/ocamllabs/ocaml-effects-tutorial))
 
 ### 2015
 
@@ -246,7 +247,6 @@ in various programming languages.
 
 ### 2023
 
-
 * **From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers** (OOPSLA 2023)  
   by Marius Müller, Philipp Schuster, Jonathan Lindegaard Starup, Klaus Ostermann, and Jonathan Immanuel Brachthäuser  
   ([doi](https://doi.org/10.1145/3622831))
@@ -287,8 +287,8 @@ in various programming languages.
 
 ### 2022
 
-*  **Category-Graded Algebraic Theories and Effect Handlers** (MFPS 2022)  
-   by Takahiro Sanada  
+* **Category-Graded Algebraic Theories and Effect Handlers** (MFPS 2022)  
+  by Takahiro Sanada  
   ([pdf](https://www.kurims.kyoto-u.ac.jp/~tsanada/papers/mfps2022-cat-graded-preproceedings-extended.pdf))
 
 * **Modular probabilistic models via algebraic effects** (ICFP 2022)  
@@ -357,7 +357,7 @@ in various programming languages.
   ([pdf](https://software.imdea.org/~aleks/icfp21/icfp21.pdf))
 
 * **Reasoning about Effect Interaction by Fusion** (ICFP 2021)  
-  by Zhixuan Yang and Nicolas Wu   
+  by Zhixuan Yang and Nicolas Wu
   ([doi](https://doi.org/10.1145/3473578))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3473578))
   ([extended pdf](https://yangzhixuan.github.io/pdf/fused-reasoning-appendices.pdf))
@@ -506,7 +506,7 @@ in various programming languages.
 
 * **Signature restriction for polymorphic algebraic effects** (ICFP 2020)  
   by Taro Sekiyama, Takeshi Tsukada, and Atsushi Igarashi  
- ([pdf](https://arxiv.org/pdf/2003.08138))
+  ([pdf](https://arxiv.org/pdf/2003.08138))
 
 * **Effects for Efficiency: Asymptotic Speedup with First-Class Control** (ICFP 2020)  
   by Daniel Hillerström, Sam Lindley, and John Longley  
@@ -518,8 +518,8 @@ in various programming languages.
 
 * **Compiling Effect Handlers in Capability-Passing Style** (ICFP 2020)  
   by Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann  
- ([doi](https://doi.org/10.1145/3408975))
- ([pdf](https://dl.acm.org/doi/pdf/10.1145/3408975))
+  ([doi](https://doi.org/10.1145/3408975))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3408975))
 
 * **Effekt: Capability-passing style for type- and effect-safe, extensible effect handlers in Scala** (JFP 2020)  
   by Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
@@ -559,7 +559,8 @@ in various programming languages.
 
 * **Local Algebraic Effect Theories** (JFP 2020)  
   by Žiga Lukšič and Matija Pretnar  
-  ([doi](https://doi.org/10.1017/S0956796819000212)) ([arxiv](https://arxiv.org/abs/2005.13654))  
+  ([doi](https://doi.org/10.1017/S0956796819000212))
+  ([arxiv](https://arxiv.org/abs/2005.13654))  
 
 * **Explicit Effect Subtyping** (JFP 2020)  
   by Georgios Karachalias, Matija Pretnar, Amr Hany Saleh, Stien Vanderhallen and Tom Schrijvers  
@@ -593,7 +594,8 @@ in various programming languages.
 
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
-  ([pdf](https://hal.science/hal-02359796v1/preview/monae.pdf)) ([GitHub](https://github.com/affeldt-aist/monae))
+  ([pdf](https://hal.science/hal-02359796v1/preview/monae.pdf))
+  ([GitHub](https://github.com/affeldt-aist/monae))
 
 * **Handling Local State with Global State** (MPC 2019)  
   by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  
@@ -626,7 +628,6 @@ in various programming languages.
 * **Behavioural Equivalence via Modalities for Algebraic Effects** (TOPLAS 2019)  
   by Alex Simpson and Niels Voorneveld  
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3363518))
-
 
 ### 2018
 
@@ -722,7 +723,8 @@ in various programming languages.
 
 * **Handlers for Non-Monadic Computations** (IFL 2017)  
   by Ruben P. Pieters, Tom Schrijvers, and Exequiel Rivas  
-  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf)) ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/617988/1/CW713.pdf))
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf))
+  ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/617988/1/CW713.pdf))
 
 * **Effekt: Extensible Algebraic Effects in Scala** (Scala 2017)  
   by Jonathan Immanuel Brachthäuser and Philipp Schuster  
@@ -791,7 +793,8 @@ in various programming languages.
 
 * **Eff Directly in OCaml** (ML Workshop 2016)  
   by Oleg Kiselyov and KC Sivaramakrishnan  
-  ([pdf](http://kcsrk.info/papers/caml-eff17.pdf)) ([extended abstract](http://kcsrk.info/papers/eff_ocaml_ml16.pdf))
+  ([pdf](http://kcsrk.info/papers/caml-eff17.pdf))
+  ([extended abstract](http://kcsrk.info/papers/eff_ocaml_ml16.pdf))
 
 * **Compiling Links Effect Handlers to the OCaml Backend** (ML Workshop 2016)  
   by Daniel Hillerström, Sam Lindley, and KC Sivaramakrishnan  
@@ -903,7 +906,6 @@ in various programming languages.
   by Shin-ya Katsumata  
   ([doi](https://doi.org/10.1145/2535838.2535846))
 
-
 ### 2013
 
 * **Programming and reasoning with algebraic effects and dependent types** (ICFP 2013)  
@@ -916,8 +918,8 @@ in various programming languages.
 
 * **Handlers in action** (ICFP 2013)  
   by Ohad Kammar, Sam Lindley and Nicolas Oury  
-  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf)) ([GitHub](https://github.com/slindley/effect-handlers))
-
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf))
+  ([GitHub](https://github.com/slindley/effect-handlers))
 
 * **Extensible effects: an alternative to monad transformers** (Haskell 2013)  
   by Oleg Kiselyov, Amr Sabry and Cameron Swords  
@@ -944,7 +946,6 @@ in various programming languages.
 * **The Sequential Semantics of Producer Effect Systems** (POPL 2013)  
   by Ross Tate  
   ([doi](https://doi.org/10.1145/2429069.2429074))
-
 
 ### 2012
 
@@ -991,16 +992,13 @@ in various programming languages.
   by Gordon Plotkin and Matija Pretnar  
   ([pdf](http://homepages.inf.ed.ac.uk/gdp/publications/Effect_Handlers.pdf))
 
-
 * **Parameterised Notions of Computation** (JFP 2009)  
   by Robert Atkey  
   ([pdf](http://bentnib.org/paramnotions-jfp.pdf))
 
-
 * **Algebras for Parameterised Monads** (CALCO 2009)  
   by Robert Atkey  
   ([pdf](http://bentnib.org/algebras-param-monads.pdf))
-
 
 ### 2008
 
@@ -1128,10 +1126,9 @@ in various programming languages.
 
 ### 1991
 
- * **Notions of computation and monads** (Information and Computation, 93(1), 1991)  
-   by Eugenio Moggi  
-   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf))
-
+* **Notions of computation and monads** (Information and Computation, 93(1), 1991)  
+  by Eugenio Moggi  
+  ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf))
 
 ### 1990
 
@@ -1160,153 +1157,152 @@ in various programming languages.
   by Pierre Jouvelot and David K. Gifford  
   ([doi](https://doi.org/10.1109%2FICCL.1988.13044))
 
-
 ## Theses and Dissertations
 
-  ### 2024
+### 2024
 
-  * **Algebraic Effects and Handlers for Arrows** (PhD Dissertation, Kyoto University)  
-    by Takahiro Sanada  
-    ([pdf](https://www.kurims.kyoto-u.ac.jp/~tsanada/papers/phdthesis.pdf))
+* **Algebraic Effects and Handlers for Arrows** (PhD Dissertation, Kyoto University)  
+  by Takahiro Sanada  
+  ([pdf](https://www.kurims.kyoto-u.ac.jp/~tsanada/papers/phdthesis.pdf))
 
-  ### 2023
+### 2023
 
-  * **Elaine: Elaboration of Higher-Order Effects as First-Class Language Feature** (MSc Dissertation, TU Delft)  
-    by Terts Diepraam  
-    ([pdf](https://repository.tudelft.nl/islandora/object/uuid:f6c38be6-853f-499b-aa4e-cfa2ce219bf5/datastream/OBJ/download))
+* **Elaine: Elaboration of Higher-Order Effects as First-Class Language Feature** (MSc Dissertation, TU Delft)  
+  by Terts Diepraam  
+  ([pdf](https://repository.tudelft.nl/islandora/object/uuid:f6c38be6-853f-499b-aa4e-cfa2ce219bf5/datastream/OBJ/download))
 
-  * **Deriving Effect Handler Semantics** (MSc Dissertation, TU Delft)  
-    by Chris Lemaire  
-    ([pdf](https://repository.tudelft.nl/islandora/object/uuid:414215b8-837d-46d5-952e-bdc5b47e47cc/datastream/OBJ/download))
+* **Deriving Effect Handler Semantics** (MSc Dissertation, TU Delft)  
+  by Chris Lemaire  
+  ([pdf](https://repository.tudelft.nl/islandora/object/uuid:414215b8-837d-46d5-952e-bdc5b47e47cc/datastream/OBJ/download))
 
-  * **Concurrent Structures and Effect Handlers: A Batch Made in Heaven** (BSc Dissertation, Yale NUS College)  
-    by Lee Koon Wen  
-    ([pdf](https://ilyasergey.net/assets/pdf/papers/Koon-Wen-Lee-Capstone.pdf))
+* **Concurrent Structures and Effect Handlers: A Batch Made in Heaven** (BSc Dissertation, Yale NUS College)  
+  by Lee Koon Wen  
+  ([pdf](https://ilyasergey.net/assets/pdf/papers/Koon-Wen-Lee-Capstone.pdf))
 
-  ### 2022
+### 2022
 
-  * **Algebraic Effect Instance Scopes** (BSc Dissertation, University of Wroclaw)  
-    by Patrycja Balik  
-    ([pdf](https://ii.uni.wroc.pl/media/uploads/2022/11/18/balik-patrycja-praca.pdf))
+* **Algebraic Effect Instance Scopes** (BSc Dissertation, University of Wroclaw)  
+  by Patrycja Balik  
+  ([pdf](https://ii.uni.wroc.pl/media/uploads/2022/11/18/balik-patrycja-praca.pdf))
 
-  * **Comprehending Pure Functional Effect Systems** (MSc Dissertation, University of Oxford)  
-    by Daniel Tattan-Birch  
-    ([pdf](https://www.dantb.dev/files/dissertation.pdf))
-    ([Summary post](https://www.dantb.dev/posts/dissertation))
+* **Comprehending Pure Functional Effect Systems** (MSc Dissertation, University of Oxford)  
+  by Daniel Tattan-Birch  
+  ([pdf](https://www.dantb.dev/files/dissertation.pdf))
+  ([Summary post](https://www.dantb.dev/posts/dissertation))
 
-  ### 2021
+### 2021
 
-  * **Foundations for Programming and Implementing Effect Handlers** (PhD Dissertation, The University of Edinburgh)  
-    by Daniel Hillerström  
-    ([pdf](https://dhil.net/research/papers/thesis.pdf))
-    ([GitHub](https://github.com/dhil/phd-dissertation))
+* **Foundations for Programming and Implementing Effect Handlers** (PhD Dissertation, The University of Edinburgh)  
+  by Daniel Hillerström  
+  ([pdf](https://dhil.net/research/papers/thesis.pdf))
+  ([GitHub](https://github.com/dhil/phd-dissertation))
 
-  * **Extending Effekt with Bidirectional Effects** (MSc Dissertation, Tokyo Institute of Technology)  
-    by Kazuki Niimi  
-    ([pdf](https://prg.is.titech.ac.jp/wp-content/uploads/2021/04/2021-03M-niimi.pdf))
+* **Extending Effekt with Bidirectional Effects** (MSc Dissertation, Tokyo Institute of Technology)  
+  by Kazuki Niimi  
+  ([pdf](https://prg.is.titech.ac.jp/wp-content/uploads/2021/04/2021-03M-niimi.pdf))
 
-  ### 2020
+### 2020
 
-  * **Linear Frank** (BSc Dissertation, The University of New South Wales)  
-    by James Treloar  
-    ([pdf](https://people.eng.unimelb.edu.au/rizkallahc/theses/james-treloar-honours-thesis.pdf))
+* **Linear Frank** (BSc Dissertation, The University of New South Wales)  
+  by James Treloar  
+  ([pdf](https://people.eng.unimelb.edu.au/rizkallahc/theses/james-treloar-honours-thesis.pdf))
 
-  * **Applications of Algebraic Effect Theories** (PhD Dissertation, University of Ljubljana)  
-    by Žiga Lukšič  
-    ([pdf](https://repozitorij.uni-lj.si/Dokument.php?id=137124&lang=eng))
+* **Applications of Algebraic Effect Theories** (PhD Dissertation, University of Ljubljana)  
+  by Žiga Lukšič  
+  ([pdf](https://repozitorij.uni-lj.si/Dokument.php?id=137124&lang=eng))
 
-  * **Asynchronous Effect Handling** (MSc Dissertation, The University of Edinburgh)  
-    by Leo Poulson  
-    ([pdf](https://raw.githubusercontent.com/leopoulson/thesis/master/thesis.pdf))
+* **Asynchronous Effect Handling** (MSc Dissertation, The University of Edinburgh)  
+  by Leo Poulson  
+  ([pdf](https://raw.githubusercontent.com/leopoulson/thesis/master/thesis.pdf))
 
-  * **Relational Reasoning for Effects and Handlers** (PhD Dissertation, The University of Edinburgh)  
-    by Craig McLaughlin  
-    ([doi](http://dx.doi.org/10.7488/era/537))
-    ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
+* **Relational Reasoning for Effects and Handlers** (PhD Dissertation, The University of Edinburgh)  
+  by Craig McLaughlin  
+  ([doi](http://dx.doi.org/10.7488/era/537))
+  ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
 
-  * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
-    by Jonathan Immanuel Brachthäuser  
-    ([dblp](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html))
+* **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
+  by Jonathan Immanuel Brachthäuser  
+  ([dblp](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html))
 
-  ### 2019
+### 2019
 
-  * **A Type System for Dynamic Instances** (MSc Dissertation, TU Delft)  
-    by Albert ten Napel  
-    ([pdf](https://repository.tudelft.nl/islandora/object/uuid:36d382d8-3ba4-4825-b718-a080b01b0649/datastream/OBJ/download))
+* **A Type System for Dynamic Instances** (MSc Dissertation, TU Delft)  
+  by Albert ten Napel  
+  ([pdf](https://repository.tudelft.nl/islandora/object/uuid:36d382d8-3ba4-4825-b718-a080b01b0649/datastream/OBJ/download))
 
-  * **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  
-    by Amr Hany Saleh  
-    ([pdf](https://lirias.kuleuven.be/retrieve/532832/))
+* **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  
+  by Amr Hany Saleh  
+  ([pdf](https://lirias.kuleuven.be/retrieve/532832/))
 
-  * **Program Equivalence for Algebraic Effects via Modalities** (MSc Dissertation, University of Oxford)  
-    by Cristina Matache  
-    ([pdf](https://homepages.inf.ed.ac.uk/cmatache/documents/m_diss.pdf))
+* **Program Equivalence for Algebraic Effects via Modalities** (MSc Dissertation, University of Oxford)  
+  by Cristina Matache  
+  ([pdf](https://homepages.inf.ed.ac.uk/cmatache/documents/m_diss.pdf))
 
-  * **Defined Algebraic Operations** (PhD Dissertation, University of Birmingham)  
-    by Bram Geron  
-    ([pdf](https://bram.xyz/thesis.pdf))
+* **Defined Algebraic Operations** (PhD Dissertation, University of Birmingham)  
+  by Bram Geron  
+  ([pdf](https://bram.xyz/thesis.pdf))
 
-  ### 2018
+### 2018
 
-  * **Algebraic Subtyping for Algebraic Effects and Handlers** (MSc Dissertation, KU Leuven)  
-    by Alex Faes  
-    ([pdf](https://github.com/TheAxeC/algebraic-subtyping-for-algebraic-effects-and-handlers/blob/master/thesis.pdf))
+* **Algebraic Subtyping for Algebraic Effects and Handlers** (MSc Dissertation, KU Leuven)  
+  by Alex Faes  
+  ([pdf](https://github.com/TheAxeC/algebraic-subtyping-for-algebraic-effects-and-handlers/blob/master/thesis.pdf))
 
-  ### 2017
+### 2017
 
-  * **Distributive Interaction of Algebraic Effects** (PhD Dissertation, University of Oxford)  
-    by Kwok-Ho Cheung  
-    ([pdf](https://ora.ox.ac.uk/objects/uuid:66106628-0a71-4564-bc34-c398db766818/download_file?file_format=pdf&safe_filename=report.pdf&type_of_work=Thesis))
+* **Distributive Interaction of Algebraic Effects** (PhD Dissertation, University of Oxford)  
+  by Kwok-Ho Cheung  
+  ([pdf](https://ora.ox.ac.uk/objects/uuid:66106628-0a71-4564-bc34-c398db766818/download_file?file_format=pdf&safe_filename=report.pdf&type_of_work=Thesis))
 
-  * **Enhancing a Modular Effectful Programming Language** (MSc Dissertation, The University of Edinburgh)  
-    by Lukas Convent  
-    ([pdf](http://lukas.convnet.de/proj/master/thesis.pdf))
+* **Enhancing a Modular Effectful Programming Language** (MSc Dissertation, The University of Edinburgh)  
+  by Lukas Convent  
+  ([pdf](http://lukas.convnet.de/proj/master/thesis.pdf))
 
-  * **Fibred Computational Effects** (PhD Dissertation, The University of Edinburgh)  
-    by Danel Ahman  
-    ([pdf](https://danel.ahman.ee/papers/phd-thesis.pdf))
+* **Fibred Computational Effects** (PhD Dissertation, The University of Edinburgh)  
+  by Danel Ahman  
+  ([pdf](https://danel.ahman.ee/papers/phd-thesis.pdf))
 
-  ### 2016
+### 2016
 
-  * **Compilation of Effect Handlers and their Applications in Concurrency** (MSc Dissertation, The University of Edinburgh)  
-    by Daniel Hillerström  
-    ([pdf](https://www.dhil.net/research/papers/thesis2016.pdf))
+* **Compilation of Effect Handlers and their Applications in Concurrency** (MSc Dissertation, The University of Edinburgh)  
+  by Daniel Hillerström  
+  ([pdf](https://www.dhil.net/research/papers/thesis2016.pdf))
 
-  * **On the expressive power of effect handlers and monadic reflection** (MSc Dissertation, University of Cambridge)  
-    by Yannick Forster  
-    ([pdf](http://www.ps.uni-saarland.de/~forster/downloads/mphil-thesis.pdf))
+* **On the expressive power of effect handlers and monadic reflection** (MSc Dissertation, University of Cambridge)  
+  by Yannick Forster  
+  ([pdf](http://www.ps.uni-saarland.de/~forster/downloads/mphil-thesis.pdf))
 
-  ### 2015
+### 2015
 
-  * **Handlers for Algebraic Effects in Links** (MSc Dissertation, The University of Edinburgh)  
-    by Daniel Hillerström  
-    ([pdf](https://www.dhil.net/research/papers/thesis2015.pdf))
+* **Handlers for Algebraic Effects in Links** (MSc Dissertation, The University of Edinburgh)  
+  by Daniel Hillerström  
+  ([pdf](https://www.dhil.net/research/papers/thesis2015.pdf))
 
-  ### 2010
+### 2010
 
-  * **The Logic and Handling of Algebraic Effects** (PhD Dissertation, The University of Edinburgh)  
-    by Matija Pretnar  
-    ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
+* **The Logic and Handling of Algebraic Effects** (PhD Dissertation, The University of Edinburgh)  
+  by Matija Pretnar  
+  ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
 
-  ### 1996
+### 1996
 
-  * **Controlling Effects** (PhD Dissertation, Carnegie Mellon University)  
-    by Andrzej Filinski  
-    ([dvi.gz](http://hjemmesider.diku.dk/~andrzej/papers/CE.dvi.gz))
-    ([ps.gz](http://hjemmesider.diku.dk/~andrzej/papers/CE.ps.gz))
+* **Controlling Effects** (PhD Dissertation, Carnegie Mellon University)  
+  by Andrzej Filinski  
+  ([dvi.gz](http://hjemmesider.diku.dk/~andrzej/papers/CE.dvi.gz))
+  ([ps.gz](http://hjemmesider.diku.dk/~andrzej/papers/CE.ps.gz))
 
-  ### 1995
+### 1995
 
-  * **Semantic Lego** (PhD Dissertation, Columbia University)  
-    by David Espinosa  
-    ([pdf](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis.pdf))
-    ([pdf slides](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis-slides.pdf))
+* **Semantic Lego** (PhD Dissertation, Columbia University)  
+  by David Espinosa  
+  ([pdf](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis.pdf))
+  ([pdf slides](https://github.com/davidespinosa01/papers/raw/master/E/Espinosa%20David/espinosa-thesis-slides.pdf))
 
-  ### 1987
+### 1987
 
-  * **Types and Effects &mdash; Towards the Integration of Functional and Imperative Programming** (PhD Dissertation, MIT)  
-    by John M. Lucassen  
-    ([pdf](https://apps.dtic.mil/sti/pdfs/ADA186930.pdf))
+* **Types and Effects &mdash; Towards the Integration of Functional and Imperative Programming** (PhD Dissertation, MIT)  
+  by John M. Lucassen  
+  ([pdf](https://apps.dtic.mil/sti/pdfs/ADA186930.pdf))
 
 ---
 

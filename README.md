@@ -188,6 +188,7 @@ in various programming languages.
   by Andrej Bauer  
   ([doi](http://arxiv.org/abs/1807.05923))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-1807-05923.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-1807-05923.html?view=bibtex))
   ([pdf](https://arxiv.org/pdf/1807.05923))  
   (Videos: [1.1](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer1-1.mp4),
            [1.2](https://www.cs.uoregon.edu/research/summerschool/summer18/lectures/bauer1-2.mp4),
@@ -220,24 +221,28 @@ in various programming languages.
   by Daniel Hillerström, Sam Lindley, and John Longley  
   ([doi](https://doi.org/10.1017/S0956796824000030))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/HillerstromLL24.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/HillerstromLL24.html?view=bibtex))
   ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/296879DE2FD96FB6CF388F27978C76E4/S0956796824000030a.pdf/asymptotic-speedup-via-effect-handlers.pdf))
 
 * **Active Objects Based on Algebraic Effects** (Active Object Languages: Current Research Trends)  
   by Martin Andrieux, Ludovic Henrio, and Gabriel Radanne  
   ([doi](https://doi.org/10.1007/978-3-031-51060-1_1))
   ([dblp](https://dblp.uni-trier.de/rec/books/sp/24/AndrieuxHR24.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/books/sp/24/AndrieuxHR24.html?view=bibtex))
   ([pdf](https://hal.science/hal-04388798/document))
 
 * **Soundly Handling Linearity** (POPL 2024)  
   by Wenhao Tang, Daniel Hillerström, Sam Lindley, and J. Garrett Morris  
   ([doi](https://doi.org/10.1145/3632896))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/TangHLM24.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/TangHLM24.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632896))
 
 * **On Model-Checking Higher-Order Effectful Programs** (POPL 2024)  
   by Ugo Dal Lago and Alexis Ghyselen  
   ([doi](https://doi.org/10.1145/3632929))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/LagoG24.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/LagoG24.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632929))
   ([pdf (extended version)](https://arxiv.org/abs/2308.16542))
 
@@ -245,12 +250,14 @@ in various programming languages.
   by Cameron Moy, Christos Dimoulas, and Matthias Felleisen  
   ([doi](https://doi.org/10.1145/3632930))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/MoyDF24.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/MoyDF24.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632930))
 
 * **An Intrinsically Typed Compiler for Algebraic Effect Handlers** (PEPM 2024)  
   by Syouki Tsuyama, Youyou Cong, and Hidehiko Masuhara  
   ([doi](https://doi.org/10.1145/3635800.3636968))
   ([dblp](https://dblp.uni-trier.de/rec/conf/pepm/TsuyamaCM24.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/pepm/TsuyamaCM24.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3635800.3636968))
 
 ### 2023
@@ -259,18 +266,21 @@ in various programming languages.
   by Marius Müller, Philipp Schuster, Jonathan Lindegaard Starup, Klaus Ostermann, and Jonathan Immanuel Brachthäuser  
   ([doi](https://doi.org/10.1145/3622831))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/MullerSSOB23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/MullerSSOB23.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3622831))
 
 * **Continuing WebAssembly with Effect Handlers** (OOPSLA 2023)  
   by Luna Phipps-Costin, Andreas Rossberg, Arjun Guha, Daan Leijen, Daniel Hillerström, KC Sivaramakrishnan, Matija Pretnar, and Sam Lindley  
   ([doi](https://doi.org/10.1145/3622814))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/PhippsCostinRGLHSPL23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/PhippsCostinRGLHSPL23.html?view=bibtex))
   ([arxiv](https://doi.org/10.48550/arXiv.2308.08347))
 
 * **Typed equivalence of labeled effect handlers and labeled delimited control operators** (PPDP 2023)  
   by Kazuki Ikemori, Youyou Cong, and Hidehiko Masuhara  
   ([doi](https://doi.org/10.1145/3610612.3610616))
   ([dblp](https://dblp.uni-trier.de/rec/conf/ppdp/IkemoriCM23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ppdp/IkemoriCM23.html?view=bibtex))
   ([pdf](https://prg.is.titech.ac.jp/papers/pdf/ppdp2023.pdf))
   ([bibtex](https://dblp.org/rec/conf/ppdp/IkemoriCM23.html?view=bibtex))
 
@@ -278,29 +288,34 @@ in various programming languages.
   by Colin S. Gordon, Chaewon Yun  
   ([doi](https://doi.org/10.1007/978-3-031-44245-2_16))
   ([dblp](https://dblp.uni-trier.de/rec/conf/sas/GordonY23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/sas/GordonY23.html?view=bibtex))
 
 * **A General Fine-Grained Reduction Theory for Effect Handlers** (ICFP 2023)  
   by Filip Sieczkowski, Mateusz Pyzik, and Dariusz Biernacki  
   ([doi](https://doi.org/10.1145/3607848))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/SieczkowskiPB23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/SieczkowskiPB23.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3607848))
 
 * **With or Without You: Programming with Effect Exclusion** (ICFP 2023)  
   by Matthew Lutze, Magnus Madsen, Philipp Schuster, and Jonathan Immanuel Brachthäuser  
   ([doi](https://doi.org/10.1145/3607846))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/LutzeMSB23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/LutzeMSB23.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3607846))
 
 * **Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects** (POPL 2023)  
   by Casper Bach Poulsen and Cas Van Der Rest  
   ([doi](https://dl.acm.org/doi/abs/10.1145/3571255))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/PoulsenR23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/PoulsenR23.html?view=bibtex))
   ([pdf](http://casperbp.net/store/hefty-algebras.pdf))
 
 * **Towards a Reflection for Effect Handlers** (PEPM 2023)  
   by Youyou Cong and Kenichi Asai  
   ([doi](https://dl.acm.org/doi/abs/10.1145/3571786.3573015))
   ([dblp](https://dblp.uni-trier.de/rec/conf/pepm/CongA23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/pepm/CongA23.html?view=bibtex))
 
 ### 2022
 
@@ -308,54 +323,63 @@ in various programming languages.
   by Takahiro Sanada  
   ([doi](https://doi.org/10.46298/entics.10491))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-2212-07015.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-2212-07015.html?view=bibtex))
   ([pdf](https://www.kurims.kyoto-u.ac.jp/~tsanada/papers/mfps2022-cat-graded-preproceedings-extended.pdf))
 
 * **Modular probabilistic models via algebraic effects** (ICFP 2022)  
   by Minh Nguyen, Roly Perera, Meng Wang, and Nicolas Wu  
   ([doi](https://doi.org/10.1145/3547635))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/NguyenPWW22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/NguyenPWW22.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3547635))
 
 * **Automated Temporal Veriﬁcation for Algebraic Effects** (APLAS 2022)  
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([doi](https://doi.org/10.1007/978-3-031-21037-2_5))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/SongFC22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/SongFC22.html?view=bibtex))
   ([pdf](https://www.comp.nus.edu.sg/~yahuis/APLAS2022.pdf))
 
 * **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)  
   by Yotam Dvir, Ohad Kammar, and Ori Lahav  
   ([doi](https://doi.org/10.1007/978-3-031-21037-2_1))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/DvirKL22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/DvirKL22.html?view=bibtex))
   ([pdf](https://www.cs.tau.ac.il/~orilahav/papers/aplas22full.pdf))
 
 * **First-class Names for Effect Handlers** (OOPSLA 2022)  
   by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  
   ([doi](https://doi.org/10.1145/3563289))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/XieCIL22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/XieCIL22.html?view=bibtex))
   ([pdf](https://xnning.github.io/papers/oopsla22namedh.pdf))
 
 * **High-level effect handlers in C++** (OOPSLA 2022)  
   by Dan Ghica, Sam Lindley, Marcos Maroñas Bravo, and Maciej Piróg  
   ([doi](https://doi.org/10.1145/3563445))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/GhicaLBP22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/GhicaLBP22.html?view=bibtex))
   ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/cppeff.pdf))
 
 * **Algebraic effects for extensible dynamic semantics** (Journal of Logic, Language and Information)  
   by Julian Grove and Jean-Philippe Bernardy  
   ([doi](https://doi.org/10.1007/s10849-022-09378-7))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jolli/GroveB23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jolli/GroveB23.html?view=bibtex))
   ([pdf](https://semanticsarchive.net/Archive/TMxNGE3M/algebraic.pdf))
 
 * **A Typed Continuation-Passing Translation for Lexical Effect Handlers** (PLDI 2022)  
   by Philipp Schuster, Jonathan Immanuel Brachthäuser, Marius Müller, and Klaus Ostermann  
   ([doi](https://doi.org/10.1145/3519939.3523710))
   ([dblp](https://dblp.uni-trier.de/rec/conf/pldi/SchusterB0O22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/pldi/SchusterB0O22.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3519939.3523710))
 
 * **Structured Handling of Scoped Effects** (ESOP 2022)  
   by Zhixuan Yang, Marco Paviotti, Nicolas Wu, Birthe van den Berg, and Tom Schrijvers  
   ([doi](https://doi.org/10.1007/978-3-030-99336-8_17))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/YangPWBS22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/YangPWBS22.html?view=bibtex))
   ([pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-99336-8_17.pdf))
   ([pdf (extended version)](https://arxiv.org/pdf/2201.10287.pdf))
 
@@ -363,6 +387,7 @@ in various programming languages.
   by Jonathan Immanuel Brachthäuser, Philipp Schuster, Edward Lee, and Aleksander Boruch-Gruszecki  
   ([doi](https://doi.org/10.1145/3527320))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/BrachthauserSLB22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/BrachthauserSLB22.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3527320))
 
 ### 2021
@@ -371,12 +396,14 @@ in various programming languages.
   by Georgios Karachalias, Filip Koprivec, Matija Pretnar, and Tom Schrijvers  
   ([doi](https://doi.org/10.1145/3485479))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/KarachaliasKPS21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/KarachaliasKPS21.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3485479))
 
 * **Latent Effects for Resuable Language Components** (APLAS 2021)  
   by Birthe van den Berg, Tom Schrijvers, Casper Bach Poulsen, and Nicolas Wu  
   ([doi](https://doi.org/10.1007/978-3-030-89051-3_11))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/BergSPW21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/BergSPW21.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/2108.11155))
   ([pdf (extended version)](https://arxiv.org/pdf/2108.11155.pdf))
 
@@ -388,18 +415,21 @@ in various programming languages.
   by Hashan Punchihewa and Nicolas Wu  
   ([doi](https://doi.org/10.1145/3471874.3472988))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/PunchihewaW21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/PunchihewaW21.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3471874.3472988))
 
 * **Contextual Modal Types for Algebraic Effects and Handlers** (ICFP 2021)  
   by Nikita Zyuzin and Aleksandar Nanevski  
   ([doi](https://doi.org/10.1145/3473580))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/ZyuzinN21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/ZyuzinN21.html?view=bibtex))
   ([pdf](https://software.imdea.org/~aleks/icfp21/icfp21.pdf))
 
 * **Reasoning about Effect Interaction by Fusion** (ICFP 2021)  
   by Zhixuan Yang and Nicolas Wu
   ([doi](https://doi.org/10.1145/3473578))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/YangW21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/YangW21.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3473578))
   ([extended pdf](https://yangzhixuan.github.io/pdf/fused-reasoning-appendices.pdf))
 
@@ -407,18 +437,21 @@ in various programming languages.
   by Ningning Xie and Daan Leijen  
   ([doi](https://doi.org/10.1145/3473576))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/XieL21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/XieL21.html?view=bibtex))
   ([pdf](https://xnning.github.io/papers/multip.pdf))
 
 * **A Functional Abstraction of Typed Invocation Contexts** (FSCD 2021)  
   by Youyou Cong, Chiaki Ishio, Kaho Honda, and Kenichi Asai  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.12))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fscd/CongIHA21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fscd/CongIHA21.html?view=bibtex))
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14250/pdf/LIPIcs-FSCD-2021-12.pdf))
 
 * **Derivation of a Virtual Machine For Four Variants of Delimited-Control Operators** (FSCD 2021)  
   by Maika Fujii and Kenichi Asai  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.16))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fscd/FujiiA21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fscd/FujiiA21.html?view=bibtex))
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14254/pdf/LIPIcs-FSCD-2021-16.pdf))
 
 * **Contextual Effect Polymorphism Meets Bidirectional Effects (Extended Abstract)** (TyDe 2021)  
@@ -445,6 +478,7 @@ in various programming languages.
   by KC Sivaramakrishnan, Stephen Dolan, Leo White, Tom Kelly, Sadiq Jaffer, and Anil Madhavapeddy  
   ([doi](https://doi.org/10.1145/3453483.3454039))
   ([dblp](https://dblp.uni-trier.de/rec/conf/pldi/Sivaramakrishnan21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/pldi/Sivaramakrishnan21.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/2104.00250))
   ([pdf](https://arxiv.org/pdf/2104.00250.pdf))
 
@@ -452,6 +486,7 @@ in various programming languages.
   by Colin S. Gordon  
   ([doi](https://doi.org/10.1145/3450272))
   ([dblp](https://dblp.uni-trier.de/rec/journals/toplas/Gordon21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/toplas/Gordon21.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/1808.02010))
 
 * **Automatic Differentiation via Effects and Handlers: An Implementation in Frank** (PEPM 2021)  
@@ -466,12 +501,14 @@ in various programming languages.
   by Paulo Emílio de Vilhena and François Pottier  
   ([doi](https://doi.org/10.1145/3434314))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/VilhenaP21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/VilhenaP21.html?view=bibtex))
   ([pdf](https://inria.hal.science/hal-03049514v1/document))
 
 * **Asynchronous Effects** (POPL 2021)  
   by Danel Ahman and Matija Pretnar  
   ([doi](https://doi.org/10.1145/3434305))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/AhmanP21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/AhmanP21.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/2003.02110))
   ([pdf](https://arxiv.org/pdf/2003.02110.pdf))
 
@@ -481,70 +518,82 @@ in various programming languages.
   by Satoshi Kura  
   ([doi](https://doi.org/10.1007/978-3-030-45231-5_21))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/Kura20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/Kura20.html?view=bibtex))
   ([pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-45231-5_21.pdf))
 
 * **Modular verification of programs with effects and effects handlers** (FAOC 2020)  
   by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet  
   ([doi](https://dx.doi.org/10.1007/s00165-020-00523-2))
   ([dblp](https://dblp.uni-trier.de/rec/journals/fac/LetanRCH21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/fac/LetanRCH21.html?view=bibtex))
 
 * **Not by equations alone: reasoning with extensible effects** (JFP 2020)  
   by Oleg Kiselyov, Shin-Cheng Mu, and Amr Sabry  
   ([doi](https://doi.org/10.1017/S0956796820000271))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/KiselyovMS21.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/KiselyovMS21.html?view=bibtex))
   ([pdf](https://www.okmij.org/ftp/Haskell/extensible/denot.pdf))
 
 * **Automatic Reparameterisation of Probabilistic Programs** (ICML 2020)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
   ([dblp](https://dblp.uni-trier.de/rec/conf/icml/GorinovaMH20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icml/GorinovaMH20.html?view=bibtex))
   ([pdf](http://proceedings.mlr.press/v119/gorinova20a/gorinova20a.pdf))
 
 * **Compiling Symbolic Execution with Staging and Algebraic Effects** (OOPSLA 2020)  
   by Guannan Wei, Oliver Bračevac, Shangyin Tan, and Tiark Rompf  
   ([doi](https://doi.org/10.1145/3428232))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/WeiBTR20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/WeiBTR20.html?view=bibtex))
   ([pdf](https://bracevac.org/assets/pdf/oopsla20.pdf))
 
 * **Composing Effects into Tasks and Workflows** (Haskell 2020)  
   by Yves Parès, Jean-Philippe Bernardy, and Richard A. Eisenberg  
   ([doi](https://doi.org/10.1145/3410242))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/ParesBE20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/ParesBE20.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3406088.3409023))
 
 * **Handling Bidirectional Control Flow** (OOPSLA 2020)  
   Yizhou Zhang, Guido Salvaneschi, and Andrew C. Myers  
   ([doi](https://doi.org/10.1145/3428207))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/ZhangSM20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/ZhangSM20.html?view=bibtex))
   ([pdf](https://www.cs.cornell.edu/andru/papers/ufo/bidirectional-effects.pdf))
 
 * **Designing with Static Capabilities and Effects: Use, Mention, and Invariants** (ECOOP 2020)  
   by Colin S. Gordon  
   ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2020.10))
   ([dblp](https://dblp.uni-trier.de/rec/conf/ecoop/Gordon19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ecoop/Gordon19.html?view=bibtex))
   ([pdf](https://drops.dagstuhl.de/storage/00lipics/lipics-vol166-ecoop2020/LIPIcs.ECOOP.2020.10/LIPIcs.ECOOP.2020.10.pdf))
 
 * **Lifting Sequential Effects to Control Operators** (ECOOP 2020)  
   by Colin S. Gordon  
   ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2020.23))
   ([dblp](https://dblp.uni-trier.de/rec/conf/ecoop/Gordon19a.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ecoop/Gordon19a.html?view=bibtex))
   ([pdf](https://drops.dagstuhl.de/storage/00lipics/lipics-vol166-ecoop2020/LIPIcs.ECOOP.2020.23/LIPIcs.ECOOP.2020.23.pdf))
 
 * **Degrading Lists** (PPDP 2020)  
   by Dylan McDermott, Maciej Piróg, and Tarmo Uustalu  
   ([doi](https://doi.org/10.1145/3414080.3414084))
   ([dblp](https://dblp.uni-trier.de/rec/conf/ppdp/McDermottPU20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ppdp/McDermottPU20.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3414080.3414084))
 
 * **Wasm/k: Delimited Continuations for WebAssembly** (DLS 2020)  
   by Donald Pinckney, Arjun Guha, and Yuriy Brun  
   ([doi](https://doi.org/10.1145/3426422.3426978))
   ([dblp](https://dblp.uni-trier.de/rec/conf/dls/PinckneyGB20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/dls/PinckneyGB20.html?view=bibtex))
   ([pdf](https://wasmk.github.io/FullVersion.pdf))
 
 * **A Complete Normal-Form Bisimilarity for Algebraic Effects and Handlers** (FSCD 2020)  
   by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2020.7))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fscd/BiernackiLP20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fscd/BiernackiLP20.html?view=bibtex))
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2020/12329/pdf/LIPIcs-FSCD-2020-7.pdf))
 
 * **A Reflection on Continuation-Composing Style** (FSCD 2020)  
@@ -556,120 +605,140 @@ in various programming languages.
   by Ningning Xie and Daan Leijen  
   ([doi](https://doi.org/10.1145/3406088.3409022))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/XieL20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/XieL20.html?view=bibtex))
   ([pdf](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/effev.pdf))
 
 * **Effects as capabilities: effect handlers and lightweight effect polymorphism** (OOPSLA 2020)  
   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([doi](https://doi.org/10.1145/3428194))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/BrachthauserSO20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/BrachthauserSO20.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3428194))
 
 * **One-shot Algebraic Effects as Coroutines** (TFP 2020)  
   by Satoru Kawahara and Yukiyoshi Kameyama  
   ([doi](https://doi.org/10.1007/978-3-030-57761-2_8))
   ([dblp](https://dblp.uni-trier.de/rec/conf/sfp/KawaharaK20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/sfp/KawaharaK20.html?view=bibtex))
   ([pdf](http://logic.cs.tsukuba.ac.jp/~sat/pdf/tfp2020.pdf))
 
 * **Generalized Monoidal Effects And Handlers** (JFP 2020)  
   by Ruben P. Pieters, Exequiel Rivas, and Tom Schrijvers  
   ([doi](https://doi.org/10.1017/S0956796820000106))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/PietersRS20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/PietersRS20.html?view=bibtex))
   ([pdf](https://rubenpieters.github.io/assets/papers/JFP20-handlers.pdf))
 
 * **Signature restriction for polymorphic algebraic effects** (ICFP 2020)  
   by Taro Sekiyama, Takeshi Tsukada, and Atsushi Igarashi  
   ([doi](https://doi.org/10.1145/3408999))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/SekiyamaTI20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/SekiyamaTI20.html?view=bibtex))
   ([pdf](https://arxiv.org/pdf/2003.08138))
 
 * **Effects for Efficiency: Asymptotic Speedup with First-Class Control** (ICFP 2020)  
   by Daniel Hillerström, Sam Lindley, and John Longley  
   ([doi](https://doi.org/10.1145/3408982))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/HillerstromLL20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/HillerstromLL20.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/2007.00605))
 
 * **Effect Handlers, Evidently** (ICFP 2020)  
   by Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schuster, and Daan Leijen  
   ([doi](https://doi.org/10.1145/3408981))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/XieBHSL20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/XieBHSL20.html?view=bibtex))
   ([pdf](https://www.dhil.net/research/papers/effect_handlers_evidently-extended-icfp2020.pdf))
 
 * **Compiling Effect Handlers in Capability-Passing Style** (ICFP 2020)  
   by Philipp Schuster, Jonathan Immanuel Brachthäuser, and Klaus Ostermann  
   ([doi](https://doi.org/10.1145/3408975))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/SchusterBO20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/SchusterBO20.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3408975))
 
 * **Effekt: Capability-passing style for type- and effect-safe, extensible effect handlers in Scala** (JFP 2020)  
   by Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([doi](https://doi.org/10.1017/S0956796820000027))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/BrachthauserSO20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/BrachthauserSO20.html?view=bibtex))
   ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A19680B18FB74AD95F8D83BC4B097D4F/S0956796820000027a.pdf/effekt_capabilitypassing_style_for_type_and_effectsafe_extensible_effect_handlers_in_scala.pdf))
 
 * **Doo bee doo bee doo** (JFP 2020)  
   by Lukas Convent, Sam Lindley, Conor McBride, and Craig McLaughlin  
   ([doi](https://doi.org/10.1017/S0956796820000039))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/ConventLMM20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/ConventLMM20.html?view=bibtex))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-jfp.pdf))
 
 * **Effect handlers via generalised continuations** (JFP 2020)  
   by Daniel Hillerström, Sam Lindley, and Robert Atkey  
   ([doi](https://doi.org/10.1017/S0956796820000040))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/HillerstromLA20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/HillerstromLA20.html?view=bibtex))
   ([pdf](https://dhil.net/research/papers/generalised_continuations-jfp2020.pdf))
 
 * **Runners in action** (ESOP 2020)  
   by Danel Ahman and Andrej Bauer  
   ([doi](https://doi.org/10.1007/978-3-030-44914-8_2))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/AhmanB20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/AhmanB20.html?view=bibtex))
   ([arxiv](https://arxiv.org/pdf/1910.11629.pdf))
 
 * **Interaction Trees: Representing Recursive and Impure Programs in Coq** (POPL 2020)  
   by Li-yao Xia, Yannick Zakowski, Paul He, Chung-Kil Hur, Gregory Malecha, Benjamin C. Pierce, Steve Zdancewic  
   ([doi](https://doi.org/10.1145/3371119))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/XiaZHHMPZ20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/XiaZHHMPZ20.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3371119?download=true))
 
 * **Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers** (POPL 2020)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([doi](https://doi.org/10.1145/3371116))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/BiernackiPPS20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/BiernackiPPS20.html?view=bibtex))
   ([pdf](https://maciejpirog.github.io/papers/binders-labels.pdf))
 
 * **Combining predicate transformer semantics for effects: a case study in parsing regular languages** (MSFP 2020)  
   by Anne Baanen and Wouter Swierstra  
   ([doi](https://doi.org/10.4204/EPTCS.317.3))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-00197.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-00197.html?view=bibtex))
   ([pdf](https://arxiv.org/pdf/2005.00197v1.pdf))  
 
 * **From Equations to Distinctions: Two Interpretations of Effectful Computations** (MSFP 2020)  
   by Niels Voorneveld  
   ([doi](https://doi.org/10.4204/EPTCS.317.1))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-00196.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-00196.html?view=bibtex))
   ([pdf](https://arxiv.org/pdf/2005.00196.pdf))  
   
 * **Unifying graded and parameterised monads** (MSFP 2020)  
   by Dominic Orchard, Philip Wadler and Harley Eades III  
   ([doi](https://doi.org/10.4204/EPTCS.317.2))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-2001-10274.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-2001-10274.html?view=bibtex))
   ([pdf](https://arxiv.org/pdf/2001.10274.pdf))  
 
 * **Local Algebraic Effect Theories** (JFP 2020)  
   by Žiga Lukšič and Matija Pretnar  
   ([doi](https://doi.org/10.1017/S0956796819000212))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/LuksicP20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/LuksicP20.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/2005.13654))  
 
 * **Explicit Effect Subtyping** (JFP 2020)  
   by Georgios Karachalias, Matija Pretnar, Amr Hany Saleh, Stien Vanderhallen and Tom Schrijvers  
   ([doi](https://doi.org/10.1017/S0956796820000131))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/KarachaliasPSVS20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/KarachaliasPSVS20.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/2005.13814))  
 
 * **The Fire Triangle: How to Mix Substitution, Dependent Elimination, and Effects** (POPL 2020)  
   by Pierre-Marie Pédrot and Nicolas Tabareau  
   ([doi](https://doi.org/10.1145/3371126))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/PedrotT20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/PedrotT20.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3371126))
 
 ### 2019
@@ -678,36 +747,42 @@ in various programming languages.
   by Cristina Matache and Sam Staton  
   ([doi](https://doi.org/10.1007/978-3-030-17127-8_22))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/MatacheS19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/MatacheS19.html?view=bibtex))
   ([pdf](http://www.cs.ox.ac.uk/people/samuel.staton/papers/fossacs-2019.pdf))
 
 * **On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control** (JFP, ICFP 2017 special issue)  
   by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
   ([doi](https://doi.org/10.1017/S0956796819000121))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/0002KLP19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/0002KLP19.html?view=bibtex))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/effmondel-jfp.pdf))
 
 * **Dijkstra Monads for All** (ICFP 2019)  
   by Kenji Maillard, Danel Ahman, Robert Atkey, Guido Martínez, Cătălin Hriţcu, Exequiel Rivas and Éric Tanter  
   ([doi](https://doi.org/10.1145/3341708))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/MaillardAAMHRT19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/MaillardAAMHRT19.html?view=bibtex))
   ([pdf](https://arxiv.org/abs/1903.01237))
 
 * **A predicate transformer semantics for effects (Functional Pearl)** (ICFP 2020)  
   by Wouter Swierstra and Anne Baanen  
   ([doi](https://doi.org/10.1145/3341707))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/SwierstraB19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/SwierstraB19.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3341707?download=true))
 
 * **Monad transformers and modular algebraic effects: What binds them together** (Haskell 2019)  
   by Tom Schrijvers, Maciej Piróg, Nicolas Wu, and Mauro Jaskelioff  
   ([doi](https://doi.org/10.1145/3331545.3342595))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/SchrijversPWJ19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/SchrijversPWJ19.html?view=bibtex))
   ([pdf](https://maciejpirog.github.io/papers/what-binds-them-together.pdf))
 
 * **A Hierarchy of Monadic Effects for Program Verification using Equational Reasoning** (MPC 2019)  
   by Reynald Affeldt, David Nowak, and Takafumi Saikawa  
   ([doi](https://doi.org/10.1007/978-3-030-33636-3_9))
   ([dblp](https://dblp.uni-trier.de/rec/conf/mpc/AffeldtNS19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/mpc/AffeldtNS19.html?view=bibtex))
   ([pdf](https://hal.science/hal-02359796v1/preview/monae.pdf))
   ([GitHub](https://github.com/affeldt-aist/monae))
 
@@ -715,48 +790,56 @@ in various programming languages.
   by Koen Pauwels, Tom Schrijvers, and Shin-Cheng Mu  
   ([doi](https://doi.org/10.1007/978-3-030-33636-3_2))
   ([dblp](https://dblp.uni-trier.de/rec/conf/mpc/PauwelsSM19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/mpc/PauwelsSM19.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/mpc2019.pdf))
 
 * **Bisimulations for Delimited-Control Operators** (LMCS 2019)  
   by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  
   ([doi](https://doi.org/10.23638/LMCS-15(2:18)2019))
   ([dblp](https://dblp.uni-trier.de/rec/journals/lmcs/BiernackiLP19a.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/lmcs/BiernackiLP19a.html?view=bibtex))
   ([pdf](https://lmcs.episciences.org/5508/pdf))
 
 * **Typed equivalence of effect handlers and delimited control** (FSCD 2019)  
   Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2019.30))
   ([dblp](https://dblp.uni-trier.de/rec/conf/rta/PirogPS19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/rta/PirogPS19.html?view=bibtex))
   ([pdf](https://maciejpirog.github.io/papers/typed-equivalence-fscd2019.pdf))
 
 * **Handling Polymorphic Algebraic Effects** (ESOP 2019)  
   Taro Sekiyama and Atsushi Igarashi  
   ([doi](https://doi.org/10.1007/978-3-030-17184-1_13))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/SekiyamaI19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/SekiyamaI19.html?view=bibtex))
   ([arxiv](https://arxiv.org/pdf/1811.07332))
 
 * **Extended call-by-push-value: reasoning about effectful programs and evaluation order** (ESOP 2019)  
   by Dylan McDermott and Alan Mycroft  
   ([doi](https://doi.org/10.1007/978-3-030-17184-1_9))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/McDermottM19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/McDermottM19.html?view=bibtex))
   ([pdf](https://www.cl.cam.ac.uk/~dm606/extended-call-by-push-value.pdf))
 
 * **Abstracting Algebraic Effects** (POPL 2019)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([doi](https://doi.org/10.1145/3290319))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/BiernackiPPS19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/BiernackiPPS19.html?view=bibtex))
   ([pdf](https://maciejpirog.github.io/papers/biernacki-al-popl19.pdf))
 
 * **Abstraction-Safe Effect Handlers via Tunneling** (POPL 2019)  
   by Yizhou Zhang and Andrew Myers  
   ([doi](https://doi.org/10.1145/3290318))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/ZhangM19.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/ZhangM19.html?view=bibtex))
   ([technical report](https://ecommons.cornell.edu/handle/1813/60202))
 
 * **Behavioural Equivalence via Modalities for Algebraic Effects** (TOPLAS 2019)  
   by Alex Simpson and Niels Voorneveld  
   ([doi](https://doi.org/10.1145/3363518))
   ([dblp](https://dblp.uni-trier.de/rec/journals/toplas/SimpsonV20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/toplas/SimpsonV20.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3363518))
 
 ### 2018
@@ -785,6 +868,7 @@ in various programming languages.
   by Ohad Kammar and Dylan McDermott  
   ([doi](https://doi.org/10.1016/j.entcs.2018.11.012))
   ([dblp](https://dblp.uni-trier.de/rec/journals/entcs/KammarM18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/entcs/KammarM18.html?view=bibtex))
 
 * **Functional Programming for Modular Bayesian Inference** (ICFP 2018)  
   by Adam Ścibior, Ohad Kammar, and Zoubin Ghahramani  
@@ -794,29 +878,34 @@ in various programming languages.
   by Pablo Inostroza and Tijs van der Storm  
   ([doi](https://doi.org/10.1145/3276954.3276955))
   ([dblp](https://dblp.uni-trier.de/rec/conf/oopsla/InostrozaS18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/oopsla/InostrozaS18.html?view=bibtex))
   ([pdf](https://homepages.cwi.nl/~storm/publications/jeff.pdf))
 
 * **Effect Handlers for the Masses** (OOPSLA 2018)  
   by Jonathan Immanuel Brachthäuser, Philipp Schuster, and Klaus Ostermann  
   ([doi](https://doi.org/10.1145/3276481))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/BrachthauserSO18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/BrachthauserSO18.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3276481))
 
 * **Abstract Nonsense** (FARM 2018)  
   by Junia Gonçalves  
   ([doi](https://doi.org/10.1145/3242903.3242908))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/Goncalves18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/Goncalves18.html?view=bibtex))
 
 * **Syntax and Semantics for Operations with Scopes**  (LICS 2018)  
   by Maciej Piróg, Tom Schrijvers, Nicolas Wu, and Mauro Jaskelioff  
   ([doi](https://doi.org/10.1145/3209108.3209166))
   ([dblp](https://dblp.uni-trier.de/rec/conf/lics/PirogSWJ18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/lics/PirogSWJ18.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/lics2018.pdf))
 
 * **First Class Dynamic Effect Handlers: or, Polymorphic Heaps with Dynamic Effect Handlers** (TyDe 2018)  
   by Daan Leijen  
   ([doi](https://doi.org/10.1145/3240719.3241789))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/Leijen18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/Leijen18.html?view=bibtex))
 
 * **Algebraic Effect Handlers with Resources and Deep Finalization** (MSR technical report)  
   by Daan Leijen  
@@ -826,18 +915,21 @@ in various programming languages.
   by Daniel Hillerström and Sam Lindley  
   ([doi](https://doi.org/10.1007/978-3-030-02768-1_22))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/HillerstromL18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/HillerstromL18.html?view=bibtex))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/shallow-extended.pdf))
 
 * **Versatile Event Correlation with Algebraic Effects** (ICFP 2018)  
   by Oliver Bračevac, Nada Amin, Guido Salvaneschi, Sebastian Erdweg, Patrick Eugster, and Mira Mezini  
   ([doi](https://doi.org/10.1145/3236762))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/BracevacASEEM18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/BracevacASEEM18.html?view=bibtex))
   ([pdf](https://programming-group.com/assets/pdf/papers/2018-Versatile-event-correlation-with-algebraic-effects.pdf))
 
 * **Modular Verification of Programs with Effects and Effect Handlers in Coq** (FM 2018)  
   by Thomas Letan, Yann Régis-Gianas, Pierre Chifflier, and Guillaume Hiet  
   ([doi](https://doi.org/10.1007/978-3-319-95582-7_20))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fm/LetanRCH18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fm/LetanRCH18.html?view=bibtex))
   ([metadata](https://hal.inria.fr/hal-01799712))
   ([pdf](https://hal.inria.fr/hal-01799712/document))
 
@@ -845,6 +937,7 @@ in various programming languages.
   by Amr Hany Saleh, Georgios Karachalias, Matija Pretnar, and Tom Schrijvers  
   ([doi](https://doi.org/10.1007/978-3-319-89884-1_12))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/SalehKPS18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/SalehKPS18.html?view=bibtex))
   ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf))
   ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf))
   ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
@@ -853,6 +946,7 @@ in various programming languages.
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([doi](https://doi.org/10.1145/3158096))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/BiernackiPPS18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/BiernackiPPS18.html?view=bibtex))
   ([pdf](https://bitbucket.org/pl-uwr/aleff-logrel/downloads/popl18e.pdf))
   ([Coq formalisation](https://bitbucket.org/pl-uwr/aleff-logrel))
 
@@ -860,6 +954,7 @@ in various programming languages.
   by Danel Ahman  
   ([doi](https://doi.org/10.1145/3158095))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/Ahman18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/Ahman18.html?view=bibtex))
   ([pdf](https://danelahman.github.io/papers/popl18.pdf))
 
 ### 2017
@@ -868,18 +963,21 @@ in various programming languages.
   by Jeremy Yallop  
   ([doi](https://doi.org/10.1145/3110273))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/Yallop17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/Yallop17.html?view=bibtex))
   ([pdf](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))
 
 * **Concurrent System Programming with Effect Handlers** (TFP 2017)  
   by Stephen Dolan, Spiros Eliopolous, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, Leo White  
   ([doi](https://doi.org/10.1007/978-3-319-89719-6_6))
   ([dblp](https://dblp.uni-trier.de/rec/conf/sfp/DolanEHMSW17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/sfp/DolanEHMSW17.html?view=bibtex))
   ([pdf](http://kcsrk.info/papers/system_effects_feb_18.pdf))
 
 * **Handlers for Non-Monadic Computations** (IFL 2017)  
   by Ruben P. Pieters, Tom Schrijvers, and Exequiel Rivas  
   ([doi](https://doi.org/10.1145/3205368.3205372))
   ([dblp](https://dblp.uni-trier.de/rec/conf/ifl/PietersSR17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ifl/PietersSR17.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf))
   ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/617988/1/CW713.pdf))
 
@@ -887,6 +985,7 @@ in various programming languages.
   by Jonathan Immanuel Brachthäuser and Philipp Schuster  
   ([doi](https://doi.org/10.1145/3136000.3136007))
   ([dblp](https://dblp.uni-trier.de/rec/conf/scala/BrachthauserS17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/scala/BrachthauserS17.html?view=bibtex))
 
 * **Efficient Compilation of Algebraic Effects and Handlers**  
   by Matija Pretnar, Amr Hany Saleh, Axel Faes, and Tom Schrijvers  
@@ -896,6 +995,7 @@ in various programming languages.
   by Daan Leijen  
   ([doi](https://doi.org/10.1145/3122975.3122977))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/Leijen17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/Leijen17.html?view=bibtex))
   ([OpenTOC](http://www.sigplan.org/OpenTOC/tyde17.html))
   ([technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf))
 
@@ -903,6 +1003,7 @@ in various programming languages.
   by Daan Leijen  
   ([doi](https://doi.org/10.1007/978-3-319-71237-6_17))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/Leijen17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/Leijen17.html?view=bibtex))
   ([technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/algeff-in-c-tr-v2.pdf))
   ([GitHub](https://github.com/koka-lang/libhandler))
 
@@ -910,12 +1011,14 @@ in various programming languages.
   by Daniel Hillerström, Sam Lindley, Robert Atkey, and KC Sivaramakrishnan  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2017.18))
   ([dblp](https://dblp.uni-trier.de/rec/conf/rta/HillerstromLAS17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/rta/HillerstromLAS17.html?view=bibtex))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers-cps.pdf))
 
 * **On the expressive power of user-defined effects: Effect handlers, monadic reflection, delimited control** (ICFP 2017)  
   by Yannick Forster, Ohad Kammar, Sam Lindley, and Matija Pretnar  
   ([doi](https://doi.org/10.1145/3110257))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/0002KLP17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/0002KLP17.html?view=bibtex))
   ([arxiv](https://arxiv.org/pdf/1610.09161))
 
 * **A Generic Approach to Flow-Sensitive Polymorphic Effects** (ECOOP 2017)  
@@ -949,12 +1052,14 @@ in various programming languages.
   by Marco Gaboardi, Shin-ya Katsumata, Dominic Orchard, Flavien Breuvart, and Tarmo Uustalu  
   ([doi](https://doi.org/10.1145/2951913.2951939))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/GaboardiKOBU16.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/GaboardiKOBU16.html?view=bibtex))
   ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/combining-effects-and-coeffects-icfp16.pdf))
 
 * **Effects as Sessions, Sessions as Effects** (POPL 2016)  
   by Dominic Orchard and Nobuko Yoshida  
   ([doi](https://doi.org/10.1145/2837614.2837634))
   ([dblp](https://dblp.uni-trier.de/rec/conf/popl/OrchardY16.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/OrchardY16.html?view=bibtex))
   ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/popl16-orchard-yoshida.pdf))
 
 * **Effect Systems Revisited -- Control-Flow Algebra and Semantics**  (Semantics, Logics, and Calculi 2016)  
@@ -965,12 +1070,14 @@ in various programming languages.
   by Amr Hany Saleh and Tom Schrijvers  
   ([doi](https://doi.org/10.1017/S147106841600034X))
   ([dblp](https://dblp.uni-trier.de/rec/journals/tplp/SalehS16.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/tplp/SalehS16.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/iclp2016a.pdf))
 
 * **Eff Directly in OCaml** (ML Workshop 2016)  
   by Oleg Kiselyov and KC Sivaramakrishnan  
   ([doi](https://doi.org/10.4204/EPTCS.285.2))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-1812-11664.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-1812-11664.html?view=bibtex))
   ([pdf](http://kcsrk.info/papers/caml-eff17.pdf))
   ([extended abstract](http://kcsrk.info/papers/eff_ocaml_ml16.pdf))
 
@@ -995,6 +1102,7 @@ in various programming languages.
   by Niki Vazou and Daan Leijen  
   ([doi](https://doi.org/10.1007/978-3-319-28228-2_11))
   ([dblp](https://dblp.uni-trier.de/rec/conf/padl/VazouL16.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/padl/VazouL16.html?view=bibtex))
   ([pdf](http://goto.ucsd.edu/~nvazou/koka/padl16.pdf))
 
 ### 2015
@@ -1011,6 +1119,7 @@ in various programming languages.
   by Alexander Vandenbroucke, Tom Schrijvers, and Frank Piessens  
   ([doi](https://doi.org/10.1145/2897336.2897342))
   ([dblp](https://dblp.uni-trier.de/rec/conf/ifl/VandenbrouckeSP15.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ifl/VandenbrouckeSP15.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2015_post.pdf))
 
 * **Customizable Gradual Polymorphic Effects for Scala** (OOPSLA 2015)  
@@ -1021,6 +1130,7 @@ in various programming languages.
   by Oleg Kiselyov and Hiromi Ishii  
   ([doi](https://doi.org/10.1145/2804302.2804319))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovI15.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovI15.html?view=bibtex))
   ([pdf](http://okmij.org/ftp/Haskell/extensible/more.pdf))
 
 * **Programming with Algebraic Effects and Handlers** (JLAMP 2015)  
@@ -1034,6 +1144,7 @@ in various programming languages.
   by Nicolas Wu and Tom Schrijvers  
   ([doi](https://doi.org/10.1007/978-3-319-19797-5_15))
   ([dblp](https://dblp.uni-trier.de/rec/conf/mpc/WuS15.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/mpc/WuS15.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/mpc2015.pdf))
 
 * **Interleaving data and effects** (JFP 2015)  
@@ -1047,6 +1158,7 @@ in various programming languages.
   by Tarmo Uustalu  
   ([doi](https://doi.org/10.1016/j.entcs.2015.12.024))
   ([dblp](https://dblp.uni-trier.de/rec/journals/entcs/Uustalu15.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/entcs/Uustalu15.html?view=bibtex))
 
 ### 2014
 
@@ -1069,12 +1181,14 @@ in various programming languages.
   by Nicolas Wu, Tom Schrijvers and Ralf Hinze  
   ([doi](https://doi.org/10.1145/2633357.2633358))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/WuSH14.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/WuSH14.html?view=bibtex))
   ([pdf](http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf))
 
 * **Embedding effect systems in Haskell** (Haskell 2014)  
   by Dominic Orchard and Tomas Petricek  
   ([doi](https://doi.org/10.1145/2633357.2633368))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/OrchardP14.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/OrchardP14.html?view=bibtex))
   ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/haskell14-effects.pdf))
 
 * **The semantic marriage of monads and effects (extended abstract)** (Unpublished, 2014)  
@@ -1105,6 +1219,7 @@ in various programming languages.
   by Edwin Brady  
   ([doi](https://doi.org/10.1145/2500365.2500581))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/Brady13.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/Brady13.html?view=bibtex))
   ([pdf](https://www.type-driven.org.uk/edwinb/papers/effects.pdf))
 
 * **The constrained-monad problem** (ICFP 2013)  
@@ -1115,6 +1230,7 @@ in various programming languages.
   by Ohad Kammar, Sam Lindley and Nicolas Oury  
   ([doi](https://doi.org/10.1145/2500365.2500590))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/KammarLO13.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/KammarLO13.html?view=bibtex))
   ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf))
   ([GitHub](https://github.com/slindley/effect-handlers))
 
@@ -1122,12 +1238,14 @@ in various programming languages.
   by Oleg Kiselyov, Amr Sabry and Cameron Swords  
   ([doi](https://doi.org/10.1145/2503778.2503791))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovSS13.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovSS13.html?view=bibtex))
   ([pdf](https://www.cs.indiana.edu/~sabry/papers/exteff.pdf))
 
 * **JavaUI: Effects for UI Object Access** (ECOOP 2013)  
   by Colin S. Gordon, Werner Dietl, Michael D. Ernst and Dan Grossman  
   ([doi](http://dx.doi.org/10.1007/978-3-642-39038-8_8))
   ([dblp](https://dblp.uni-trier.de/rec/conf/ecoop/GordonDEG13.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ecoop/GordonDEG13.html?view=bibtex))
   ([pdf](https://www.cs.drexel.edu/~csgordon/papers/ecoop13.pdf))
 
 * **Handling algebraic effects** (LMCS 2013)  
@@ -1141,6 +1259,7 @@ in various programming languages.
   by Danel Ahman and Sam Staton  
   ([doi](https://doi.org/10.1016/j.entcs.2013.09.007))
   ([dblp](https://dblp.uni-trier.de/rec/journals/entcs/AhmanS13.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/entcs/AhmanS13.html?view=bibtex))
   ([pdf](https://danel.ahman.ee/papers/mfps13.pdf))
 
 * **The Sequential Semantics of Producer Effect Systems** (POPL 2013)  
@@ -1179,6 +1298,7 @@ in various programming languages.
   by Jeremy Gibbons and Ralf Hinze
   ([doi](https://doi.org/10.1145/2034773.2034777))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/GibbonsH11.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/GibbonsH11.html?view=bibtex))
 
 ### 2010
 
@@ -1186,6 +1306,7 @@ in various programming languages.
   by Mauro Jaskelioff and Eugenio Moggi
   ([doi](https://doi.org/10.1016/j.tcs.2010.09.011))
   ([dblp](https://dblp.uni-trier.de/rec/journals/tcs/JaskelioffM10.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/tcs/JaskelioffM10.html?view=bibtex))
 
 * **The Operational Monad Tutorial** (The Monad Reader, 2010)  
   by Heinrich Apfelmus
@@ -1427,6 +1548,7 @@ in various programming languages.
 * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
   by Jonathan Immanuel Brachthäuser  
   ([dblp](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html?view=bibtex))
 
 ### 2019
 

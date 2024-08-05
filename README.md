@@ -1344,7 +1344,7 @@ in various programming languages.
 
 * **Types and trace effects of higher-order programs** (JFP 2008)  
   by Christian Skalka, Scott Smith, and David van Horn  
-  ([doi](https://doi.org/10.1017/S0956796807006466))
+  ([doi](https://dl.acm.org/doi/10.1017/S0956796807006466))
 
 ### 2007
 
@@ -1475,8 +1475,7 @@ in various programming languages.
 ### 1988
 
 * **Polymorphic effect systems** (POPL 1988)  
-  by John M. Lucassen and David K. Gifford  
-  ([pdf](http://groups.csail.mit.edu/pag/OLD/parg/lucassen88effects.pdf))
+  by John M. Lucassen and David K. Gifford
 
 * **The FX-87 Interpreter** (ICCL 1988)  
   by Pierre Jouvelot and David K. Gifford  
@@ -1566,7 +1565,7 @@ in various programming languages.
 
 * **Defined Algebraic Operations** (PhD Dissertation, University of Birmingham)  
   by Bram Geron  
-  ([pdf](https://bram.xyz/thesis.pdf))
+  ([pdf](https://etheses.bham.ac.uk//id/eprint/10520/1/Geron2020PhD.pdf))
 
 ### 2018
 

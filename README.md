@@ -205,9 +205,9 @@ in various programming languages.
 
 * **An Introduction to Algebraic Effects and Handlers** (MFPS 2015)  
   by Matija Pretnar  
+  ([doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003))
   ([dblp](https://dblp.uni-trier.de/rec/journals/entcs/Pretnar15.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/entcs/Pretnar15.html?view=bibtex))
-  ([doi](http://dx.doi.org/10.1016/j.entcs.2015.12.003))
   ([pdf](http://www.eff-lang.org/handlers-tutorial.pdf))
 
 ## Papers
@@ -369,13 +369,13 @@ in various programming languages.
 
 * **A Functional Abstraction of Typed Invocation Contexts** (FSCD 2021)  
   by Youyou Cong, Chiaki Ishio, Kaho Honda, and Kenichi Asai  
-  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14250/pdf/LIPIcs-FSCD-2021-12.pdf))
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.12))
+  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14250/pdf/LIPIcs-FSCD-2021-12.pdf))
 
 * **Derivation of a Virtual Machine For Four Variants of Delimited-Control Operators** (FSCD 2021)  
   by Maika Fujii and Kenichi Asai  
-  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14254/pdf/LIPIcs-FSCD-2021-16.pdf))
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2021.16))
+  ([pdf](https://drops.dagstuhl.de/opus/volltexte/2021/14254/pdf/LIPIcs-FSCD-2021-16.pdf))
 
 * **Contextual Effect Polymorphism Meets Bidirectional Effects (Extended Abstract)** (TyDe 2021)  
   by Kazuki Niimi, Youyou Cong, and Jonathan Immanuel Brachthäuser  
@@ -421,8 +421,8 @@ in various programming languages.
 
 * **Asynchronous Effects** (POPL 2021)  
   by Danel Ahman and Matija Pretnar  
-  ([arxiv](https://arxiv.org/abs/2003.02110))
   ([doi](https://doi.org/10.1145/3434305))
+  ([arxiv](https://arxiv.org/abs/2003.02110))
   ([pdf](https://arxiv.org/pdf/2003.02110.pdf))
 
 ### 2020
@@ -802,15 +802,15 @@ in various programming languages.
 
 * **Liberating effects with rows and handlers** (TyDe 2016)  
   by Daniel Hillerström and Sam Lindley  
-  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect.pdf))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/HillerstromL16.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/HillerstromL16.html?view=bibtex))
+  ([pdf](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect.pdf))
 
 * **Dependent Types and Fibred Computational Effects** (FoSSaCS 2016)  
   by Danel Ahman, Neil Ghani, and Gordon Plotkin  
-  ([pdf](https://danelahman.github.io/papers/fossacs16.pdf))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/AhmanGP16.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/AhmanGP16.html?view=bibtex))
+  ([pdf](https://danelahman.github.io/papers/fossacs16.pdf))
   
 * **From Monads to Effects and Back** (PADL 2016)  
   by Niki Vazou and Daan Leijen  
@@ -840,10 +840,10 @@ in various programming languages.
 
 * **Programming with Algebraic Effects and Handlers** (JLAMP 2015)  
   by Andrej Bauer and Matija Pretnar  
-  ([arxiv](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf))
+  ([doi](http://dx.doi.org/10.1016/j.jlamp.2014.02.001))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jlp/BauerP15.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/jlp/BauerP15.html?view=bibtex))
-  ([doi](http://dx.doi.org/10.1016/j.jlamp.2014.02.001))
+  ([arxiv](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf))
 
 * **Fusion for Free: Efficient Algebraic Effect Handlers** (MPC 2015)  
   by Nicolas Wu and Tom Schrijvers  
@@ -851,9 +851,9 @@ in various programming languages.
 
 * **Interleaving data and effects** (JFP 2015)  
   by Robert Atkey and Patricia Johann  
+  ([doi](http://dx.doi.org/10.1017/S0956796815000209))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/AtkeyJ15.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/AtkeyJ15.html?view=bibtex))
-  ([doi](http://dx.doi.org/10.1017/S0956796815000209))
   ([pdf](http://bentnib.org/interleaving.pdf))
 
 * **Stateful Runners of Effectful Computations**  
@@ -890,17 +890,17 @@ in various programming languages.
 
 * **Inferring algebraic effects** (LMCS 2014)  
   by Matija Pretnar  
-  ([arxiv](http://arxiv.org/pdf/1312.2334.pdf))
+  ([doi](http://dx.doi.org/10.2168/LMCS-10%283:21%292014))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/Pretnar13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/Pretnar13.html?view=bibtex))
-  ([doi](http://dx.doi.org/10.2168/LMCS-10%283:21%292014))
+  ([arxiv](http://arxiv.org/pdf/1312.2334.pdf))
 
 * **An Effect System for Algebraic Effects and Handlers** (LMCS 2014)  
   by Andrej Bauer and Matija Pretnar  
-  ([arxiv](http://arxiv.org/pdf/1306.6316.pdf))
+  ([doi](http://dx.doi.org/10.2168/LMCS-10%284:9%292014))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/BauerP13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/BauerP13.html?view=bibtex))
-  ([doi](http://dx.doi.org/10.2168/LMCS-10%284:9%292014))
+  ([arxiv](http://arxiv.org/pdf/1306.6316.pdf))
 
 * **Parametric Effect Monads and Semantics of Effect Systems** (POPL 2014)  
   by Shin-ya Katsumata  
@@ -927,16 +927,16 @@ in various programming languages.
 
 * **JavaUI: Effects for UI Object Access** (ECOOP 2013)  
   by Colin S. Gordon, Werner Dietl, Michael D. Ernst and Dan Grossman  
-  ([dblp](https://dblp.uni-trier.de/rec/conf/ecoop/GordonDEG13.html))
   ([doi](http://dx.doi.org/10.1007/978-3-642-39038-8_8))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/ecoop/GordonDEG13.html))
   ([pdf](https://www.cs.drexel.edu/~csgordon/papers/ecoop13.pdf))
 
 * **Handling algebraic effects** (LMCS 2013)  
   by Gordon Plotkin and Matija Pretnar  
-  ([arxiv](http://arxiv.org/abs/1312.1399))
+  ([doi](http://dx.doi.org/10.2168/LMCS-9%284:23%292013))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/PlotkinP13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/PlotkinP13.html?view=bibtex))
-  ([doi](http://dx.doi.org/10.2168/LMCS-9%284:23%292013))
+  ([arxiv](http://arxiv.org/abs/1312.1399))
 
 * **Normalization by Evaluation and Algebraic Effects** (MFPS 2013)  
   by Danel Ahman and Sam Staton  

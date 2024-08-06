@@ -490,6 +490,8 @@ in various programming languages.
 
 * **Automatic Differentiation via Effects and Handlers: An Implementation in Frank** (PEPM 2021)  
   by Jesse Sigal  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-2101-08095.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-2101-08095.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/2101.08095))
 
 * **Staged Effects and Handlers for Modular Languages with Abstraction** (PEPM 2021)  
@@ -598,6 +600,8 @@ in various programming languages.
 * **A Reflection on Continuation-Composing Style** (FSCD 2020)  
   by Dariusz Biernacki, Mateusz Pyzik, and Filip Sieczkowski  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2020.18))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/fscd/BiernackiPS20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fscd/BiernackiPS20.html?view=bibtex))
   ([pdf](https://drops.dagstuhl.de/opus/volltexte/2020/12340/pdf/LIPIcs-FSCD-2020-18.pdf))
 
 * **Effect Handlers in Haskell, Evidently** (Haskell 2020)  
@@ -845,14 +849,20 @@ in various programming languages.
 
 * **Behavioural Equivalence via Modalities for Algebraic Effects** (ESOP 2018)  
   by Alex Simpson and Niels Voorneveld  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/esop/SimpsonV18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/SimpsonV18.html?view=bibtex))
   ([pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-89884-1.pdf))
 
 * **Call-by-need effects via coeffects** (Open Computer Science 2018)  
   by Dylan McDermott and Alan Mycroft  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/cejcs/McDermottM18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/cejcs/McDermottM18.html?view=bibtex))
   ([pdf](https://www.cl.cam.ac.uk/~dm606/call-by-need-effects.pdf))
 
 * **Pyro: Deep Universal Probabilistic Programming** (2018)  
   by Eli Bingham, Jonathan P. Chen, Martin Jankowiak, Fritz Obermeyer, Neeraj Pradhan, Theofanis Karaletsos, Rohit Singh, Paul Szerlip, Paul Horsfall, and Noah D. Goodman  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-1810-09538.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-1810-09538.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/1810.09538))
 
 * **Automatic Reparameterisation in Probabilistic Programming** (AABI 2018)  
@@ -861,6 +871,8 @@ in various programming languages.
 
 * **Effect Handling for Composable Program Transformations in Edward2** (PROBPROG 2018)  
   by Dave Moore and Maria I. Gorinova  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-1811-06150.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-1811-06150.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/1811.06150))
 
 * **Factorisation Systems for Logical Relations and Monadic Lifting in Type-and-effect System Semantics** (MFPS 2018)  
@@ -871,6 +883,8 @@ in various programming languages.
 
 * **Functional Programming for Modular Bayesian Inference** (ICFP 2018)  
   by Adam Ścibior, Ohad Kammar, and Zoubin Ghahramani  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/ScibiorKG18.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/ScibiorKG18.html?view=bibtex))
   ([pdf](https://api.repository.cam.ac.uk/server/api/core/bitstreams/36a3c9ad-9633-4e69-a96f-fd76d1d49ccd/content))
 
 * **JEff: Objects for Effect** (Onward 2018)  
@@ -1023,6 +1037,8 @@ in various programming languages.
 * **A Generic Approach to Flow-Sensitive Polymorphic Effects** (ECOOP 2017)  
   by Colin S. Gordon  
   ([doi](https://doi.org/10.4230/LIPIcs.ECOOP.2017.13))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/ecoop/Gordon17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ecoop/Gordon17.html?view=bibtex))
   ([pdf](https://drops.dagstuhl.de/storage/00lipics/lipics-vol074-ecoop2017/LIPIcs.ECOOP.2017.13/LIPIcs.ECOOP.2017.13.pdf))
 
 * **Do be do be do** (POPL 2017)  
@@ -1063,6 +1079,8 @@ in various programming languages.
 
 * **Effect Systems Revisited -- Control-Flow Algebra and Semantics** (Semantics, Logics, and Calculi 2016)  
   by Alan Mycroft, Dominic Orchard, and Tomas Petricek  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/birthday/MycroftOP16.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/birthday/MycroftOP16.html?view=bibtex))
   ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/effects-revisited.pdf))
 
 * **Efficient Algebraic Effect Handlers for Prolog** (TPLP/ICLP 2016)  
@@ -1108,6 +1126,8 @@ in various programming languages.
 
 * **Algebraic Effects, Linearity, and Quantum Programming Languages** (POPL 2015)  
   by Sam Staton  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Staton15.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Staton15.html?view=bibtex))
   ([pdf](http://www.cs.ox.ac.uk/people/samuel.staton/papers/popl2015.pdf))
 
 * **Effective Concurrency with Algebraic Effects** (OCaml Workshop 2015)  
@@ -1124,6 +1144,8 @@ in various programming languages.
 * **Customizable Gradual Polymorphic Effects for Scala** (OOPSLA 2015)  
   by Matias Toro and Eric Tanter  
   ([doi](http://doi.acm.org/10.1145/2814270.2814315))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/oopsla/ToroT15.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/oopsla/ToroT15.html?view=bibtex))
 
 * **Freer monads, more extensible effects** (Haskell 2015)  
   by Oleg Kiselyov and Hiromi Ishii  
@@ -1175,6 +1197,8 @@ in various programming languages.
 * **A Theory of Gradual Effect Systems** (ICFP 2014)  
   by Felipe Banados Schwerter, Ronald Garcia and Eric Tanter  
   ([doi](http://doi.acm.org/10.1145/2628136.2628149))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/SchwerterGT14.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/SchwerterGT14.html?view=bibtex))
 
 * **Effect handlers in scope** (Haskell 2014)  
   by Nicolas Wu, Tom Schrijvers and Ralf Hinze  
@@ -1192,6 +1216,8 @@ in various programming languages.
 
 * **The semantic marriage of monads and effects (extended abstract)** (Unpublished, 2014)  
   by Dominic Orchard, Tomas Petricek and Alan Mycroft  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/corr/OrchardPM14.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/OrchardPM14.html?view=bibtex))
   ([pdf](https://arxiv.org/pdf/1401.5391.pdf))
 
 * **Inferring algebraic effects** (LMCS 2014)  
@@ -1211,6 +1237,8 @@ in various programming languages.
 * **Parametric Effect Monads and Semantics of Effect Systems** (POPL 2014)  
   by Shin-ya Katsumata  
   ([doi](https://doi.org/10.1145/2535838.2535846))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Katsumata14.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Katsumata14.html?view=bibtex))
 
 ### 2013
 
@@ -1223,6 +1251,8 @@ in various programming languages.
 
 * **The constrained-monad problem** (ICFP 2013)  
   by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/SculthorpeBGG13.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/SculthorpeBGG13.html?view=bibtex))
   ([pdf](http://neilsculthorpe.com/publications/constrained-monad-problem.pdf))
 
 * **Handlers in action** (ICFP 2013)  
@@ -1264,12 +1294,16 @@ in various programming languages.
 * **The Sequential Semantics of Producer Effect Systems** (POPL 2013)  
   by Ross Tate  
   ([doi](https://doi.org/10.1145/2429069.2429074))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Tate13.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Tate13.html?view=bibtex))
 
 ### 2012
 
-* **Lighweight Polymorphic Effects** (ECOOP 2012)  
+* **Lightweight Polymorphic Effects** (ECOOP 2012)  
   by Lukas Rytz, Martin Odersky and Philipp Haller  
   ([doi](http://dx.doi.org/10.1007/978-3-642-31057-7_13))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/ecoop/RytzOH12.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ecoop/RytzOH12.html?view=bibtex))
 
 * **The Frank Manual** (2012)  
   by Conor McBride  
@@ -1285,13 +1319,19 @@ in various programming languages.
 
 * **Idioms are Oblivious, Arrows are Meticulous, Monads are Promiscuous** (ENTCS 2011)  
   by Sam Lindley, Philip Wadler and Jeremy Yallop
+  ([dblp](https://dblp.uni-trier.de/rec/journals/entcs/LindleyWY11.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/entcs/LindleyWY11.html?view=bibtex))
 
 * **Lightweight Monadic Programming in ML** (ICFP 2011)  
   by Nikhil Swamy, Nataliya Guts, Daan Leijen and Michael Hicks  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/SwamyGLH11.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/SwamyGLH11.html?view=bibtex))
   ([pdf](http://www.cs.umd.edu/~mwh/papers/monadic.pdf))
 
 * **Monads, zippers and views: virtualizing the monad stack** (ICFP 2011)  
   by Tom Schrijvers and Bruno C.d.S. Oliveira
+  ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/SchrijversO11.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/SchrijversO11.html?view=bibtex))
 
 * **Just Do It: Simple Monadic Equational Reasoning** (ICFP 2011)  
   by Jeremy Gibbons and Ralf Hinze  
@@ -1314,105 +1354,153 @@ in various programming languages.
 
 * **Handlers of Algebraic Effects** (ESOP 2009)  
   by Gordon Plotkin and Matija Pretnar  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/esop/PlotkinP09.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/PlotkinP09.html?view=bibtex))
   ([pdf](http://homepages.inf.ed.ac.uk/gdp/publications/Effect_Handlers.pdf))
 
 * **Parameterised Notions of Computation** (JFP 2009)  
   by Robert Atkey  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/Atkey09.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/Atkey09.html?view=bibtex))
   ([pdf](http://bentnib.org/paramnotions-jfp.pdf))
 
 * **Algebras for Parameterised Monads** (CALCO 2009)  
   by Robert Atkey  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/calco/Atkey09.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/calco/Atkey09.html?view=bibtex))
   ([pdf](http://bentnib.org/algebras-param-monads.pdf))
 
 ### 2008
 
 * **Lightweight Monadic Regions** (Haskell 2008)  
   by Oleg Kiselyov and Chung-chieh Shan
+  ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovS08.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovS08.html?view=bibtex))
 
 * **A Logic for Algebraic Effects** (LICS 2008)  
   by Gordon Plotkin and Matija Pretnar  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/lics/PlotkinP08.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/lics/PlotkinP08.html?view=bibtex))
   ([pdf](http://homepages.inf.ed.ac.uk/gdp/publications/Logic_Algebraic_Effects.pdf))
 
 * **What is a Categorical Model of Arrows?** (MSFP 2008)  
   by Robert Atkey  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/entcs/Atkey11.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/entcs/Atkey11.html?view=bibtex))
   ([pdf](http://bentnib.org/arrows.pdf))
 
 * **Data types a la carte** (JFP 2008)  
   by Wouter Swierstra  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/Swierstra08.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/Swierstra08.html?view=bibtex))
   ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/14416CB20C4637164EA9F77097909409/S0956796808006758a.pdf))
 
 * **Types and trace effects of higher-order programs** (JFP 2008)  
   by Christian Skalka, Scott Smith, and David van Horn  
   ([doi](https://dl.acm.org/doi/10.1017/S0956796807006466))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/SkalkaSH08.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/SkalkaSH08.html?view=bibtex))
 
 ### 2007
 
 * **Combining algebraic effects with continuations** (Theor. Comput. Sci. 2007)  
   by Martin Hyland, Paul Blain Levy, Gordon Plotkin and John Power
+  ([dblp](https://dblp.uni-trier.de/rec/journals/tcs/HylandLPP07.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/tcs/HylandLPP07.html?view=bibtex))
 
 ### 2006
 
 * **Programming Monads Operationally with Unimo** (ICFP 2006)  
   by Chuan-kai Lin
+  ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/Lin06.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/Lin06.html?view=bibtex))
 
 * **Monadic Regions** (JFP 2006)  
   by Matthew Fluet and J. Gregory Morrisett
+  ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/FluetM06.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/FluetM06.html?view=bibtex))
 
 ### 2003
 
 * **A Monadic Multi-stage Metalanguage** (FOSSACS 2003)  
   by Eugenio Moggi and Sonia Fagorzi  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/MoggiF03.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/MoggiF03.html?view=bibtex))
   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/fossacs03.pdf))
 
 * **Algebraic Operations and Generic Effects** (Applied categorical structures, 2003)  
   by Gordon D. Plotkin and John Power  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/acs/PlotkinP03.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/acs/PlotkinP03.html?view=bibtex))
   ([pdf](http://homepages.inf.ed.ac.uk/gdp/publications/alg_ops_gen_effects.pdf))
 
 * **The Marriage of Effects and Monads** (Trans. Comp. Logic, 2003)  
   by Philip Wadler and Peter Thiemann
+  ([dblp](https://dblp.uni-trier.de/rec/journals/tocl/WadlerT03.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/tocl/WadlerT03.html?view=bibtex))
 
 ### 2002
 
 * **Composing Monads Using Coproducts** (ICFP 2002)  
   by Christoph Lüth and Neil Ghani
+  ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/LuthG02.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/LuthG02.html?view=bibtex))
 
 * **Notions of computation determine monads** (FoSSaCS 2002)  
   by Gordon D. Plotkin and John Power
+  ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/PlotkinP02.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/PlotkinP02.html?view=bibtex))
 
 ### 2001
 
 * **Monadic Encapsulation of Effects: A Revised Approach (Extended Version)** (JFP 2001)  
   by Eugenio Moggi and Amr Sabry
+  ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/MoggiS01.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/MoggiS01.html?view=bibtex))
 
 * **Adequacy for algebraic effects** (FoSSaCS 2001)  
   by Gordon D. Plotkin and John Power
+  ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/PlotkinP01.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/PlotkinP01.html?view=bibtex))
 
 ### 2000
 
 * **Deriving Backtracking Monad Transformers** (ICFP 2000)  
   by Ralf Hinze
+  ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/Hinze00.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/Hinze00.html?view=bibtex))
 
 * **Monads and Effects** (APPSEM 2000)  
   by Nick Benton, John Hughes and Eugenio Moggi
+  ([dblp](https://dblp.uni-trier.de/rec/conf/ac/BentonHM00.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/ac/BentonHM00.html?view=bibtex))
 
 ### 1999
 
 * **Representing layered monads** (POPL 1999)  
   by Andrzej Filinski  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Filinski99.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Filinski99.html?view=bibtex))
   ([ps.gz](http://hjemmesider.diku.dk/~andrzej/papers/RLM.ps.gz))
 
 ### 1995
 
 * **Monad Transformers and Modular Interpreters** (POPL 1995)  
   by Sheng Liang, Paul Hudak and Mark Jones
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/LiangHJ95.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/LiangHJ95.html?view=bibtex))
 
 * **Monads for functional programming** (1995)  
   by Philip Wadler
+  ([dblp](https://dblp.uni-trier.de/rec/conf/afp/Wadler95.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/afp/Wadler95.html?view=bibtex))
 
 ### 1994
 
 * **Extensible Denotational Language Specifications** (TACS 1994)  
   by Robert Cartwright and Matthias Felleisen  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/tacs/CartwrightF94.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/tacs/CartwrightF94.html?view=bibtex))
   ([ps.gz](http://www.cs.rice.edu/CS/PLT/Publications/Scheme/tacs94-cf.ps.gz))
 
 * **Building interpreters by transforming stratified monads** (Unpublished, 1994)  
@@ -1421,20 +1509,25 @@ in various programming languages.
 
 * **Representing monads** (POPL 1994)  
   by Andrzej Filinski
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Filinski94.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Filinski94.html?view=bibtex))
 
 * **Building Interpreters by Composing Monads** (POPL 1994)  
   by Guy L. Steele, Jr.
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Steele94.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Steele94.html?view=bibtex))
 
 * **Monads and composable continuations** (J. Lisp & Symb. Comp. 1994)  
   by Philip Wadler
+  ([dblp](https://dblp.uni-trier.de/rec/journals/lisp/Wadler94.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/lisp/Wadler94.html?view=bibtex))
 
 ### 1993
 
 * **Imperative Functional Programming** (POPL 1993)  
   by Simon Peyton Jones and Philip Wadler
-
-* **Combining Monads** (Functional Programming, 1993)  
-  by David J. King and Philip Wadler
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/JonesW93.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/JonesW93.html?view=bibtex))
 
 * **How to Compose Monads** (Thinking Machines Corporation tech. report, 1993)  
   by Guy L. Steele, Jr.
@@ -1445,27 +1538,42 @@ in various programming languages.
 
 ### 1992
 
+* **Combining Monads** (Functional Programming, 1992)  
+  by David J. King and Philip Wadler
+  ([dblp](https://dblp.uni-trier.de/rec/conf/fp/KingW92.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/fp/KingW92.html?view=bibtex))
+
 * **The essence of functional programming** (POPL 1992)  
   by Philip Wadler
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Wadler92.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Wadler92.html?view=bibtex))
 
 ### 1991
 
 * **Notions of computation and monads** (Information and Computation, 93(1), 1991)  
   by Eugenio Moggi  
+  ([dblp](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html?view=bibtex))
   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf))
 
 ### 1990
 
 * **Comprehending Monads** (Lisp and Functional Programming, 1990)  
   by Philip Wadler
+  ([dblp](https://dblp.uni-trier.de/rec/conf/lfp/Wadler90.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/lfp/Wadler90.html?view=bibtex))
 
 * **Abstracting Control** (LFP 1990)  
   by Olivier Danvy and Andrzej Filinski
+  ([dblp](https://dblp.uni-trier.de/rec/conf/lfp/DanvyF90.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/lfp/DanvyF90.html?view=bibtex))
 
 ### 1989
 
 * **Computational lambda-calculus and monads** (LICS 1989)  
   by Eugenio Moggi  
+  ([dblp](https://dblp.uni-trier.de/rec/conf/lics/Moggi89.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/lics/Moggi89.html?view=bibtex))
   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf))
 
 * **An abstract view of programming languages** (Ed. Uni. Tech Report, 1989)  
@@ -1475,10 +1583,14 @@ in various programming languages.
 
 * **Polymorphic effect systems** (POPL 1988)  
   by John M. Lucassen and David K. Gifford
+  ([dblp](https://dblp.uni-trier.de/rec/conf/popl/LucassenG88.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/LucassenG88.html?view=bibtex))
 
 * **The FX-87 Interpreter** (ICCL 1988)  
   by Pierre Jouvelot and David K. Gifford  
   ([doi](https://doi.org/10.1109%2FICCL.1988.13044))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/iccl/JouvelotG88.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/iccl/JouvelotG88.html?view=bibtex))
 
 ## Theses and Dissertations
 
@@ -1541,6 +1653,8 @@ in various programming languages.
 * **Relational Reasoning for Effects and Handlers** (PhD Dissertation, The University of Edinburgh)  
   by Craig McLaughlin  
   ([doi](http://dx.doi.org/10.7488/era/537))
+  ([dblp](https://dblp.uni-trier.de/rec/phd/ethos/McLaughlin20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/phd/ethos/McLaughlin20.html?view=bibtex))
   ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
 
 * **Design and Implementation of Effect Handlers for Object-Oriented Programming Languages** (PhD Dissertation, University of Tübingen)  
@@ -1564,6 +1678,8 @@ in various programming languages.
 
 * **Defined Algebraic Operations** (PhD Dissertation, University of Birmingham)  
   by Bram Geron  
+  ([dblp](https://dblp.uni-trier.de/rec/phd/ethos/Geron20.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/phd/ethos/Geron20.html?view=bibtex))
   ([pdf](https://etheses.bham.ac.uk//id/eprint/10520/1/Geron2020PhD.pdf))
 
 ### 2018
@@ -1576,6 +1692,8 @@ in various programming languages.
 
 * **Distributive Interaction of Algebraic Effects** (PhD Dissertation, University of Oxford)  
   by Kwok-Ho Cheung  
+  ([dblp](https://dblp.uni-trier.de/rec/phd/ethos/Cheung17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/phd/ethos/Cheung17.html?view=bibtex))
   ([pdf](https://ora.ox.ac.uk/objects/uuid:66106628-0a71-4564-bc34-c398db766818/download_file?file_format=pdf&safe_filename=report.pdf&type_of_work=Thesis))
 
 * **Enhancing a Modular Effectful Programming Language** (MSc Dissertation, The University of Edinburgh)  
@@ -1584,6 +1702,8 @@ in various programming languages.
 
 * **Fibred Computational Effects** (PhD Dissertation, The University of Edinburgh)  
   by Danel Ahman  
+  ([dblp](https://dblp.uni-trier.de/rec/phd/ethos/Ahman17.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/phd/ethos/Ahman17.html?view=bibtex))
   ([pdf](https://danel.ahman.ee/papers/phd-thesis.pdf))
 
 ### 2016
@@ -1606,6 +1726,8 @@ in various programming languages.
 
 * **The Logic and Handling of Algebraic Effects** (PhD Dissertation, The University of Edinburgh)  
   by Matija Pretnar  
+  ([dblp](https://dblp.uni-trier.de/rec/phd/ethos/Pretnar10.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/phd/ethos/Pretnar10.html?view=bibtex))
   ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
 
 ### 1996

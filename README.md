@@ -282,7 +282,6 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/conf/ppdp/IkemoriCM23.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/ppdp/IkemoriCM23.html?view=bibtex))
   ([pdf](https://prg.is.titech.ac.jp/papers/pdf/ppdp2023.pdf))
-  ([bibtex](https://dblp.org/rec/conf/ppdp/IkemoriCM23.html?view=bibtex))
 
 * **Error Localization for Sequential Effect Systems** (SAS 2023)  
   by Colin S. Gordon, Chaewon Yun  
@@ -426,7 +425,7 @@ in various programming languages.
   ([pdf](https://software.imdea.org/~aleks/icfp21/icfp21.pdf))
 
 * **Reasoning about Effect Interaction by Fusion** (ICFP 2021)  
-  by Zhixuan Yang and Nicolas Wu
+  by Zhixuan Yang and Nicolas Wu  
   ([doi](https://doi.org/10.1145/3473578))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/YangW21.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/YangW21.html?view=bibtex))
@@ -555,7 +554,7 @@ in various programming languages.
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3406088.3409023))
 
 * **Handling Bidirectional Control Flow** (OOPSLA 2020)  
-  Yizhou Zhang, Guido Salvaneschi, and Andrew C. Myers  
+  by Yizhou Zhang, Guido Salvaneschi, and Andrew C. Myers  
   ([doi](https://doi.org/10.1145/3428207))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/ZhangSM20.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/ZhangSM20.html?view=bibtex))
@@ -704,35 +703,35 @@ in various programming languages.
   ([doi](https://doi.org/10.4204/EPTCS.317.3))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-00197.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-00197.html?view=bibtex))
-  ([pdf](https://arxiv.org/pdf/2005.00197v1.pdf))  
+  ([pdf](https://arxiv.org/pdf/2005.00197v1.pdf))
 
 * **From Equations to Distinctions: Two Interpretations of Effectful Computations** (MSFP 2020)  
   by Niels Voorneveld  
   ([doi](https://doi.org/10.4204/EPTCS.317.1))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-00196.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-00196.html?view=bibtex))
-  ([pdf](https://arxiv.org/pdf/2005.00196.pdf))  
-  
+  ([pdf](https://arxiv.org/pdf/2005.00196.pdf))
+
 * **Unifying graded and parameterised monads** (MSFP 2020)  
   by Dominic Orchard, Philip Wadler and Harley Eades III  
   ([doi](https://doi.org/10.4204/EPTCS.317.2))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-2001-10274.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-2001-10274.html?view=bibtex))
-  ([pdf](https://arxiv.org/pdf/2001.10274.pdf))  
+  ([pdf](https://arxiv.org/pdf/2001.10274.pdf))
 
 * **Local Algebraic Effect Theories** (JFP 2020)  
   by Žiga Lukšič and Matija Pretnar  
   ([doi](https://doi.org/10.1017/S0956796819000212))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/LuksicP20.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/LuksicP20.html?view=bibtex))
-  ([arxiv](https://arxiv.org/abs/2005.13654))  
+  ([arxiv](https://arxiv.org/abs/2005.13654))
 
 * **Explicit Effect Subtyping** (JFP 2020)  
   by Georgios Karachalias, Matija Pretnar, Amr Hany Saleh, Stien Vanderhallen and Tom Schrijvers  
   ([doi](https://doi.org/10.1017/S0956796820000131))
   ([dblp](https://dblp.uni-trier.de/rec/journals/jfp/KarachaliasPSVS20.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/KarachaliasPSVS20.html?view=bibtex))
-  ([arxiv](https://arxiv.org/abs/2005.13814))  
+  ([arxiv](https://arxiv.org/abs/2005.13814))
 
 * **The Fire Triangle: How to Mix Substitution, Dependent Elimination, and Effects** (POPL 2020)  
   by Pierre-Marie Pédrot and Nicolas Tabareau  
@@ -764,7 +763,7 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/MaillardAAMHRT19.html?view=bibtex))
   ([pdf](https://arxiv.org/abs/1903.01237))
 
-* **A predicate transformer semantics for effects (Functional Pearl)** (ICFP 2020)  
+* **A predicate transformer semantics for effects (Functional Pearl)** (ICFP 2019)  
   by Wouter Swierstra and Anne Baanen  
   ([doi](https://doi.org/10.1145/3341707))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/SwierstraB19.html))
@@ -801,14 +800,14 @@ in various programming languages.
   ([pdf](https://lmcs.episciences.org/5508/pdf))
 
 * **Typed equivalence of effect handlers and delimited control** (FSCD 2019)  
-  Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
+  by Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2019.30))
   ([dblp](https://dblp.uni-trier.de/rec/conf/rta/PirogPS19.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/rta/PirogPS19.html?view=bibtex))
   ([pdf](https://maciejpirog.github.io/papers/typed-equivalence-fscd2019.pdf))
 
 * **Handling Polymorphic Algebraic Effects** (ESOP 2019)  
-  Taro Sekiyama and Atsushi Igarashi  
+  by Taro Sekiyama and Atsushi Igarashi  
   ([doi](https://doi.org/10.1007/978-3-030-17184-1_13))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/SekiyamaI19.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/SekiyamaI19.html?view=bibtex))
@@ -852,9 +851,9 @@ in various programming languages.
   by Dylan McDermott and Alan Mycroft  
   ([pdf](https://www.cl.cam.ac.uk/~dm606/call-by-need-effects.pdf))
 
-* **Pyro: Deep Universal Probabilistic Programming**  
+* **Pyro: Deep Universal Probabilistic Programming** (2018)  
   by Eli Bingham, Jonathan P. Chen, Martin Jankowiak, Fritz Obermeyer, Neeraj Pradhan, Theofanis Karaletsos, Rohit Singh, Paul Szerlip, Paul Horsfall, and Noah D. Goodman  
-  ([arvix](https://arxiv.org/abs/1810.09538))
+  ([arxiv](https://arxiv.org/abs/1810.09538))
 
 * **Automatic Reparameterisation in Probabilistic Programming** (AABI 2018)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
@@ -862,7 +861,7 @@ in various programming languages.
 
 * **Effect Handling for Composable Program Transformations in Edward2** (PROBPROG 2018)  
   by Dave Moore and Maria I. Gorinova  
-  ([arvix](https://arxiv.org/abs/1811.06150))
+  ([arxiv](https://arxiv.org/abs/1811.06150))
 
 * **Factorisation Systems for Logical Relations and Monadic Lifting in Type-and-effect System Semantics** (MFPS 2018)  
   by Ohad Kammar and Dylan McDermott  
@@ -894,7 +893,7 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/Goncalves18.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/Goncalves18.html?view=bibtex))
 
-* **Syntax and Semantics for Operations with Scopes**  (LICS 2018)  
+* **Syntax and Semantics for Operations with Scopes** (LICS 2018)  
   by Maciej Piróg, Tom Schrijvers, Nicolas Wu, and Mauro Jaskelioff  
   ([doi](https://doi.org/10.1145/3209108.3209166))
   ([dblp](https://dblp.uni-trier.de/rec/conf/lics/PirogSWJ18.html))
@@ -987,7 +986,7 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/conf/scala/BrachthauserS17.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/scala/BrachthauserS17.html?view=bibtex))
 
-* **Efficient Compilation of Algebraic Effects and Handlers**  
+* **Efficient Compilation of Algebraic Effects and Handlers** (2017)  
   by Matija Pretnar, Amr Hany Saleh, Axel Faes, and Tom Schrijvers  
   ([technical report](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW708.pdf))
 
@@ -1062,7 +1061,7 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/OrchardY16.html?view=bibtex))
   ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/popl16-orchard-yoshida.pdf))
 
-* **Effect Systems Revisited -- Control-Flow Algebra and Semantics**  (Semantics, Logics, and Calculi 2016)  
+* **Effect Systems Revisited -- Control-Flow Algebra and Semantics** (Semantics, Logics, and Calculi 2016)  
   by Alan Mycroft, Dominic Orchard, and Tomas Petricek  
   ([pdf](https://www.cs.kent.ac.uk/people/staff/dao7/publ/effects-revisited.pdf))
 
@@ -1097,7 +1096,7 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/AhmanGP16.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/AhmanGP16.html?view=bibtex))
   ([pdf](https://danelahman.github.io/papers/fossacs16.pdf))
-  
+
 * **From Monads to Effects and Back** (PADL 2016)  
   by Niki Vazou and Daan Leijen  
   ([doi](https://doi.org/10.1007/978-3-319-28228-2_11))
@@ -1154,7 +1153,7 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/journals/jfp/AtkeyJ15.html?view=bibtex))
   ([pdf](http://bentnib.org/interleaving.pdf))
 
-* **Stateful Runners of Effectful Computations**  
+* **Stateful Runners of Effectful Computations** (MFPS 2015)  
   by Tarmo Uustalu  
   ([doi](https://doi.org/10.1016/j.entcs.2015.12.024))
   ([dblp](https://dblp.uni-trier.de/rec/journals/entcs/Uustalu15.html))
@@ -1295,7 +1294,7 @@ in various programming languages.
   by Tom Schrijvers and Bruno C.d.S. Oliveira
 
 * **Just Do It: Simple Monadic Equational Reasoning** (ICFP 2011)  
-  by Jeremy Gibbons and Ralf Hinze
+  by Jeremy Gibbons and Ralf Hinze  
   ([doi](https://doi.org/10.1145/2034773.2034777))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/GibbonsH11.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/GibbonsH11.html?view=bibtex))
@@ -1303,7 +1302,7 @@ in various programming languages.
 ### 2010
 
 * **Monad transformers as monoid transformers** (Theor. Comp. Science 2010)  
-  by Mauro Jaskelioff and Eugenio Moggi
+  by Mauro Jaskelioff and Eugenio Moggi  
   ([doi](https://doi.org/10.1016/j.tcs.2010.09.011))
   ([dblp](https://dblp.uni-trier.de/rec/journals/tcs/JaskelioffM10.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/tcs/JaskelioffM10.html?view=bibtex))
@@ -1408,7 +1407,7 @@ in various programming languages.
   by Sheng Liang, Paul Hudak and Mark Jones
 
 * **Monads for functional programming** (1995)  
-  Philip Wadler
+  by Philip Wadler
 
 ### 1994
 
@@ -1438,7 +1437,7 @@ in various programming languages.
   by David J. King and Philip Wadler
 
 * **How to Compose Monads** (Thinking Machines Corporation tech. report, 1993)  
-  Guy L. Steele, Jr.
+  by Guy L. Steele, Jr.
 
 * **Modular denotational semantics** (Unpublished, 1993)  
   by David Espinosa  
@@ -1458,7 +1457,7 @@ in various programming languages.
 ### 1990
 
 * **Comprehending Monads** (Lisp and Functional Programming, 1990)  
-  Philip Wadler
+  by Philip Wadler
 
 * **Abstracting Control** (LFP 1990)  
   by Olivier Danvy and Andrzej Filinski

@@ -272,7 +272,7 @@ in various programming languages.
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3622831))
 
 * **Continuing WebAssembly with Effect Handlers** (OOPSLA 2023)  
-  by Luna Phipps-Costin, Andreas Rossberg, Arjun Guha, Daan Leijen, Daniel Hillerström, KC Sivaramakrishnan, Matija Pretnar, and Sam Lindley  
+  by Luna Phipps-Costin, Andreas Rossberg, Arjun Guha, Daan Leijen, Daniel Hillerström, K. C. Sivaramakrishnan, Matija Pretnar, and Sam Lindley  
   ([doi](https://doi.org/10.1145/3622814))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/PhippsCostinRGLHSPL23.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/PhippsCostinRGLHSPL23.html?view=bibtex))
@@ -478,7 +478,7 @@ in various programming languages.
   ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/handler-calculus-draft-may2021.pdf))
 
 * **Retrofitting effect handlers onto OCaml** (PLDI 2021)  
-  by KC Sivaramakrishnan, Stephen Dolan, Leo White, Tom Kelly, Sadiq Jaffer, and Anil Madhavapeddy  
+  by K. C. Sivaramakrishnan, Stephen Dolan, Leo White, Tom Kelly, Sadiq Jaffer, and Anil Madhavapeddy  
   ([doi](https://doi.org/10.1145/3453483.3454039))
   ([dblp](https://dblp.uni-trier.de/rec/conf/pldi/Sivaramakrishnan21.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/pldi/Sivaramakrishnan21.html?view=bibtex))
@@ -813,7 +813,7 @@ in various programming languages.
 
 * **Bisimulations for Delimited-Control Operators** (LMCS 2019)  
   by Dariusz Biernacki, Sergueï Lenglet, and Piotr Polesiuk  
-  ([doi](https://doi.org/10.23638/LMCS-15%282:18%292019))
+  ([doi](https://doi.org/10.23638/LMCS-15(2:18)2019))
   ([dblp](https://dblp.uni-trier.de/rec/journals/lmcs/BiernackiLP19a.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/lmcs/BiernackiLP19a.html?view=bibtex))
   ([pdf](https://lmcs.episciences.org/5508/pdf))
@@ -1001,7 +1001,7 @@ in various programming languages.
   ([pdf](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))
 
 * **Concurrent System Programming with Effect Handlers** (TFP 2017)  
-  by Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+  by Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, K. C. Sivaramakrishnan, and Leo White  
   ([doi](https://doi.org/10.1007/978-3-319-89719-6_6))
   ([dblp](https://dblp.uni-trier.de/rec/conf/sfp/DolanEHMSW17.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/sfp/DolanEHMSW17.html?view=bibtex))
@@ -1042,7 +1042,7 @@ in various programming languages.
   ([GitHub](https://github.com/koka-lang/libhandler))
 
 * **Continuation Passing Style for Effect Handlers** (FSCD 2017)  
-  by Daniel Hillerström, Sam Lindley, Robert Atkey, and KC Sivaramakrishnan  
+  by Daniel Hillerström, Sam Lindley, Robert Atkey, and K. C. Sivaramakrishnan  
   ([doi](https://doi.org/10.4230/LIPIcs.FSCD.2017.18))
   ([dblp](https://dblp.uni-trier.de/rec/conf/rta/HillerstromLAS17.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/rta/HillerstromLAS17.html?view=bibtex))
@@ -1116,7 +1116,7 @@ in various programming languages.
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/iclp2016a.pdf))
 
 * **Eff Directly in OCaml** (ML Workshop 2016)  
-  by Oleg Kiselyov and KC Sivaramakrishnan  
+  by Oleg Kiselyov and K. C. Sivaramakrishnan  
   ([doi](https://doi.org/10.4204/EPTCS.285.2))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/abs-1812-11664.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/abs-1812-11664.html?view=bibtex))
@@ -1169,7 +1169,7 @@ in various programming languages.
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2015_post.pdf))
 
 * **Customizable gradual polymorphic effects for Scala** (OOPSLA 2015)  
-  by Matias Toro and Eric Tanter
+  by Matías Toro and Éric Tanter  
   ([doi](https://doi.org/10.1145/2814270.2814315))
   ([dblp](https://dblp.uni-trier.de/rec/conf/oopsla/ToroT15.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/oopsla/ToroT15.html?view=bibtex))
@@ -1250,7 +1250,7 @@ in various programming languages.
 
 * **Inferring Algebraic Effects** (LMCS 2014)  
   by Matija Pretnar  
-  ([doi](http://dx.doi.org/10.2168/LMCS-10%283:21%292014))
+  ([doi](https://doi.org/10.2168/LMCS-10(3:21)2014))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/Pretnar13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/Pretnar13.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/1312.2334))
@@ -1258,13 +1258,13 @@ in various programming languages.
 
 * **An Effect System for Algebraic Effects and Handlers** (LMCS 2014)  
   by Andrej Bauer and Matija Pretnar  
-  ([doi](http://dx.doi.org/10.2168/LMCS-10%284:9%292014))
+  ([doi](https://doi.org/10.2168/LMCS-10(4:9)2014))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/BauerP13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/BauerP13.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/1306.6316))
   ([pdf](https://arxiv.org/pdf/1306.6316))
 
-* **Parametric Effect Monads and Semantics of Effect Systems** (POPL 2014)  
+* **Parametric effect monads and semantics of effect systems** (POPL 2014)  
   by Shin-ya Katsumata  
   ([doi](https://doi.org/10.1145/2535838.2535846))
   ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Katsumata14.html))
@@ -1273,14 +1273,15 @@ in various programming languages.
 ### 2013
 
 * **Programming and reasoning with algebraic effects and dependent types** (ICFP 2013)  
-  by Edwin Brady  
+  by Edwin C. Brady  
   ([doi](https://doi.org/10.1145/2500365.2500581))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/Brady13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/Brady13.html?view=bibtex))
   ([pdf](https://www.type-driven.org.uk/edwinb/papers/effects.pdf))
 
 * **The constrained-monad problem** (ICFP 2013)  
-  by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill  
+  by Neil Sculthorpe, Jan Bracker, George Giorgidze, and Andy Gill  
+  ([doi](https://doi.org/10.1145/2500365.2500602))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/SculthorpeBGG13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/SculthorpeBGG13.html?view=bibtex))
   ([pdf](http://neilsculthorpe.com/publications/constrained-monad-problem.pdf))
@@ -1309,7 +1310,7 @@ in various programming languages.
 
 * **Handling Algebraic Effects** (LMCS 2013)  
   by Gordon D. Plotkin and Matija Pretnar  
-  ([doi](https://doi.org/10.2168/LMCS-9%284:23%292013))
+  ([doi](https://doi.org/10.2168/LMCS-9(4:23)2013))
   ([dblp](https://dblp.uni-trier.de/rec/journals/corr/PlotkinP13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/corr/PlotkinP13.html?view=bibtex))
   ([arxiv](https://arxiv.org/abs/1312.1399))
@@ -1362,7 +1363,7 @@ in various programming languages.
   ([pdf](http://www.cs.umd.edu/~mwh/papers/monadic.pdf))
 
 * **Monads, zippers and views: virtualizing the monad stack** (ICFP 2011)  
-  by Tom Schrijvers and Bruno C.d.S. Oliveira  
+  by Tom Schrijvers and Bruno C. d. S. Oliveira  
   ([doi](https://doi.org/10.1145/2034773.2034781))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/SchrijversO11.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/SchrijversO11.html?view=bibtex))
@@ -1571,7 +1572,7 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Filinski94.html?view=bibtex))
 
 * **Building Interpreters by Composing Monads** (POPL 1994)  
-  by Guy L. Steele, Jr.  
+  by Guy L. Steele Jr.  
   ([doi](https://doi.org/10.1145/174675.178068))
   ([dblp](https://dblp.uni-trier.de/rec/conf/popl/Steele94.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/Steele94.html?view=bibtex))
@@ -1590,7 +1591,7 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/conf/popl/JonesW93.html?view=bibtex))
 
 * **How to Compose Monads** (Thinking Machines Corporation tech. report, 1993)  
-  by Guy L. Steele, Jr.
+  by Guy L. Steele Jr.
 
 * **Modular denotational semantics** (Unpublished, 1993)  
   by David Espinosa  
@@ -1612,9 +1613,9 @@ in various programming languages.
 
 ### 1991
 
-* **Notions of computation and monads** (Information and Computation, 93(1), 1991)  
+* **Notions of Computation and Monads** (Information and Computation, 93(1), 1991)  
   by Eugenio Moggi  
-  ([doi](https://doi.org/10.1016/0890-5401%2891%2990052-4))
+  ([doi](https://doi.org/10.1016/0890-5401(91)90052-4))
   ([dblp](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html?view=bibtex))
   ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf))
@@ -1635,7 +1636,7 @@ in various programming languages.
 
 ### 1989
 
-* **Computational lambda-calculus and monads** (LICS 1989)  
+* **Computational Lambda-Calculus and Monads** (LICS 1989)  
   by Eugenio Moggi  
   ([doi](https://doi.org/10.1109/LICS.1989.39155))
   ([dblp](https://dblp.uni-trier.de/rec/conf/lics/Moggi89.html))

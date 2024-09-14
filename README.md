@@ -38,9 +38,9 @@ in various programming languages.
   by Jason Butler  
   ([GitHub](https://github.com/nythrox/effects.js))
 
-* **Effekt Language**: A research language with effect handlers and lightweight effect polymorphism  
+* **Effekt Language**: A language with lexical effect handlers and lightweight effect polymorphism  
   by Jonathan Brachthäuser, Philipp Schuster, and Klaus Ostermann  
-  ([www](https://effekt-lang.github.io/effekt-website/))
+  ([www](https://effekt-lang.org))
 
 * **EvEff**: A Haskell library for programming with evidence-translated effect handlers  
   by Daan Leijen and Ningning Xie  

@@ -21,4 +21,4 @@ jobs:
         uses: lycheeverse/lychee-action@v1.8.0
         with:
           fail: true
-          args: "--cache --max-redirects 10 --max-cache-age 1d ."
+          args: "--timeout 120 --cache --max-redirects 10 --max-cache-age 1d ."

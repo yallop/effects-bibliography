@@ -264,6 +264,14 @@ in various programming languages.
 
 ### 2023
 
+* **Verifying an Effect-Handler-Based Define-By-Run Reverse-Mode AD Library** (LMCS 2023)  
+  by Paulo Emílio de Vilhena and François Pottier  
+  ([doi](https://doi.org/10.46298/lmcs-19(4:5)2023))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/lmcs/VilhenaP23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/lmcs/VilhenaP23.html?view=bibtex))
+  ([pdf](https://devilhena-paulo.github.io/files/verifying-rmad.pdf))
+  ([Coq formalisation](https://gitlab.inria.fr/cambium/hazel/-/blob/master/papers/LMCS-RMAD.md))
+
 * **From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers** (OOPSLA 2023)  
   by Marius Müller, Philipp Schuster, Jonathan Lindegaard Starup, Klaus Ostermann, and Jonathan Immanuel Brachthäuser  
   ([doi](https://doi.org/10.1145/3622831))
@@ -305,6 +313,14 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/LutzeMSB23.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/LutzeMSB23.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3607846))
+
+* **A Type System for Effect Handlers and Dynamic Labels** (ESOP 2023)  
+  by Paulo Emílio de Vilhena and François Pottier  
+  ([doi](https://link.springer.com/chapter/10.1007/978-3-031-30044-8_9))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/esop/VilhenaP23.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/VilhenaP23.html?view=bibtex))
+  ([pdf](https://devilhena-paulo.github.io/files/tes.pdf))
+  ([Coq formalisation](https://gitlab.inria.fr/cambium/tes))
 
 * **Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects** (POPL 2023)  
   by Casper Bach Poulsen and Cas van der Rest  
@@ -504,12 +520,13 @@ in various programming languages.
   by Casper Bach Poulsen, Cas van der Rest, and Tom Schrijvers  
   ([pdf](https://casvdrest.github.io/staged-effects.agda/pepm21.pdf))
 
-* **A separation logic for effect handlers** (POPL 2021)  
+* **A Separation Logic for Effect Handlers** (POPL 2021)  
   by Paulo Emílio de Vilhena and François Pottier  
   ([doi](https://doi.org/10.1145/3434314))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/VilhenaP21.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/VilhenaP21.html?view=bibtex))
-  ([pdf](https://inria.hal.science/hal-03049514v1/document))
+  ([pdf](https://devilhena-paulo.github.io/files/separation-logic-effect-handlers.pdf))
+  ([Coq formalisation](https://gitlab.inria.fr/cambium/hazel))
 
 * **Asynchronous effects** (POPL 2021)  
   by Danel Ahman and Matija Pretnar  

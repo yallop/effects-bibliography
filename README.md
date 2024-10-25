@@ -55,6 +55,10 @@ in various programming languages.
   by Microsoft Research and Inria  
   ([www](https://fstar-lang.org))
 
+* **Fram**: programming language with lexically-scoped effect handlers and generalized labelled parameters  
+  by Patrycja Balik and Piotr Polesiuk  
+  ([GitHub](https://github.com/fram-lang/dbl))
+
 * **Frank**: programming language with first-class handlers, invisible effect variables, and multihandlers  
   by Sam Lindley, Conor McBride, and Craig McLaughlin  
   ([GitHub](https://github.com/frank-lang/frank))

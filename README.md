@@ -222,8 +222,8 @@ in various programming languages.
 
 ### 2024
 
-* **Specification and Verification for Unrestricted Algebraic Effects and Handling** (ICFP 2024)
-  by Yahui Song, Darius Foo, and Wei-Ngan Chin
+* **Specification and Verification for Unrestricted Algebraic Effects and Handling** (ICFP 2024)  
+  by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([doi](https://dl.acm.org/doi/10.1145/3674656))
   ([pdf](https://www.comp.nus.edu.sg/~yahuis/ICFP24/ICFP2024_TR.pdf))
 

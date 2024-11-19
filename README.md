@@ -55,6 +55,11 @@ in various programming languages.
   by Microsoft Research and Inria  
   ([www](https://fstar-lang.org))
 
+* **Flix**: a functional programming language with effects and handlers, with inference based on Boolean unification  
+  by Magnus Madsen, Matthew Lutze, and Jonathan Lindegaard Starup  
+  ([www](https://flix.dev))
+  ([GitHub](https://github.com/flix/flix))
+
 * **Fram**: programming language with lexically-scoped effect handlers and generalized labelled parameters  
   by Patrycja Balik and Piotr Polesiuk  
   ([GitHub](https://github.com/fram-lang/dbl))
@@ -270,6 +275,13 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/conf/pepm/TsuyamaCM24.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/pepm/TsuyamaCM24.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3635800.3636968))
+
+* **Associated Effects: Flexible Abstractions for Effectful Programming** (PLDI 2024)  
+  by Matthew Lutze and Magnus Madsen  
+  ([doi](https://doi.org/10.1145/365639))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/LutzeM24.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/LutzeM24.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3656393https://dl.acm.org/doi/pdf/10.1145/3656393))
 
 ### 2023
 

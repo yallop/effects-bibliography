@@ -1804,7 +1804,7 @@ in various programming languages.
 
 * **Enhancing a Modular Effectful Programming Language** (MSc Dissertation, The University of Edinburgh)  
   by Lukas Convent  
-  ([pdf](http://lukas.convnet.de/proj/master/thesis.pdf))
+  ([pdf](http://lukas.convnet.de/proj/master/res/thesis.pdf))
 
 * **Fibred computational effects** (PhD Dissertation, The University of Edinburgh)  
   by Danel Ahman  

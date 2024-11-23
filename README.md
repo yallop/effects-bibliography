@@ -667,7 +667,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/978-3-030-57761-2_8))
   ([dblp](https://dblp.uni-trier.de/rec/conf/sfp/KawaharaK20.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/sfp/KawaharaK20.html?view=bibtex))
-  ([pdf](http://logic.cs.tsukuba.ac.jp/~sat/pdf/tfp2020.pdf))
+  ([pdf](https://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_10.pdf))
 
 * **Generalized monoidal effects and handlers** (JFP 2020)  
   by Ruben P. Pieters, Exequiel Rivas, and Tom Schrijvers  

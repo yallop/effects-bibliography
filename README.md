@@ -1679,7 +1679,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1109/LICS.1989.39155))
   ([dblp](https://dblp.uni-trier.de/rec/conf/lics/Moggi89.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/lics/Moggi89.html?view=bibtex))
-  ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf))
+  ([pdf](http://www.cs.cmu.edu/~crary/819-f09/Moggi89.pdf))
 
 * **An abstract view of programming languages** (Ed. Uni. Tech Report, 1989)  
   by Eugenio Moggi

@@ -1656,7 +1656,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1016/0890-5401(91)90052-4))
   ([dblp](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html?view=bibtex))
-  ([pdf](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf))
+  ([pdf](https://core.ac.uk/download/pdf/82259574.pdf))
 
 ### 1990
 

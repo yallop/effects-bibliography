@@ -1716,6 +1716,10 @@ in various programming languages.
 
 ### 2024
 
+* **Relational Models for a Language with Effect Capabilities** (MSc Dissertation, University of Wrocław)  
+  by Patrycja Balik  
+  ([pdf](https://ii.uni.wroc.pl/media/uploads/2024/12/01/balik-patrycja-praca.pdf))
+
 * **Algebraic Effects and Handlers for Arrows** (PhD Dissertation, Kyoto University)  
   by Takahiro Sanada  
   ([pdf](https://www.kurims.kyoto-u.ac.jp/~tsanada/papers/phdthesis.pdf))

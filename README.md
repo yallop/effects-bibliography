@@ -227,6 +227,13 @@ in various programming languages.
 
 ### 2024
 
+* **Lexical Effect Handlers, Directly** (OOPSLA 2024)  
+  by Cong Ma, Zhaoyi Ge, Edward Lee, and Yizhou Zhang  
+  ([doi](https://doi.org/10.1145/3689770))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/MaGLZ24.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/MaGLZ24.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3689770))
+
 * **Specification and Verification for Unrestricted Algebraic Effects and Handling** (ICFP 2024)  
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([doi](https://dl.acm.org/doi/10.1145/3674656))
@@ -1124,6 +1131,13 @@ in various programming languages.
   ([pdf](https://arxiv.org/pdf/1605.06938))
 
 ### 2016
+
+* **Accepting blame for safe tunneled exceptions** (PLDI 2016)  
+  by Yizhou Zhang, Guido Salvaneschi, Quinn Beightol, Barbara Liskov, and Andrew C. Myers  
+  ([doi](https://doi.org/10.1145/2908080.2908086))
+  ([dblp](https://dblp.org/rec/conf/pldi/ZhangSBLM16.html))
+  ([bibtex](https://dblp.org/rec/conf/pldi/ZhangSBLM16.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/2908080.2908086))
 
 * **Combining effects and coeffects via grading** (ICFP 2016)  
   by Marco Gaboardi, Shin-ya Katsumata, Dominic A. Orchard, Flavien Breuvart, and Tarmo Uustalu  

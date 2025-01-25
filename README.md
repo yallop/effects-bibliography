@@ -931,7 +931,6 @@ in various programming languages.
 
 * **Automatic Reparameterisation in Probabilistic Programming** (AABI 2018)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
-  ([pdf](http://approximateinference.org/2018/accepted/GorinovaEtAl2018.pdf))
 
 * **Effect Handling for Composable Program Transformations in Edward2** (PROBPROG 2018)  
   by Dave Moore and Maria I. Gorinova  

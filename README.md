@@ -1876,4 +1876,4 @@ in various programming languages.
 
 ---
 
-Status of links at last commit: ![Build Status](https://github.com/yallop/effects-bibliography/workflows/checklinks/badge.svg)
+Status of links at last commit: [![Links](https://github.com/yallop/effects-bibliography/actions/workflows/checklinks.yml/badge.svg)](https://github.com/yallop/effects-bibliography/actions/workflows/checklinks.yml)

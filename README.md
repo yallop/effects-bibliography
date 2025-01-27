@@ -1863,6 +1863,11 @@ in various programming languages.
 
 ### 2019
 
+* **Modular probabilistic programming with algebraic effects** (MSc Dissertation, University of Edinburgh)  
+  by Oliver Goldstein  
+  ([doi](http://dx.doi.org/10.7488/era/5485))
+  ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/42934/GoldsteinO_2019.pdf))
+
 * **A Type System for Dynamic Instances** (MSc Dissertation, TU Delft)  
   by Albert ten Napel  
   ([pdf](https://repository.tudelft.nl/islandora/object/uuid:36d382d8-3ba4-4825-b718-a080b01b0649/datastream/OBJ/download))

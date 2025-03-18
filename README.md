@@ -225,6 +225,23 @@ in various programming languages.
 
 ## Papers
 
+### 2025
+
+* **Affect: An Affine Type and Effect System** (POPL 2025)  
+  by Orpheas van Rooij and Robbert Krebbers  
+  ([doi](https://doi.org/10.1145/3704841))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/RooijK25.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/RooijK25.html?view=bibtex))
+  ([pdf](https://iris-project.org/pdfs/2025-popl-affect.pdf))
+  ([artifact](https://zenodo.org/records/14198790))
+
+* **Algebraic Temporal Effects: Temporal Verification of Recursively Typed Higher-Order Programs** (POPL 2025)  
+  by Taro Sekiyama and Hiroshi Unno  
+  ([doi](https://doi.org/10.1145/3704914))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/SekiyamaU25.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/SekiyamaU25.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3704914))
+
 ### 2024
 
 * **Signature restriction for polymorphic algebraic effects** (JFP 2024)  

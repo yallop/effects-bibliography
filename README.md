@@ -90,6 +90,10 @@ in various programming languages.
   by Daan Leijen  
   ([GitHub](https://github.com/koka-lang/koka))
 
+* **Lexa**: a language with lexical effect handlers that is compiled to stack switching  
+  by Cong Ma, Zhaoyi Ge, Edward Lee, and Yizhou Zhang  
+  ([GitHub](https://github.com/lexa-lang/lexa))
+
 * **Links effect handlers**: an effect handlers extension for the Links web programming language  
   by Daniel Hillerström and Sam Lindley  
   ([www](https://links-lang.org))

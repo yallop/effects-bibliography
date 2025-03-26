@@ -229,7 +229,80 @@ in various programming languages.
 
 ## Papers
 
+### 2025
+
+* **Affect: An Affine Type and Effect System** (POPL 2025)  
+  by Orpheas van Rooij and Robbert Krebbers  
+  ([doi](https://doi.org/10.1145/3704841))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/RooijK25.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/RooijK25.html?view=bibtex))
+  ([pdf](https://iris-project.org/pdfs/2025-popl-affect.pdf))
+  ([artifact](https://zenodo.org/records/14198790))
+
+* **Algebraic Temporal Effects: Temporal Verification of Recursively Typed Higher-Order Programs** (POPL 2025)  
+  by Taro Sekiyama and Hiroshi Unno  
+  ([doi](https://doi.org/10.1145/3704914))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/SekiyamaU25.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/SekiyamaU25.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3704914))
+
 ### 2024
+
+* **Signature restriction for polymorphic algebraic effects** (JFP 2024)  
+  by Taro Sekiyama, Takeshi Tsukada, and Atsushi Igarashi  
+  ([doi](https://doi.org/10.1017/S0956796824000054))
+  ([dblp](https://dblp.org/rec/journals/jfp/SekiyamaTI24.html))
+  ([bibtex](https://dblp.org/rec/journals/jfp/SekiyamaTI24.html?view=bibtex))
+  ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1FCD90F7590C031791DBE08DCD65CED5/S0956796824000054a.pdf/signature_restriction_for_polymorphic_algebraic_effects.pdf))
+
+* **Parallel Algebraic Effect Handlers** (ICFP 2024)  
+  by Ningning Xie, Daniel D. Johnson, Dougal Maclaurin, and Adam Paszke  
+  ([doi](https://doi.org/10.1145/3674651))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/Xie0MP24.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/Xie0MP24.html?view=bibtex))
+  ([pdf](https://xnning.github.io/papers/icfp24parallel.pdf))
+
+* **Effect Handlers for C via Coroutines** (OOPSLA 2024)  
+  by Mario Alvarez-Picallo, Teodoro Freund, Dan R. Ghica, and Sam Lindley  
+  ([doi](https://doi.org/10.1145/3689798))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/Alvarez-Picallo24.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/Alvarez-Picallo24.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3689798))
+
+* **A framework for higher-order effects & handlers** (SCP 2024)  
+  by Birthe van den Berg and Tom Schrijvers  
+  ([doi](https://doi.org/10.1016/j.scico.2024.103086))
+  ([dblp](https://dblp.org/rec/journals/scp/BergS24.html))
+  ([bibtex](https://dblp.org/rec/journals/scp/BergS24.html?view=bibtex))
+  ([pdf](https://lirias.kuleuven.be/retrieve/724996))
+
+* **Making a Curry Interpreter using Effects and Handlers** (Haskell 2024)  
+  by Niels Bunkenburg and Nicolas Wu  
+  ([doi](https://doi.org/10.1145/3677999.3678279))
+  ([dblp](https://dblp.org/rec/conf/haskell/BunkenburgW24.html))
+  ([bibtex](https://dblp.org/rec/conf/haskell/BunkenburgW24.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3677999.3678279))
+
+* **A Calculus for Scoped Effects & Handlers** (LMCS 2024)  
+  by Roger Bosman, Birthe van den Berg, Wenhao Tang, and Tom Schrijvers  
+  ([doi](https://doi.org/10.46298/lmcs-20(4:17)2024))
+  ([dblp](https://dblp.org/rec/journals/lmcs/BosmanBTS24.html))
+  ([bibtex](https://dblp.org/rec/journals/lmcs/BosmanBTS24.html?view=bibtex))
+  ([pdf](https://lmcs.episciences.org/14832/pdf))
+
+* **Algebraic effects and handlers for arrows** (JFP 2024)  
+  by Takahiro Sanada  
+  ([doi](https://doi.org/10.1017/S0956796824000066))
+  ([dblp](https://dblp.org/rec/journals/jfp/Sanada24.html))
+  ([bibtex](https://dblp.org/rec/journals/jfp/Sanada24.html?view=bibtex))
+  ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/31638FCCC07130C30C42853CF0E0A4C2/S0956796824000066a.pdf/algebraic-effects-and-handlers-for-arrows.pdf))
+
+* **Scoped Effects as Parameterized Algebraic Theories** (ESOP 2024)  
+  by Sam Lindley, Cristina Matache, Sean Moss, Sam Staton, Nicolas Wu, and Zhixuan Yang  
+  ([doi](https://doi.org/10.1007/978-3-031-57262-3_1))
+  ([dblp](https://dblp.org/rec/conf/esop/LindleyMMSWY24.html))
+  ([bibtex](https://dblp.org/rec/conf/esop/LindleyMMSWY24.html?view=bibtex))
+  ([pdf](https://arxiv.org/pdf/2402.03103))
 
 * **Lexical Effect Handlers, Directly** (OOPSLA 2024)  
   by Cong Ma, Zhaoyi Ge, Edward Lee, and Yizhou Zhang  
@@ -240,7 +313,7 @@ in various programming languages.
 
 * **Specification and Verification for Unrestricted Algebraic Effects and Handling** (ICFP 2024)  
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
-  ([doi](https://dl.acm.org/doi/10.1145/3674656))
+  ([doi](https://doi.org/10.1145/3674656))
   ([pdf](https://www.comp.nus.edu.sg/~yahuis/ICFP24/ICFP2024_TR.pdf))
 
 * **Asymptotic speedup via effect handlers** (JFP 2024)  
@@ -256,6 +329,13 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/books/sp/24/AndrieuxHR24.html))
   ([bibtex](https://dblp.uni-trier.de/rec/books/sp/24/AndrieuxHR24.html?view=bibtex))
   ([pdf](https://hal.science/hal-04388798/document))
+
+* **Algebraic Effects Meet Hoare Logic in Cubical Agda** (POPL 2024)  
+  by Donnacha Oisín Kidney, Zhixuan Yang, and Nicolas Wu  
+  ([doi](https://doi.org/10.1145/3632898))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/KidneyYW24.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/KidneyYW24.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632898))
 
 * **Soundly Handling Linearity** (POPL 2024)  
   by Wenhao Tang, Daniel Hillerström, Sam Lindley, and J. Garrett Morris  
@@ -935,7 +1015,6 @@ in various programming languages.
 
 * **Automatic Reparameterisation in Probabilistic Programming** (AABI 2018)  
   by Maria I. Gorinova, Dave Moore, and Matthew D. Hoffman  
-  ([pdf](http://approximateinference.org/2018/accepted/GorinovaEtAl2018.pdf))
 
 * **Effect Handling for Composable Program Transformations in Edward2** (PROBPROG 2018)  
   by Dave Moore and Maria I. Gorinova  
@@ -1720,6 +1799,18 @@ in various programming languages.
 
 ### 2024
 
+* **Runtime Verification through Algebraic Effect Handlers** (Masters Dissertation, University of Pisa)  
+  by Alessandro Scala  
+  ([pdf](https://etd.adm.unipi.it/theses/available/etd-06252024-164535/unrestricted/Runtime_Verification_Algebraic_Effect_Handlers.pdf))
+
+* **Efficient multishot algebraic effect handlers** (PhD Dissertation, University of Ljubljana)  
+  by Filip Koprivec  
+  ([pdf](https://repozitorij.uni-lj.si/Dokument.php?id=192065&lang=slv))
+
+* **Automatic differentiation via effects and handlers** (PhD Dissertation, University of Edinburgh)  
+  by Jesse Sigal  
+  ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/41919/Sigal2024.pdf?sequence=1&isAllowed=y))
+
 * **Relational Models for a Language with Effect Capabilities** (MSc Dissertation, University of Wrocław)  
   by Patrycja Balik  
   ([pdf](https://ii.uni.wroc.pl/media/uploads/2024/12/01/balik-patrycja-praca.pdf))
@@ -1792,6 +1883,11 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/phd/dnb/Brachthauser20.html?view=bibtex))
 
 ### 2019
+
+* **Modular probabilistic programming with algebraic effects** (MSc Dissertation, University of Edinburgh)  
+  by Oliver Goldstein  
+  ([doi](http://dx.doi.org/10.7488/era/5485))
+  ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/42934/GoldsteinO_2019.pdf))
 
 * **A Type System for Dynamic Instances** (MSc Dissertation, TU Delft)  
   by Albert ten Napel  
@@ -1881,4 +1977,4 @@ in various programming languages.
 
 ---
 
-Status of links at last commit: ![Build Status](https://github.com/yallop/effects-bibliography/workflows/checklinks/badge.svg)
+Status of links at last commit: [![Links](https://github.com/yallop/effects-bibliography/actions/workflows/checklinks.yml/badge.svg)](https://github.com/yallop/effects-bibliography/actions/workflows/checklinks.yml)

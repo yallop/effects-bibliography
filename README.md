@@ -77,6 +77,11 @@ in various programming languages.
   ([hackage](https://hackage.haskell.org/package/fused-effects))
   ([GitHub](https://github.com/robrix/fused-effects))
 
+* **Heftia**: a library for semantically-sound higher‑order algebraic effects and handlers in Haskell  
+  by Riyo  
+  ([GitHub](https://github.com/sayo-hs/heftia))
+  ([hackage](https://hackage.haskell.org/package/heftia-effects))
+
 * **Helium**: a functional programming language with effect handlers and an ML-like module system  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
   ([BitBucket](https://bitbucket.org/pl-uwr/helium))

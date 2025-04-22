@@ -78,7 +78,7 @@ in various programming languages.
   ([GitHub](https://github.com/robrix/fused-effects))
 
 * **Heftia**: a library for semantically-sound higher‑order algebraic effects and handlers in Haskell  
-  by Riyo  
+  by Riyo Yamada  
   ([GitHub](https://github.com/sayo-hs/heftia))
   ([hackage](https://hackage.haskell.org/package/heftia-effects))
 

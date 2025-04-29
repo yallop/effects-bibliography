@@ -159,9 +159,13 @@ in various programming languages.
   by Daan Leijen  
   ([GitHub](https://github.com/koka-lang/libmprompt))
 
-* **effects**: An experimental C++ runtime effect system
+* **effects**: An experimental C++ runtime effect system  
   by Michael Truog  
   ([GitHub](https://github.com/okeuday/effects))
+
+* **fx.go**: algebraic effects for Golang  
+  by Victor Borja  
+  ([GitHub](https://github.com/vic/fx.go))
 
 * **multicont**: continuations with multi-shot semantics in OCaml  
   by Daniel Hillerström  

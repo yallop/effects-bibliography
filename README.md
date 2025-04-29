@@ -180,6 +180,10 @@ in various programming languages.
   by Marcin Żebrowski  
   ([GitHub](https://github.com/marcinzh/enterprise))
 
+* **eff.go**: algebraic effects for Golang  
+  by Victor Borja  
+  ([GitHub](https://github.com/vic/eff.go))
+
 ## Tutorials
 
 ### 2022

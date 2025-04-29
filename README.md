@@ -159,7 +159,11 @@ in various programming languages.
   by Daan Leijen  
   ([GitHub](https://github.com/koka-lang/libmprompt))
 
-* **effects**: An experimental C++ runtime effect system
+* **eff.go**: algebraic effects for Golang  
+  by Victor Borja  
+  ([GitHub](https://github.com/vic/eff.go))
+
+* **effects**: An experimental C++ runtime effect system  
   by Michael Truog  
   ([GitHub](https://github.com/okeuday/effects))
 
@@ -179,10 +183,6 @@ in various programming languages.
 * **Enterprise**: library for creating HTTP services using algebraic effects and handlers (Turbolift)  
   by Marcin Żebrowski  
   ([GitHub](https://github.com/marcinzh/enterprise))
-
-* **eff.go**: algebraic effects for Golang  
-  by Victor Borja  
-  ([GitHub](https://github.com/vic/eff.go))
 
 ## Tutorials
 

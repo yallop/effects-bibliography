@@ -1980,6 +1980,31 @@ in various programming languages.
   by John M. Lucassen  
   ([pdf](https://apps.dtic.mil/sti/pdfs/ADA186930.pdf))
 
+
+## Talks
+
+  ### 2023
+
+  * **Delimited Continuations, Demystified** (Lambda Days 2023)  
+    by Alexis King  
+    ([talk](https://www.youtube.com/watch?v=TE48LsgVlIU))
+
+  ### 2022
+
+  * **Simple Functional Effects with Tag Unions** (YOW! 2022)  
+    by Richard Feldman  
+    ([talk](https://www.youtube.com/watch?v=7SidSvJcPd0))
+
+  ### 2020
+
+  * **Effects for Less** (ZuriHac 2020)  
+    by Alexis King  
+    ([talk](https://www.youtube.com/watch?v=0jI-AlWEwYI))
+
+  * **Handling Bidirectional Effects** (OOPSLA 2020)  
+    by Yizhou Zhang  
+    ([talk](https://www.youtube.com/watch?v=RLTEuZNtRCc))
+
 ---
 
 Status of links at last commit: [![Links](https://github.com/yallop/effects-bibliography/actions/workflows/checklinks.yml/badge.svg)](https://github.com/yallop/effects-bibliography/actions/workflows/checklinks.yml)

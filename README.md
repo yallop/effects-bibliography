@@ -1800,6 +1800,13 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/conf/iccl/JouvelotG88.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/iccl/JouvelotG88.html?view=bibtex))
 
+### 1986
+* **Integrating Functional and Imperative Programming** (LFP 1986)  
+  by David K. Gifford and John M. Lucassen  
+  ([doi](https://doi.org/10.1145/319838.319848))
+  ([dblp](https://dblp.org/rec/conf/lfp/GiffordL86.html))
+  ([bibtex](https://dblp.org/rec/conf/lfp/GiffordL86.html?view=bibtex))
+
 ## Theses and Dissertations
 
 ### 2024

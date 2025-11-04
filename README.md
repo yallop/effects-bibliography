@@ -1439,7 +1439,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1145/2503778.2503791))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovSS13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovSS13.html?view=bibtex))
-  ([pdf](https://www.cs.indiana.edu/~sabry/papers/exteff.pdf))
+  ([pdf](https://okmij.org/ftp/Haskell/extensible/exteff.pdf))
 
 * **Java UI : Effects for Controlling UI Object Access** (ECOOP 2013)  
   by Colin S. Gordon, Werner Dietl, Michael D. Ernst, and Dan Grossman  

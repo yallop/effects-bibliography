@@ -480,7 +480,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/978-3-031-21037-2_1))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/DvirKL22.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/DvirKL22.html?view=bibtex))
-  ([pdf](https://www.cs.tau.ac.il/~orilahav/papers/aplas22full.pdf))
+  ([pdf](https://denotational.co.uk/publications/dvir-kammar-lahav-algebraic-sc.pdf))
 
 * **First-class names for effect handlers** (OOPSLA 2022)  
   by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  

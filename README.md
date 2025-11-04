@@ -1612,7 +1612,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/3-540-36576-1_23))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/MoggiF03.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/MoggiF03.html?view=bibtex))
-  ([pdf](http://www.macs.hw.ac.uk/~jbw/ec-fp5-ist-fet-gc/reports/D1.1/MF02.pdf))
+  ([pdf](https://person.dibris.unige.it/moggi-eugenio/ftp/fossacs03.pdf))
 
 * **Algebraic Operations and Generic Effects** (Applied categorical structures, 2003)  
   by Gordon D. Plotkin and John Power  

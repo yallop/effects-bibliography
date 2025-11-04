@@ -1105,9 +1105,8 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/978-3-319-89884-1_12))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/SalehKPS18.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/SalehKPS18.html?view=bibtex))
-  ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf))
   ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf))
-  ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
+  ([technical report/extended version](https://arxiv.org/pdf/2005.13814))
 
 * **Handle with care: relational interpretation of algebraic effects and handlers** (POPL 2018)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  

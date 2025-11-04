@@ -1957,7 +1957,7 @@ in various programming languages.
   by Matija Pretnar  
   ([dblp](https://dblp.uni-trier.de/rec/phd/ethos/Pretnar10.html))
   ([bibtex](https://dblp.uni-trier.de/rec/phd/ethos/Pretnar10.html?view=bibtex))
-  ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
+  ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf?sequence=1&isAllowed=y))
 
 ### 1996
 

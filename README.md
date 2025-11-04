@@ -319,7 +319,7 @@ in various programming languages.
 * **Specification and Verification for Unrestricted Algebraic Effects and Handling** (ICFP 2024)  
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([doi](https://doi.org/10.1145/3674656))
-  ([pdf](https://www.comp.nus.edu.sg/~yahuis/ICFP24/ICFP2024_TR.pdf))
+  ([pdf](https://songyahui.github.io/ICFP24/ICFP2024_TR.pdf))
 
 * **Asymptotic speedup via effect handlers** (JFP 2024)  
   by Daniel Hillerström, Sam Lindley, and John Longley  

@@ -1145,7 +1145,7 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/conf/ifl/PietersSR17.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/ifl/PietersSR17.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf))
-  ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/617988/1/CW713.pdf))
+  ([technical report/extended version](https://www.cs.kuleuven.be/publicaties/rapporten/cw/CW713.pdf))
 
 * **Effekt: extensible algebraic effects in Scala (short paper)** (Scala 2017)  
   by Jonathan Immanuel Brachthäuser and Philipp Schuster  

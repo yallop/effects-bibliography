@@ -88,7 +88,7 @@ in various programming languages.
 
 * **Idris Effects**: library for algebraic effects and handlers in Idris - inspired by Eff language  
   by Edwin Brady  
-  ([www](https://www.idris-lang.org/docs/current/effects_doc/))
+  ([www](http://docs.idris-lang.org/en/latest/effects/))
   ([GitHub](https://github.com/idris-lang/Idris-dev))
 
 * **Koka**: a function-oriented language with effect inference  

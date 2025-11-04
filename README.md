@@ -1757,7 +1757,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1016/0890-5401(91)90052-4))
   ([dblp](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html?view=bibtex))
-  ([pdf](https://core.ac.uk/download/pdf/82259574.pdf))
+  ([pdf](https://www.cs.cmu.edu/~crary/819-f09/Moggi91.pdf))
 
 ### 1990
 

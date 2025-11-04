@@ -473,7 +473,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/978-3-031-21037-2_5))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/SongFC22.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/SongFC22.html?view=bibtex))
-  ([pdf](https://www.comp.nus.edu.sg/~yahuis/APLAS2022.pdf))
+  ([pdf](https://songyahui.github.io/APLAS2022.pdf))
 
 * **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)  
   by Yotam Dvir, Ohad Kammar, and Ori Lahav  

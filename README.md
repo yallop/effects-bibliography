@@ -88,7 +88,7 @@ in various programming languages.
 
 * **Idris Effects**: library for algebraic effects and handlers in Idris - inspired by Eff language  
   by Edwin Brady  
-  ([www](https://www.idris-lang.org/docs/current/effects_doc/))
+  ([www](http://docs.idris-lang.org/en/latest/effects/))
   ([GitHub](https://github.com/idris-lang/Idris-dev))
 
 * **Koka**: a function-oriented language with effect inference  
@@ -319,7 +319,7 @@ in various programming languages.
 * **Specification and Verification for Unrestricted Algebraic Effects and Handling** (ICFP 2024)  
   by Yahui Song, Darius Foo, and Wei-Ngan Chin  
   ([doi](https://doi.org/10.1145/3674656))
-  ([pdf](https://www.comp.nus.edu.sg/~yahuis/ICFP24/ICFP2024_TR.pdf))
+  ([pdf](https://songyahui.github.io/ICFP24/ICFP2024_TR.pdf))
 
 * **Asymptotic speedup via effect handlers** (JFP 2024)  
   by Daniel Hillerström, Sam Lindley, and John Longley  
@@ -473,14 +473,14 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/978-3-031-21037-2_5))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/SongFC22.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/SongFC22.html?view=bibtex))
-  ([pdf](https://www.comp.nus.edu.sg/~yahuis/APLAS2022.pdf))
+  ([pdf](https://songyahui.github.io/APLAS2022.pdf))
 
 * **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)  
   by Yotam Dvir, Ohad Kammar, and Ori Lahav  
   ([doi](https://doi.org/10.1007/978-3-031-21037-2_1))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/DvirKL22.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/DvirKL22.html?view=bibtex))
-  ([pdf](https://www.cs.tau.ac.il/~orilahav/papers/aplas22full.pdf))
+  ([pdf](https://denotational.co.uk/publications/dvir-kammar-lahav-algebraic-sc.pdf))
 
 * **First-class names for effect handlers** (OOPSLA 2022)  
   by Ningning Xie, Youyou Cong, Kazuki Ikemori, and Daan Leijen  
@@ -1105,9 +1105,8 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/978-3-319-89884-1_12))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/SalehKPS18.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/SalehKPS18.html?view=bibtex))
-  ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf))
   ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf))
-  ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
+  ([technical report/extended version](https://arxiv.org/pdf/2005.13814))
 
 * **Handle with care: relational interpretation of algebraic effects and handlers** (POPL 2018)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
@@ -1146,7 +1145,7 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/conf/ifl/PietersSR17.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/ifl/PietersSR17.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf))
-  ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/617988/1/CW713.pdf))
+  ([technical report/extended version](https://www.cs.kuleuven.be/publicaties/rapporten/cw/CW713.pdf))
 
 * **Effekt: extensible algebraic effects in Scala (short paper)** (Scala 2017)  
   by Jonathan Immanuel Brachthäuser and Philipp Schuster  
@@ -1439,7 +1438,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1145/2503778.2503791))
   ([dblp](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovSS13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/haskell/KiselyovSS13.html?view=bibtex))
-  ([pdf](https://www.cs.indiana.edu/~sabry/papers/exteff.pdf))
+  ([pdf](https://okmij.org/ftp/Haskell/extensible/exteff.pdf))
 
 * **Java UI : Effects for Controlling UI Object Access** (ECOOP 2013)  
   by Colin S. Gordon, Werner Dietl, Michael D. Ernst, and Dan Grossman  
@@ -1612,7 +1611,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/3-540-36576-1_23))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/MoggiF03.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/MoggiF03.html?view=bibtex))
-  ([pdf](http://www.macs.hw.ac.uk/~jbw/ec-fp5-ist-fet-gc/reports/D1.1/MF02.pdf))
+  ([pdf](https://person.dibris.unige.it/moggi-eugenio/ftp/fossacs03.pdf))
 
 * **Algebraic Operations and Generic Effects** (Applied categorical structures, 2003)  
   by Gordon D. Plotkin and John Power  
@@ -1758,7 +1757,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1016/0890-5401(91)90052-4))
   ([dblp](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/iandc/Moggi91.html?view=bibtex))
-  ([pdf](https://core.ac.uk/download/pdf/82259574.pdf))
+  ([pdf](https://www.cs.cmu.edu/~crary/819-f09/Moggi91.pdf))
 
 ### 1990
 
@@ -1965,7 +1964,7 @@ in various programming languages.
   by Matija Pretnar  
   ([dblp](https://dblp.uni-trier.de/rec/phd/ethos/Pretnar10.html))
   ([bibtex](https://dblp.uni-trier.de/rec/phd/ethos/Pretnar10.html?view=bibtex))
-  ([pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf))
+  ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/4611/Pretnar2010.pdf?sequence=1&isAllowed=y))
 
 ### 1996
 

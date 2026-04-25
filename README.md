@@ -234,6 +234,46 @@ in various programming languages.
 
 ## Papers
 
+### 2026
+
+- **Handling Exceptions and Effects with Automatic Resource Analysis** (OOPSLA 2026)  
+  by Ethan Chu, Jan Hoffmann, and Yiyang Guo
+
+- **An Equational Axiomatization of Dynamic Threads via Algebraic Effects: Presheaves on Finite Relations, Labelled Posets, and Parameterized Algebraic Theories** (POPL 2026)  
+  by Ohad Kammar, Jack Liell-Cock, Sam Lindley, Cristina Matache, and Sam Staton
+  ([doi](https://doi.org/10.1145/3776706))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/KammarLLMS26.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/KammarLLMS26.html?view=bibtex))
+  ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/dynamic-threads-draft-july2025.pdf))
+
+- **A Relational Separation Logic for Effect Handlers** (POPL 2026)  
+  by Paulo Emílio de Vilhena, Simcha van Collem, Ines Wright, and Robbert Krebbers
+  ([doi](https://doi.org/10.1145/3776676))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/VilhenaCWK26.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/VilhenaCWK26.html?view=bibtex))
+  ([pdf](https://iris-project.org/pdfs/2026-popl-blaze.pdf))
+
+- **Handling Scope Checks: A Comparative Framework for Dynamic Scope Extrusion Checks** (POPL 2026)  
+  by Michael Lee, Ningning Xie, Oleg Kiselyov, and Jeremy Yallop
+  ([doi](https://doi.org/10.1145/3776681))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/LeeXKY26.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/LeeXKY26.html?view=bibtex))
+  ([pdf](https://www.cl.cam.ac.uk/~jdy22/papers/handling-scope-checks.pdf))
+
+- **Rows and Capabilities as Modal Effects** (POPL 2026)  
+  by Wenhao Tang and Sam Lindley
+  ([doi](https://doi.org/10.1145/3776674))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/TangL26.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/TangL26.html?view=bibtex))
+  ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/met-encodings-draft-july2025.pdf))
+
+- **Handling Higher-Order Effectful Operations with Judgemental Monadic Laws** (POPL 2026)  
+  by Zhixuan Yang and Nicolas Wu
+  ([doi](https://doi.org/10.1145/3776678))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/YangW26.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/YangW26.html?view=bibtex))
+  ([pdf](https://arxiv.org/pdf/2511.05739))
+
 ### 2025
 
 - **Dynamic Wind for Effect Handlers** (OOPSLA 2025)  

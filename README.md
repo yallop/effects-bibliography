@@ -236,6 +236,28 @@ in various programming languages.
 
 ### 2025
 
+- **Dynamic Wind for Effect Handlers** (OOPSLA 2025)  
+  by David Voigt, Philipp Schuster, and Jonathan Immanuel Brachthäuser  
+  ([doi](https://doi.org/10.1145/3763155))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/VoigtSB25.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/VoigtSB25.html?view=bibtex))
+  ([pdf](https://se.cs.uni-tuebingen.de/publications/voigt2025dynamic.pdf))
+
+- **Tracing Just-in-time Compilation for Effects and Handlers** (OOPSLA 2025)  
+  by Marcial Gaißert, CF Bolz-Tereick, and Jonathan Immanuel Brachthäuser  
+  ([doi](https://doi.org/10.1145/3763085))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/GaissertBB25.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/GaissertBB25.html?view=bibtex))
+  ([pdf](https://se.cs.uni-tuebingen.de/publications/gaissert2025tracing.pdf))
+
+- **Zero-Overhead Lexical Effect Handlers** (OOPSLA 2025)  
+  by Cong Ma, Zhaoyi Ge, Jonghyun Jung, and Yizhou Zhang  
+  ([doi](https://doi.org/10.1145/3763177))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/0009GJ025.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/0009GJ025.html?view=bibtex))
+  ([pdf](https://cs.uwaterloo.ca/~yizhou/papers/zero-oopsla2025.pdf))
+  ([pdf (extended version)](https://cs.uwaterloo.ca/~yizhou/papers/zero-oopsla2025-tr.pdf))
+
 * **Affect: An Affine Type and Effect System** (POPL 2025)  
   by Orpheas van Rooij and Robbert Krebbers  
   ([doi](https://doi.org/10.1145/3704841))

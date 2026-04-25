@@ -298,6 +298,13 @@ in various programming languages.
   ([pdf](https://cs.uwaterloo.ca/~yizhou/papers/zero-oopsla2025.pdf))
   ([pdf (extended version)](https://cs.uwaterloo.ca/~yizhou/papers/zero-oopsla2025-tr.pdf))
 
+* **Handling the Selection Monad** (PLDI 2025)  
+  by Gordon Plotkin and Ningning Xie  
+  ([doi](https://doi.org/10.1145/3729321))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/PlotkinX25.html?view=bibtex))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/PlotkinX25.html))
+  ([pdf](https://xnning.github.io/papers/pldi25selection.pdf))
+
 * **Affect: An Affine Type and Effect System** (POPL 2025)  
   by Orpheas van Rooij and Robbert Krebbers  
   ([doi](https://doi.org/10.1145/3704841))

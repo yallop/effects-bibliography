@@ -261,7 +261,7 @@ in various programming languages.
   ([pdf](https://www.cl.cam.ac.uk/~jdy22/papers/handling-scope-checks.pdf))
 
 - **Rows and Capabilities as Modal Effects** (POPL 2026)  
-  by Wenhao Tang and Sam Lindley
+  by Wenhao Tang and Sam Lindley  
   ([doi](https://doi.org/10.1145/3776674))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/TangL26.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/TangL26.html?view=bibtex))
@@ -327,8 +327,8 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/SekiyamaU25.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3704914))
 
-* **From High to Low: Simulating Nondeterminism and State with State**
-  by Wenhao Tang and Tom Schrijvers
+* **From High to Low: Simulating Nondeterminism and State with State** (JFP 2025)  
+  by Wenhao Tang and Tom Schrijvers  
   ([doi](https://doi.org/10.1017/s0956796824000133))
   ([dblp](https://dblp.org/rec/journals/jfp/TangS24.html))
   ([bibtex](https://dblp.org/rec/journals/jfp/TangS24.html?view=bibtex))

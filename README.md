@@ -327,6 +327,13 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/SekiyamaU25.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3704914))
 
+* **From High to Low: Simulating Nondeterminism and State with State**
+  by Wenhao Tang and Tom Schrijvers
+  ([doi](https://doi.org/10.1017/s0956796824000133))
+  ([dblp](https://dblp.org/rec/journals/jfp/TangS24.html))
+  ([bibtex](https://dblp.org/rec/journals/jfp/TangS24.html?view=bibtex))
+  ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/190FBF349B0D32D56992C566CDBF5ED5/S0956796824000133a.pdf/from-high-to-low-simulating-nondeterminism-and-state-with-state.pdf))
+
 ### 2024
 
 * **Signature restriction for polymorphic algebraic effects** (JFP 2024)  

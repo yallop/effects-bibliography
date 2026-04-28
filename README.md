@@ -299,7 +299,7 @@ in various programming languages.
   ([pdf (extended version)](https://cs.uwaterloo.ca/~yizhou/papers/zero-oopsla2025-tr.pdf))
 
 - **Modal Effect Types** (OOPSLA 2025)  
-  by Wenhao Tang, Leo White, Stephen Dolan, Daniel Hillerström, Sam Lindley, and Anton Lorenzen
+  by Wenhao Tang, Leo White, Stephen Dolan, Daniel Hillerström, Sam Lindley, and Anton Lorenzen  
   ([doi](https://dl.acm.org/doi/10.1145/3720476))
   ([dblp](https://dblp.org/rec/journals/pacmpl/TangWDHLL25.html))
   ([bibtex](https://dblp.org/rec/journals/pacmpl/TangWDHLL25.html?view=bibtex))

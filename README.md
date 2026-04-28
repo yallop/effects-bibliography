@@ -261,7 +261,7 @@ in various programming languages.
   ([pdf](https://www.cl.cam.ac.uk/~jdy22/papers/handling-scope-checks.pdf))
 
 - **Rows and Capabilities as Modal Effects** (POPL 2026)  
-  by Wenhao Tang and Sam Lindley
+  by Wenhao Tang and Sam Lindley  
   ([doi](https://doi.org/10.1145/3776674))
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/TangL26.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/TangL26.html?view=bibtex))
@@ -298,6 +298,13 @@ in various programming languages.
   ([pdf](https://cs.uwaterloo.ca/~yizhou/papers/zero-oopsla2025.pdf))
   ([pdf (extended version)](https://cs.uwaterloo.ca/~yizhou/papers/zero-oopsla2025-tr.pdf))
 
+- **Modal Effect Types** (OOPSLA 2025)  
+  by Wenhao Tang, Leo White, Stephen Dolan, Daniel Hillerström, Sam Lindley, and Anton Lorenzen  
+  ([doi](https://dl.acm.org/doi/10.1145/3720476))
+  ([dblp](https://dblp.org/rec/journals/pacmpl/TangWDHLL25.html))
+  ([bibtex](https://dblp.org/rec/journals/pacmpl/TangWDHLL25.html?view=bibtex))
+  ([pdf](https://arxiv.org/pdf/2407.11816))
+
 * **Handling the Selection Monad** (PLDI 2025)  
   by Gordon Plotkin and Ningning Xie  
   ([doi](https://doi.org/10.1145/3729321))
@@ -319,6 +326,13 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/SekiyamaU25.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/SekiyamaU25.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3704914))
+
+* **From High to Low: Simulating Nondeterminism and State with State** (JFP 2025)  
+  by Wenhao Tang and Tom Schrijvers  
+  ([doi](https://doi.org/10.1017/s0956796824000133))
+  ([dblp](https://dblp.org/rec/journals/jfp/TangS24.html))
+  ([bibtex](https://dblp.org/rec/journals/jfp/TangS24.html?view=bibtex))
+  ([pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/190FBF349B0D32D56992C566CDBF5ED5/S0956796824000133a.pdf/from-high-to-low-simulating-nondeterminism-and-state-with-state.pdf))
 
 ### 2024
 

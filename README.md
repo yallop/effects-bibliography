@@ -245,7 +245,7 @@ in various programming languages.
   by Ethan Chu, Jan Hoffmann, and Yiyang Guo
 
 - **Deciding not to Decide: Sound and Complete Effect Inference in the Presence of Higher-Rank Polymorphism** (ESOP 2026)  
-  by Patrycja Balik, Szymon Jędras, and Piotr Polesiuk 
+  by Patrycja Balik, Szymon Jędras, and Piotr Polesiuk  
   ([doi](https://doi.org/10.1007/978-3-032-22720-1_5))
   ([dblp](https://dblp.uni-trier.de/rec/conf/esop/BalikJP26.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/BalikJP26.html?view=bibtex))

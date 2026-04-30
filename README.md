@@ -243,6 +243,15 @@ in various programming languages.
 - **Handling Exceptions and Effects with Automatic Resource Analysis** (OOPSLA 2026)  
   by Ethan Chu, Jan Hoffmann, and Yiyang Guo
 
+- **Deciding not to Decide: Sound and Complete Effect Inference in the Presence of Higher-Rank Polymorphism** (ESOP 2026)  
+  by Patrycja Balik, Szymon Jędras, and Piotr Polesiuk 
+  ([doi](https://doi.org/10.1007/978-3-032-22720-1_5))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/esop/BalikJP26.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/esop/BalikJP26.html?view=bibtex))
+  ([pdf](https://link.springer.com/content/pdf/10.1007/978-3-032-22720-1_5.pdf))
+  ([Coq formalisation](https://doi.org/10.5281/zenodo.18197463))
+  ([Implementation](https://github.com/fram-lang/dbl/releases/tag/esop26))
+
 - **An Equational Axiomatization of Dynamic Threads via Algebraic Effects: Presheaves on Finite Relations, Labelled Posets, and Parameterized Algebraic Theories** (POPL 2026)  
   by Ohad Kammar, Jack Liell-Cock, Sam Lindley, Cristina Matache, and Sam Staton
   ([doi](https://doi.org/10.1145/3776706))

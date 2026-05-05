@@ -92,6 +92,10 @@ in various programming languages.
   ([www](http://docs.idris-lang.org/en/latest/effects/))
   ([GitHub](https://github.com/idris-lang/Idris-dev))
 
+* **Joint**: a Haskell library for algebraic effects based on functor composition
+  ([hackage](https://hackage.haskell.org/package/joint))
+  ([www](https://github.com/iokasimov/joint))
+ 
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  
   ([GitHub](https://github.com/koka-lang/koka))

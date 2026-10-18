@@ -371,6 +371,13 @@ in various programming languages.
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/Alvarez-Picallo24.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3689798))
 
+- **Effects and Coeffects in Call-by-Push-Value** (OOPSLA 2024)  
+  by Cassia Torczon, Emmanuel Suárez Acevedo, Shubh Agrawal, Joey Velez-Ginorio, and Stephanie Weirich  
+  ([doi](https://doi.org/10.1145/3689750))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/TorczonAAVW24.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/TorczonAAVW24.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3689750))
+
 * **A framework for higher-order effects & handlers** (SCP 2024)  
   by Birthe van den Berg and Tom Schrijvers  
   ([doi](https://doi.org/10.1016/j.scico.2024.103086))
@@ -461,6 +468,13 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/MoyDF24.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/MoyDF24.html?view=bibtex))
   ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632930))
+
+* **Explicit Effects and Effect Constraints in ReML** (POPL 2024)  
+  by Martin Elsman  
+  ([doi](https://doi.org/10.1145/3632921))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/Elsman24.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/Elsman24.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3632921))
 
 * **An Intrinsically Typed Compiler for Algebraic Effect Handlers** (PEPM 2024)  
   by Syouki Tsuyama, Youyou Cong, and Hidehiko Masuhara  
@@ -592,6 +606,13 @@ in various programming languages.
   ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/GhicaLBP22.html))
   ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/GhicaLBP22.html?view=bibtex))
   ([pdf](https://homepages.inf.ed.ac.uk/slindley/papers/cppeff.pdf))
+
+- **Coeffects for sharing and mutation** (OOPSLA 2022)  
+by Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco Servetto  
+  ([doi](https://doi.org/10.1145/3563319))
+  ([dblp](https://dblp.uni-trier.de/rec/journals/pacmpl/BianchiniDGZS22.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/journals/pacmpl/BianchiniDGZS22.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/3563319))
 
 * **Algebraic Effects for Extensible Dynamic Semantics** (Journal of Logic, Language and Information)  
   by Julian Grove and Jean-Philippe Bernardy  
@@ -1462,6 +1483,13 @@ in various programming languages.
   ([doi](https://doi.org/10.1145/2628136.2628149))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/SchwerterGT14.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/SchwerterGT14.html?view=bibtex))
+
+* **Coeffects: A calculus of context-dependent computation** (ICFP 2014)  
+  by Tomas Petricek, Dominic Orchard, and Alan Mycroft  
+  ([doi](https://doi.org/10.1145/2628136.2628160))
+  ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/PetricekOM14.html))
+  ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/PetricekOM14.html?view=bibtex))
+  ([pdf](https://dl.acm.org/doi/pdf/10.1145/2628136.2628160))
 
 * **Effect handlers in scope** (Haskell 2014)  
   by Nicolas Wu, Tom Schrijvers, and Ralf Hinze  

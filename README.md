@@ -584,7 +584,7 @@ in various programming languages.
   ([doi](https://doi.org/10.1007/978-3-031-21037-2_5))
   ([dblp](https://dblp.uni-trier.de/rec/conf/aplas/SongFC22.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/aplas/SongFC22.html?view=bibtex))
-  ([pdf](https://songyahui.github.io/APLAS2022.pdf))
+  ([pdf](https://songyahui.github.io/papers/APLAS2022.pdf))
 
 * **An Algebraic Theory for Shared-State Concurrency** (APLAS 2022)  
   by Yotam Dvir, Ohad Kammar, and Ori Lahav  
@@ -1263,7 +1263,7 @@ by Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco
   ([dblp](https://dblp.uni-trier.de/rec/conf/ifl/PietersSR17.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/ifl/PietersSR17.html?view=bibtex))
   ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf))
-  ([technical report/extended version](https://www.cs.kuleuven.be/publicaties/rapporten/cw/CW713.pdf))
+  ([technical report/extended version](https://web.archive.org/web/20260215060726/https://www.cs.kuleuven.be/publicaties/rapporten/cw/CW713.pdf))
 
 * **Effekt: extensible algebraic effects in Scala (short paper)** (Scala 2017)  
   by Jonathan Immanuel Brachthäuser and Philipp Schuster  
@@ -1273,7 +1273,7 @@ by Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco
 
 * **Efficient Compilation of Algebraic Effects and Handlers** (2017)  
   by Matija Pretnar, Amr Hany Saleh, Axel Faes, and Tom Schrijvers  
-  ([technical report](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW708.pdf))
+  ([technical report](https://web.archive.org/web/20260411013437/https://www.cs.kuleuven.be/publicaties/rapporten/cw/CW708.pdf))
 
 * **Structured asynchrony with algebraic effects** (TyDe 2017)  
   by Daan Leijen  
@@ -1548,7 +1548,7 @@ by Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco
   ([doi](https://doi.org/10.1145/2500365.2500602))
   ([dblp](https://dblp.uni-trier.de/rec/conf/icfp/SculthorpeBGG13.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/icfp/SculthorpeBGG13.html?view=bibtex))
-  ([pdf](http://neilsculthorpe.com/publications/constrained-monad-problem.pdf))
+  ([pdf](https://ku-fpg.github.io/files/Sculthorpe-13-ConstrainedMonad.pdf))
 
 * **Handlers in action** (ICFP 2013)  
   by Ohad Kammar, Sam Lindley, and Nicolas Oury  
@@ -1736,7 +1736,7 @@ by Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco
   ([doi](https://doi.org/10.1007/3-540-36576-1_23))
   ([dblp](https://dblp.uni-trier.de/rec/conf/fossacs/MoggiF03.html))
   ([bibtex](https://dblp.uni-trier.de/rec/conf/fossacs/MoggiF03.html?view=bibtex))
-  ([pdf](https://person.dibris.unige.it/moggi-eugenio/ftp/fossacs03.pdf))
+  ([pdf](https://web.archive.org/web/20260411012828/https://person.dibris.unige.it/moggi-eugenio/ftp/fossacs03.pdf))
 
 * **Algebraic Operations and Generic Effects** (Applied categorical structures, 2003)  
   by Gordon D. Plotkin and John Power  
@@ -2008,7 +2008,7 @@ by Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco
 
 * **Relational reasoning for effects and handlers** (PhD Dissertation, The University of Edinburgh)  
   by Craig McLaughlin  
-  ([doi](http://dx.doi.org/10.7488/era/537))
+  ([doi](https://doi.org/10.7488/era/537))
   ([dblp](https://dblp.uni-trier.de/rec/phd/ethos/McLaughlin20.html))
   ([bibtex](https://dblp.uni-trier.de/rec/phd/ethos/McLaughlin20.html?view=bibtex))
   ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf?sequence=1&isAllowed=y))
@@ -2022,7 +2022,7 @@ by Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco
 
 * **Modular probabilistic programming with algebraic effects** (MSc Dissertation, University of Edinburgh)  
   by Oliver Goldstein  
-  ([doi](http://dx.doi.org/10.7488/era/5485))
+  ([doi](https://doi.org/10.7488/era/5485))
   ([pdf](https://era.ed.ac.uk/bitstream/handle/1842/42934/GoldsteinO_2019.pdf))
 
 * **A Type System for Dynamic Instances** (MSc Dissertation, TU Delft)  
@@ -2031,11 +2031,11 @@ by Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco
 
 * **Efficient Algebraic Effect Handlers** (PhD Dissertation, KU Leuven)  
   by Amr Hany Saleh  
-  ([pdf](https://lirias.kuleuven.be/retrieve/532832/))
+  ([pdf](https://lirias.kuleuven.be/retrieve/532832))
 
 * **Program Equivalence for Algebraic Effects via Modalities** (MSc Dissertation, University of Oxford)  
   by Cristina Matache  
-  ([pdf](https://homepages.inf.ed.ac.uk/cmatache/documents/m_diss.pdf))
+  ([pdf](https://arxiv.org/pdf/1902.04645))
 
 * **Defined algebraic operations** (PhD Dissertation, University of Birmingham)  
   by Bram Geron  

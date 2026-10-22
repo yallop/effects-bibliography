@@ -92,6 +92,11 @@ in various programming languages.
   ([www](http://docs.idris-lang.org/en/latest/effects/))
   ([GitHub](https://github.com/idris-lang/Idris-dev))
 
+* **Kaikai**: a functional language with algebraic effects, isolated fibers and Perceus reference counting, designed to be written by people and LLM agents together  
+  by Eduardo Díaz  
+  ([www](https://kaikai-lang.org/en/))
+  ([GitHub](https://github.com/kaikailang-org/kaikai))
+
 * **Koka**: a function-oriented language with effect inference  
   by Daan Leijen  
   ([GitHub](https://github.com/koka-lang/koka))
